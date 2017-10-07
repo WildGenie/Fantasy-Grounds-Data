@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="c6d6991de22d5f9cb5a4669ceb5b782e86d34023">
+	<reference>
+		<imagedata>
+			<img_cleric>
+				<image type="image">
+					<bitmap>images/Cleric.jpg</bitmap>
+				</image>
+			</img_cleric>
+			<img_part1_5_jpg>
+				<image type="image">
+					<bitmap>images/Part1-5.jpg</bitmap>
+				</image>
+			</img_part1_5_jpg>
+			<img_part1_8_jpg>
+				<image type="image">
+					<bitmap>images/Part1-8.jpg</bitmap>
+				</image>
+			</img_part1_8_jpg>
+		</imagedata>
+	</reference>
+</root>

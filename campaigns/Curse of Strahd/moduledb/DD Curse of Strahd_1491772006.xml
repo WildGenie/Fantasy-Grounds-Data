@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="bb68c9109652706aac456416709181fe0d7bb8b3">
+	<image>
+		<category name="Curse of Strahd - DM Maps" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Handouts" mergeid="" baseicon="8" decalicon="1">
+			<id-00209>
+				<image type="image">
+					<bitmap>Strahd's Invitation.jpg</bitmap>
+				</image>
+			</id-00209>
+			<id-00210>
+				<image type="image">
+					<bitmap>Tome of Strahd 1.jpg</bitmap>
+				</image>
+			</id-00210>
+			<id-00211>
+				<image type="image">
+					<bitmap>Tome of Strahd 2.jpg</bitmap>
+				</image>
+			</id-00211>
+		</category>
+		<category name="Curse of Strahd - Maps" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Monsters" mergeid="" baseicon="8" decalicon="1">
+			<id-00030>
+				<image type="image">
+					<bitmap>Barovian Witch.jpg</bitmap>
+				</image>
+			</id-00030>
+			<id-00113>
+				<image type="image">
+					<bitmap>Strahd's Animated Armor.jpg</bitmap>
+				</image>
+			</id-00113>
+			<id-00223>
+				<image type="image">
+					<bitmap>Black Pudding.jpg</bitmap>
+				</image>
+			</id-00223>
+		</category>
+		<category name="Curse of Strahd - NPCs" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Portraits" mergeid="" baseicon="8" decalicon="1">
+			<id-00031>
+				<image type="image">
+					<bitmap>Barovians.jpg</bitmap>
+				</image>
+			</id-00031>
+			<id-00035>
+				<image type="image">
+					<bitmap>Count Strahd von Zarovich.jpg</bitmap>
+				</image>
+			</id-00035>
+			<id-00112>
+				<image type="image">
+					<bitmap>Strahd Epilogue.jpg</bitmap>
+				</image>
+			</id-00112>
+			<id-00114>
+				<image type="image">
+					<bitmap>Strahd's Crest.jpg</bitmap>
+				</image>
+			</id-00114>
+			<id-00127>
+				<image type="image">
+					<bitmap>Tome of Strahd.jpg</bitmap>
+				</image>
+			</id-00127>
+		</category>
+		<category name="Curse of Strahd - Tarokka" mergeid="" baseicon="8" decalicon="1">
+		</category>
+	</image>
+</root>

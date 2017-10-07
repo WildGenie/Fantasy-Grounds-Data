@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="38bc3aaeef5f3e9f5e59989137282e40af0d675a">
+	<battle>
+		<category name="DMG - Sylvan Forest Encounters" baseicon="2" decalicon="1">
+			<bat_p2_02forestencounter>
+				<locked type="number">1</locked>
+				<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+				</category>
+			</bat_p2_02forestencounter>
+		</category>
+	</battle>
+	<image>
+		<category name="Artwork - DD Dungeon Masters Guide" baseicon="2" decalicon="1">
+		</category>
+		<category name="Magic Items - DD Dungeon Masters Guide" baseicon="2" decalicon="1">
+		</category>
+		<category name="Maps - DD Dungeon Masters Guide" baseicon="2" decalicon="1">
+			<img_map_7_jpg>
+				<public />
+				<isidentified type="number">0</isidentified>
+				<locked type="number">1</locked>
+			</img_map_7_jpg>
+		</category>
+		<category name="NPCs - DD Dungeon Masters Guide" baseicon="2" decalicon="1">
+		</category>
+		<category name="Races - DD Dungeon Masters Guide" baseicon="2" decalicon="1">
+		</category>
+	</image>
+</root>

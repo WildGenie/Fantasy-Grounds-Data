@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.2" release="7|CoreRPG:3" integrity="536fa3ff8e2049d2f7c72f32418b90c332e6ea1a">
+	<lists>
+		<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+			<storytemplates>
+				<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+					<bycategory>
+						<public />
+						<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+							<groups>
+								<public />
+								<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+									<typecategorydmg>
+										<public />
+										<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+													<artifactproperties>
+														<public />
+													</artifactproperties>
+													<dungeonadventureframework>
+														<public />
+													</dungeonadventureframework>
+													<event_basedadventureframework>
+														<public />
+													</event_basedadventureframework>
+													<genericadventureframework>
+														<public />
+													</genericadventureframework>
+													<magicitembackstory>
+														<public />
+													</magicitembackstory>
+													<mystery_basedadventureframework>
+														<public />
+													</mystery_basedadventureframework>
+													<randomdungeonchamber>
+														<public />
+													</randomdungeonchamber>
+													<randomdungeondoor>
+														<public />
+													</randomdungeondoor>
+													<randomdungeonpassage>
+														<public />
+													</randomdungeonpassage>
+													<randomdungeonstairs>
+														<public />
+													</randomdungeonstairs>
+													<randomdungeonstartingarea>
+														<public />
+													</randomdungeonstartingarea>
+													<randomnpcdescription>
+														<public />
+													</randomnpcdescription>
+													<randomsettlement>
+														<public />
+													</randomsettlement>
+													<sentientmagicitempersona>
+														<public />
+													</sentientmagicitempersona>
+													<urbanchaseplanner>
+														<public />
+													</urbanchaseplanner>
+													<wildernessadventureframework>
+														<public />
+													</wildernessadventureframework>
+													<wildernesschaseplanner>
+														<public />
+													</wildernesschaseplanner>
+												</category>
+											</index>
+										</category>
+									</typecategorydmg>
+								</category>
+							</groups>
+						</category>
+					</bycategory>
+				</category>
+			</storytemplates>
+		</category>
+	</lists>
+	<storytemplate>
+		<category name="DMG" baseicon="2" decalicon="1">
+			<genericadventureframework>
+			</genericadventureframework>
+		</category>
+	</storytemplate>
+</root>

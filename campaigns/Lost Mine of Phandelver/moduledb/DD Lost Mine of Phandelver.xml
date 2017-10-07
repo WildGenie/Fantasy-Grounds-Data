@@ -1,0 +1,1584 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.2" release="7|CoreRPG:3" integrity="0e2a57bc84067e8d2b1f2fccfedf0460828e0ef7">
+	<battle>
+		<category name="LMoP - Part 1" baseicon="2" decalicon="1">
+			<bat_p1_03goblinambush>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>partysheet.image</recordname>
+												</imageref>
+												<imagex type="number">376</imagex>
+												<imagey type="number">226</imagey>
+											</id-00001>
+											<id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>partysheet.image</recordname>
+												</imageref>
+												<imagex type="number">376</imagex>
+												<imagey type="number">326</imagey>
+											</id-00002>
+											<id-00003>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>partysheet.image</recordname>
+												</imageref>
+												<imagex type="number">276</imagex>
+												<imagey type="number">276</imagey>
+											</id-00003>
+											<id-00004>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>partysheet.image</recordname>
+												</imageref>
+												<imagex type="number">276</imagex>
+												<imagey type="number">126</imagey>
+											</id-00004>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+						</category>
+					</npclist>
+				</category>
+			</bat_p1_03goblinambush>
+			<bat_p1_04_02_goblinblind>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+												</imageref>
+												<imagex type="number">506</imagex>
+												<imagey type="number">543</imagey>
+											</id-id-00001>
+											<id-id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+												</imageref>
+												<imagey type="number">578</imagey>
+											</id-id-00002>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+						</category>
+					</npclist>
+				</category>
+			</bat_p1_04_02_goblinblind>
+			<bat_p1_04_03_kennel>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+												</imageref>
+											</id-id-00001>
+											<id-id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+												</imageref>
+											</id-id-00002>
+											<id-id-00003>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+												</imageref>
+											</id-id-00003>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+						</category>
+					</npclist>
+				</category>
+			</bat_p1_04_03_kennel>
+			<bat_p1_04_05_overpass>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+												</imageref>
+											</id-id-00001>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+						</category>
+					</npclist>
+				</category>
+			</bat_p1_04_05_overpass>
+			<bat_p1_04_07_twinpoolscave>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+												</imageref>
+											</id-id-00001>
+											<id-id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+												</imageref>
+											</id-id-00002>
+											<id-id-00003>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+												</imageref>
+											</id-id-00003>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+						</category>
+					</npclist>
+				</category>
+			</bat_p1_04_07_twinpoolscave>
+			<bat_p1_04_08_klarg_scave>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+												</imageref>
+												<imagex type="number">856</imagex>
+												<imagey type="number">473</imagey>
+											</id-id-00001>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+							<id-00002>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+												</imageref>
+												<imagex type="number">891</imagex>
+											</id-id-00001>
+											<id-id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+												</imageref>
+												<imagex type="number">751</imagex>
+												<imagey type="number">473</imagey>
+											</id-id-00002>
+										</category>
+									</maplink>
+								</category>
+							</id-00002>
+							<id-00003>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_cragmawhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+												</imageref>
+												<imagex type="number">891</imagex>
+												<imagey type="number">473</imagey>
+											</id-id-00001>
+										</category>
+									</maplink>
+								</category>
+							</id-00003>
+						</category>
+					</npclist>
+				</category>
+			</bat_p1_04_08_klarg_scave>
+		</category>
+		<category name="LMoP - Part 2" baseicon="2" decalicon="1">
+			<bat_p2_07_04_tresendarcrypts>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_redbrandhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+												</imageref>
+												<imagex type="number">577</imagex>
+												<imagey type="number">386</imagey>
+											</id-id-00002>
+											<id-id-00003>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.img_redbrandhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+												</imageref>
+												<imagex type="number">577</imagex>
+												<imagey type="number">403</imagey>
+											</id-id-00003>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+						</category>
+					</npclist>
+				</category>
+			</bat_p2_07_04_tresendarcrypts>
+		</category>
+		<category name="LMoP - Part 3" baseicon="2" decalicon="1">
+			<bat_p3_07orccamp>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00002>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>partysheet.image</recordname>
+												</imageref>
+												<imagex type="number">176</imagex>
+												<imagey type="number">26</imagey>
+											</id-00001>
+										</category>
+									</maplink>
+								</category>
+							</id-00002>
+						</category>
+					</npclist>
+				</category>
+			</bat_p3_07orccamp>
+		</category>
+		<category name="LMoP - Part 4" baseicon="2" decalicon="1">
+			<bat_wildernessencounters_ghouls>
+				<locked type="number">1</locked>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<count type="number">2</count>
+							</id-00001>
+						</category>
+					</npclist>
+				</category>
+			</bat_wildernessencounters_ghouls>
+			<bat_wildernessencounters_owlbear>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>partysheet.image</recordname>
+												</imageref>
+												<imagex type="number">401</imagex>
+												<imagey type="number">401</imagey>
+											</id-00001>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+						</category>
+					</npclist>
+				</category>
+			</bat_wildernessencounters_owlbear>
+		</category>
+	</battle>
+	<encounter>
+		<category name="Lost Mine of Phandelver" baseicon="2" decalicon="1">
+		</category>
+		<category name="Part 1: Goblin Arrows" baseicon="2" decalicon="1">
+		</category>
+		<category name="Part 2: Phandalin" baseicon="2" decalicon="1">
+		</category>
+		<category name="Part 3: the Spider's Web" baseicon="2" decalicon="1">
+			<enc_p3_05oldowlwell>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>Built thousands of years ago by a long-vanished empire, Old Owl Well is a ruined watchtower that now consists of little more than a few crumbling walls and the broken stump of a tower. In the tower's courtyard stands an old well that still delivers clean, fresh water. Old Owl Well lies in the wild and rugged hills south of the Triboar Trail. The site is relatively easy to find, and any NPC in Phandalin can provide directions to the ruins.</p>
+					<p>Recently, prospectors in the area have noted that someone has set up a campsite at Old Owl Well, and that undead guardians have been posted to keep intruders out.</p>
+					<frame><frameid>DM</frameid>As you crest a low ridge, you spy the crumbling ruins of an old watchtower standing amid the rugged hills. The place is so old that the walls are only mounds of rubble enclosing a courtyard of sorts, adjacent to the broken stump of an old tower. A colorful tent has been set up in the middle of the courtyard, but no one is in sight.</frame>
+					<p>The ruins are currently occupied by a mage who is busy exploring the site in the hope of gleaning arcane lore left behind by its builders. The characters can enter the site from any direction, either following old footpaths or scrambling up the slope and finding a gap in the surrounding walls of rubble.</p>
+					<linklist>
+						<link class="battle" recordname="battle.bat_p3_05oldowlwell@DD Lost Mine of Phandelver">Encounter</link>
+					</linklist>
+					<p>Twelve <b>zombies </b>lurk inside the crumbled shell of the old watchtower and can't be seen from outside. However, any character with a passive Wisdom (Perception) score of 10 or higher smells a deathly odor wafting from the tower's direction. When characters approach the tower or the tent, the zombies shamble out of the tower.</p>
+					<p>If a battle erupts, <b>Hamun Kost, the evil mage </b>, emerges from his tent and asks,</p>
+					<frame><frameid>Red-Robed Mage</frameid>&#34;What is the meaning of this?&#34;</frame>
+					<p>Kost is a stout, red-robed figure with sallow skin, a shaved scalp, and a black tattoo on his forehead. A character who succeeds on a DC 10 Intelligence (Arcana) check recognizes Kost's tattoo as a necromantic symbol. A successful DC 10 Intelligence (History) check verifies the garb as that usual for Thay, a land far to the east where wizards pattern their flesh with tattoos. The tattoo on the head represents a wizard's school of magic. Kost's school is necromancy.</p>
+					<p>If any character attempts to talk to Kost, even by calling out a greeting or answering his questions during combat, he temporarily calls off his zombies. The Red Wizard is not particularly aggressive, and he is willing to strike a deal that advances his interests at the same time it helps the characters.</p>
+					<p>Kost stays tight-lipped about the reason for his presence in the region. He is, however, willing to provide information the party needs if it does a favor for him. If the characters give Kost some indication of what they want, he shares one or both of these requests:</p>
+					<list>
+						<li>He wants the orcs at Wyvern Tor removed, since they have scouted out his camp and seem inclined to cause trouble.</li>
+						<li>He wants to ask a question of Agatha the banshee: &#34;What is the name of the wizard who built the tower at Old Owl Well?&#34; Kost won't risk the banshee's anger, but the characters could ask the question for him. (Agatha knows the name: Arthindol.)</li>
+					</list>
+					<h>Treasure</h>
+					<p>Hamun Kost's tent contains a comfortable traveling suite, including a cot, a chair, a writing desk, supplies, and a chest of clothes. In the chest is a leather bag containing 35 sp, 20 ep, 20 gp, 5 pp, one pearl (100 gp), a potion of healing, a scroll of darkness in a bone tube, and a tiny jeweled box (25 gp) containing a ring of protection from ancient Netheril, the Red Wizard's most interesting discovery so far.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.par_oldowlwell@DD Lost Mine of Phandelver">Parcel</link>
+					</linklist>
+					<h>Awarding Experience Points</h>
+					<p>Learning about the Red Wizard's presence at Old Owl Well completes a quest given to the party by Daran Edermath in Phandalin. Divide 400 XP equally among the characters if the party parleys with Hamun Kost and reports back to Daran.</p>
+				</text>
+			</enc_p3_05oldowlwell>
+			<enc_p3_06_01_westernmostcottage>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>This cottage has seen better days.</p>
+					<frame><frameid>DM</frameid>Cowering in the shadow of an old tree is a crumbled stone cottage with no roof Weeds are rampant here.</frame>
+					<linklist>
+						<link class="battle" recordname="battle.bat_p3_06_01_westernmostcottage@DD Lost Mine of Phandelver">Encounter</link>
+					</linklist>
+					<p>Two <b>twig blights </b>hide among the weeds that flank the cottage's open doorway. Make a Dexterity (Stealth) check for the blights, and compare the result to the passive Wisdom (Perception) scores of the characters to determine if the blights are spotted.</p>
+					<p>The blights do not attack on their own (except in self-defense) but quickly come to the aid of the twig blights in area 2 if combat erupts there.</p>
+					<h>Awarding Experience Points</h>
+					<p>Divide 50 XP equally among the characters if the party destroys the twig blights.</p>
+				</text>
+			</enc_p3_06_01_westernmostcottage>
+			<enc_p3_06_02_blightedcottages>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>Wind and weather have done their work here, and little remains of these houses or their former contents.</p>
+					<frame><frameid>DM</frameid>These ruined, side-by-side cottages look as though they might have been the homes of prosperous shopkeepers or well-off farmers in their time. All that remains are collapsed walls and piles of debris. Several young trees have grown up in the midst of the ruins.</frame>
+					<linklist>
+						<link class="battle" recordname="battle.bat_p3_06_02_blightedcottages@DD Lost Mine of Phandelver">Encounter</link>
+					</linklist>
+					<p>The overgrowth conceals a deadly threat-six <b>twig blights </b>lurking among the ordinary foliage. Spotting them requires a successful Wisdom (Perception) check challenged by the blights' Dexterity (Stealth) check.</p>
+					<p>These plant monsters are hungry and fight until destroyed. One round after they attack, the twig blights in area 1 join the fray.</p>
+					<h>Treasure</h>
+					<p>A merchant who once lived here had a chest full of coins hidden under the flagstone floor of his home. A thorough search of the interior of the eastern cottage and a successful DC 10 Wisdom (Perception) check reveals the old chest among the roots of the tree growing up through the house. The chest contains 700 cp, 160 sp, and 90 gp.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.par_2_blightedcottages@DD Lost Mine of Phandelver">Parcel</link>
+					</linklist>
+					<h>Awarding Experience Points</h>
+					<p>Divide 150 XP equally among the characters if the party destroys these twig blights.</p>
+				</text>
+			</enc_p3_06_02_blightedcottages>
+			<enc_p3_06_03_thebrownhorse>
+				<locked type="number">1</locked>
+			</enc_p3_06_03_thebrownhorse>
+			<enc_p3_06_05_blightedfarmhouse>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>To its south, this farm abuts a field with thick patches of gorse and briars.</p>
+					<frame><frameid>DM</frameid>This ruin looks as if it might once have been a farmhouse. It is now half swallowed by a dense thicket, with trees growing up through its ruined foundations. The lane continues south a short distance past the ruin before ending in an overgrown field.</frame>
+					<linklist>
+						<link class="battle" recordname="battle.bat_p3_06_05_blightedfarmhouse@DD Lost Mine of Phandelver">Encounter</link>
+					</linklist>
+					<p>The thicket east of this ruin is crawling with eight <b>twig blights. </b>Any disturbance in the ruined farmhouse (for example, characters rooting around in the rubble) draws the blights' ire.</p>
+					<p>Each round for 3 rounds, two twig blights head for the south doorway leading into the farmhouse while two more head for the north doorway. The blights attack until destroyed.</p>
+					<h>Awarding Experience Points</h>
+					<p>Divide 120 XP equally among the characters if the party destroys the twig blights.</p>
+				</text>
+			</enc_p3_06_05_blightedfarmhouse>
+			<enc_p3_06_06_ruinedstore>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>This former general store is not a complete ruin yet, with portions of its tile roof still intact.</p>
+					<frame><frameid>DM</frameid>At an intersection near the middle of the village, a narrow lane winds up the steep hillside to the north. Directly to the south is a ruined building that might have been a store or workshop. Webs stretch across the lane, from the building to</frame>
+					<p>the trees on the north side of the road.</p>
+					<linklist>
+						<link class="battle" recordname="battle.bat_p3_06_06_ruinedstore@DD Lost Mine of Phandelver">Encounter</link>
+					</linklist>
+					<p>Two <b>giant spiders </b>hide on the inner walls in this ruined building, so they are not visible from outside. Trailing lines from the webs in the lane allow the spiders to sense when prey is moving through the webs, at which point they nimbly scuttle over the wall and attack. The alert spiders surprise any character whose passive Wisdom (Perception) score is less than 17.</p>
+					<p>Webs. The webs fill two squares north of the doorway (and the square marked &#34;6&#34;). They are difficult terrain, and a creature trying to move through them must succeed on a DC 10 Strength (Athletics) check. On a failure, the creature is restrained in the webs (see the rulebook for the effects of being restrained). A snared creature can take an action each round to attempt to break free with a DC 12 Strength check, or it can try to cut its way free by using a light weapon that deals slashing damage. The webs have AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage (see &#34;Damage Resistance and Vulnerability&#34; in the rulebook for how vulnerability works).</p>
+					<p>Going around the webs is difficult because of the thickets on the north side of the road. Going around the ruined building to the south leads to the twig blights in area 5.</p>
+					<h>Treasure</h>
+					<p>The corpse of an unfortunate adventurer is cocooned in spider silk in the western half of the building. The body is shriveled up and sucked dry, but appears to have been a male elf. The body wears studded leather armor and a shortsword in the scabbard at its hip. A careful search also yields a potion of healing in a belt pouch, along with 23 gp and 35 sp.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.par_6_ruinedstore@DD Lost Mine of Phandelver">Parcel</link>
+					</linklist>
+					<h>Awarding Experience Points</h>
+					<p>Divide 400 XP equally among the characters if the party defeats the giant spiders.</p>
+				</text>
+			</enc_p3_06_06_ruinedstore>
+			<enc_p3_06_07_dragon_stower>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>This tower was formerly the home of a human wizard, who was killed fighting the ash zombies that overran Thundertree thirty years ago.</p>
+					<frame><frameid>DM</frameid>At the top of the hill stands a round tower with a cottage attached. Both are in good condition, although half of the tower's roof is gone. A door leads into the cottage, and several arrow-slit windows are visible in the tower. You can't help but notice an eerie quiet in the area and a strange, acrid smell in the air. The corpses of two hideous giant spiders are sprawled near the edge of the pathway, apparently dragged there. Their bloated bodies are puckered and blistered, and appear to have been mauled by a large animal.</frame>
+					<linklist>
+						<link class="battle" recordname="battle.bat_p3_06_07_dragon_stower@DD Lost Mine of Phandelver">Encounter</link>
+					</linklist>
+					<p>A <b>young green dragon </b>named Venomfang has recently claimed the tower, having passed over Thundertree while searching Neverwinter Wood for a suitable lair. The giant spider corpses are the former residents of the tower, killed by the dragon after it tore its way through the roof. Since then, Venomfang has been laying low.</p>
+					<p><b><i>Tower. </i></b>The dragon lives in the tower-a single room with a 40-foot-high ceiling. A 5-foot-wide staircase circles the interior, rising to the now-opened rooftop that allows the dragon easy access to its new home. Heavy wooden beams and stair supports crisscross the tower interior.</p>
+					<p>Venomfang does not want to give up such a promising lair, but if the characters reduce the dragon to half its hit points, it climbs to the top of the tower and flies off to fight another day.</p>
+					<p>Cottage. The cottage contains dusty furniture draped in webbing, but nothing of value. If the characters make a lot of noise in the cottage, the dragon hears them and steels itself for a fight.</p>
+					<h>Treasure</h>
+					<p>An old wooden chest broken open on the tower floor holds the last of the dead wizard's treasure: 800 sp, 150 gp, four silver goblets set with moonstones (60 gp each), a scroll of misty step, and a scroll of lightning bolt. Venomfang spends much of his time greedily admiring the loot.</p>
+					<p>The dragon has barely noticed the most interesting item in its hoard. Beneath the coins is a rusty old battleaxe of dwarven manufacture. Runes in Dwarvish on the axe head read, &#34;Hew,&#34; and the rust is misleading. Hew is a +1 battleaxe that deals maximum damage when the wielder hits a plant creature or an object made of wood. The axe's creator was a dwarf smith who feuded with the dryads of a forest where he cut firewood. Whoever carries the axe feels uneasy whenever he or she travels through a forest.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.par_7_dragon_stower@DD Lost Mine of Phandelver">Parcel</link>
+					</linklist>
+					<h>Awarding Experience Points</h>
+					<p>Divide 2,000 XP equally among the characters if the party drives away Venomfang. Given their level, the characters aren't likely to slay the dragon, but it is worth 3,900 XP.</p>
+				</text>
+			</enc_p3_06_07_dragon_stower>
+			<enc_p3_06_08_oldsmithy>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>This smithy was abandoned long ago.</p>
+					<frame><frameid>DM</frameid>A wide chimney and rotted piles of-firewood jumbled outside the walls of this sagging building suggest that it was a smithy in its day.</frame>
+					<linklist>
+						<link class="battle" recordname="battle.bat_p3_06_08_oldsmithy@DD Lost Mine of Phandelver">Encounter</link>
+					</linklist>
+					<p>Two <b>ash zombies </b>(see the &#34;Ash Zombies&#34; sidebar) are slumped on the floor. When the characters enter, the monsters climb to their feet (spending half their speed to do so-see the &#34;Being Prone&#34; section in chapter 2 of the rulebook). Then they attack. When the zombies have caught sight of the characters, they pursue them no matter where they go.</p>
+					<p>A variety of old tools-tongs, bellows, hammers, and a pair of iron anvils-are scattered around the interior of this building.</p>
+					<h>Awarding Experience Points</h>
+					<p>Divide 100 XP equally among the characters if the party destroys the ash zombies.</p>
+				</text>
+			</enc_p3_06_08_oldsmithy>
+			<enc_p3_06_11_oldgarrison>
+				<locked type="number">0</locked>
+			</enc_p3_06_11_oldgarrison>
+			<enc_p3_06_12_weaver_scottage>
+				<locked type="number">1</locked>
+			</enc_p3_06_12_weaver_scottage>
+			<enc_p3_06_13_dragoncultists>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>A group calling itself the Cult of the Dragon seeks to forge alliances with powerful dragons of the Sword Coast. Toward that end, four cultists recently tracked a green dragon to Thundertree (see area 7) and are waiting for the right moment to approach the dragon and broker an alliance. They have been spying on the dragon from afar, trying to gauge its demeanor and its needs.</p>
+					<frame><frameid>DM</frameid>This small farmhouse appears to be just another empty home at first glance. However, all the doors are shut and windows shuttered.</frame>
+					<linklist>
+						<link class="battle" recordname="battle.bat_p3_06_13_dragoncultists@DD Lost Mine of Phandelver">Encounter</link>
+					</linklist>
+					<p>The doors to this cottage are barred from the inside, requiring a successful DC 20 Strength check to force open. The shutters are also barred from inside and can be forced with a successful DC 15 Strength check.</p>
+					<p>Six <b>human cultists </b>are hiding in the house. Four stand guard (two in each room) while the others rest in the larger chamber. The cultists wear black cloaks cut to resemble dragon wings, and black leather masks with stylized dragon horns. In addition to the Common tongue, these cultists speak Draconic.</p>
+					<p>The interior of the house is dusty and strung with cobwebs. The only furnishings are a small stove, a table, two chairs, and a bunk (which the cultists share).</p>
+					<h>Roleplaying the Cultists</h>
+					<p>The cultists are not interested in fighting anyone and prefer to be left alone. The leader of the group is an evil and ambitious young man named Favric, who hopes to rise through the ranks quickly by earning the allegiance of the green dragon in area 7. His fellow cultists lack Favric's ambition and flee if he is captured or killed.</p>
+					<p>If the characters talk to the cultists, Favric explains that they have come to treat with the green dragon (whose name he doesn't know). Tithe characters express a similar desire, Favric suggests an alliance. He really plans to offer the characters to the dragon as part of his tribute, and if a fight ensues, the cultists side with the dragon.</p>
+					<h>Treasure</h>
+					<p>In the main room, Favric has a small coffer containing tribute for the green dragon: three diamonds (100 gp each). He also carries a potion of flying in a stoppered vial around his neck.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.par_13_dragoncultists@DD Lost Mine of Phandelver">Parcel</link>
+					</linklist>
+					<h>Awarding Experience Points</h>
+					<p>Divide 60 XP equally among the characters if the party defeats or drives away the cultists.</p>
+				</text>
+			</enc_p3_06_13_dragoncultists>
+			<enc_p3_08_03_archerpost>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>Cragmaw Castle's main defenses are its secret location and the appearance of having been abandoned. In addition, King Grol posts sentries to drive off intruders who get too close.</p>
+					<frame><frameid>DM</frameid>This small room is littered with debris. The arrow slit opposite the door offers a fine field of fire over the terrace in front of the castle gates.</frame>
+					<linklist>
+						<link class="battle" recordname="battle.bat_p3_08_03_archerposta@DD Lost Mine of Phandelver">Encounter (Post A)</link>
+						<link class="battle" recordname="battle.bat_p3_08_03_archerpostb@DD Lost Mine of Phandelver">Encounter (Post B)</link>
+					</linklist>
+					<p>Two <b>goblins </b>occupy each of these two rooms. By taking turns shooting arrows and ducking back, both archers can fire each round at targets outside. When characters enter the room, the goblins drop their shortbows and draw their melee weapons.</p>
+					<h>Awarding Experience Points</h>
+					<p>Divide 100 XP equally among the characters for each pair of goblin archers the party defeats.</p>
+				</text>
+			</enc_p3_08_03_archerpost>
+		</category>
+		<category name="Part 4: Wave Echo Cave" baseicon="2" decalicon="1">
+		</category>
+	</encounter>
+	<image>
+		<category name="DD Lost Mine of Phandelver" baseicon="2" decalicon="1">
+			<img_bugbear_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Bugbear.jpg</bitmap>
+				</image>
+			</img_bugbear_jpg>
+			<img_cragmawcastle_player__jpg>
+				<image type="image">
+					<bitmap>images/Cragmaw Castle (Player).jpg</bitmap>
+					<gridsize>35</gridsize>
+					<gridoffset>33,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>160</x>
+							<y>440</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_01_castleentrance@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>300</x>
+							<y>370</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_02_trappedhall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>195</x>
+							<y>300</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_03_archerpost@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>225</x>
+							<y>545</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_03_archerpost@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>260</x>
+							<y>580</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_04_ruinedbarracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>300</x>
+							<y>225</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_05_storeroom@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>190</x>
+							<y>230</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_06_hobgoblinbarracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>440</x>
+							<y>490</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_07_banquethall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>470</x>
+							<y>330</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_08_darkhall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>470</x>
+							<y>190</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_09_goblinshrine@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>440</x>
+							<y>650</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_10_posterngate@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>615</x>
+							<y>225</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_11_ruinedtower@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>750</x>
+							<y>440</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_12_guardbarracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>720</x>
+							<y>580</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_13_owlbeartower@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>860</x>
+							<y>225</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_14_king_squarters@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</img_cragmawcastle_player__jpg>
+			<img_cragmawhideout_jpg>
+				<image type="image">
+					<bitmap>images/Cragmaw Hideout.jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>148</x>
+							<y>291</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_01_cavemouth@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>253</x>
+							<y>271</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_02_goblinblind@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>271</x>
+							<y>201</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_03_kennel@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>222</x>
+							<y>108</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_04_steeppassage@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>278</x>
+							<y>58</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_05_overpass@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>79</x>
+							<y>114</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_06_goblinden@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>411</x>
+							<y>119</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_07_twinpoolscave@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>446</x>
+							<y>238</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_08_klarg_scave@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</img_cragmawhideout_jpg>
+			<img_cragmawhideout_player__jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Cragmaw Hideout (Player).jpg</bitmap>
+					<mask>maskedimages/1482774048.png</mask>
+					<gridsize>35</gridsize>
+					<gridoffset>33,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>296</x>
+							<y>578</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_01_cavemouth@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>507</x>
+							<y>544</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_02_goblinblind@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>541</x>
+							<y>403</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_03_kennel@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>445</x>
+							<y>228</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_04_steeppassage@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>556</x>
+							<y>119</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_05_overpass@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>157</x>
+							<y>231</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_06_goblinden@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>820</x>
+							<y>300</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_07_twinpoolscave@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>892</x>
+							<y>474</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_08_klarg_scave@*</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>3</idcounter>
+						<tokenlock />
+						<scalelock>1.78571</scalelock>
+						<token>
+							<prototype>tokens/goblin.png@DD Lost Mine of Phandelver</prototype>
+							<id>2</id>
+							<x>506</x>
+							<y>543</y>
+							<name>Goblin 2</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>tokens/goblin.png@DD Lost Mine of Phandelver</prototype>
+							<id>1</id>
+							<x>436</x>
+							<y>508</y>
+							<name>Goblin 1</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>portrait_id-00007_token</prototype>
+							<id>3</id>
+							<x>471</x>
+							<y>543</y>
+							<scale>0.5</scale>
+							<name>Zortella</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+					</tokens>
+				</image>
+			</img_cragmawhideout_player__jpg>
+			<img_flameskull_jpg>
+				<image type="image">
+					<bitmap>images/Flameskull.jpg</bitmap>
+				</image>
+			</img_flameskull_jpg>
+			<img_goblin_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Goblin.jpg</bitmap>
+				</image>
+			</img_goblin_jpg>
+			<img_hobgoblin_jpg>
+				<image type="image">
+					<bitmap>images/Hobgoblin.jpg</bitmap>
+				</image>
+			</img_hobgoblin_jpg>
+			<img_nothic_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Nothic.jpg</bitmap>
+				</image>
+			</img_nothic_jpg>
+			<img_ogre_jpg>
+				<image type="image">
+					<bitmap>images/Ogre.jpg</bitmap>
+				</image>
+			</img_ogre_jpg>
+			<img_phandalin_jpg>
+				<image type="image">
+					<bitmap>images/Phandalin.jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>343</x>
+							<y>204</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_stonehillinn@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>399</x>
+							<y>140</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_barthen_sprovisions@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>198</x>
+							<y>156</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_edermathorchard@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>254</x>
+							<y>273</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_lionshieldcoster@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>244</x>
+							<y>347</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_phandalinminer_sexchange@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>488</x>
+							<y>342</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_alderleaffarm@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>290</x>
+							<y>208</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_shrineofluck@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>461</x>
+							<y>216</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_thesleepinggiant@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>333</x>
+							<y>268</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_townmaster_shall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>652</x>
+							<y>200</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_tresendarmanor@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</img_phandalin_jpg>
+			<img_phandalin_player__jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Phandalin (Player).jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>445</x>
+							<y>276</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_stonehillinn@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>518</x>
+							<y>216</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_barthen_sprovisions@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>256</x>
+							<y>207</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_edermathorchard@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>338</x>
+							<y>365</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_lionshieldcoster@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>324</x>
+							<y>460</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_phandalinminer_sexchange@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>657</x>
+							<y>457</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_alderleaffarm@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>384</x>
+							<y>279</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_shrineofluck@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>637</x>
+							<y>299</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_thesleepinggiant@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>423</x>
+							<y>355</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_townmaster_shall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>869</x>
+							<y>265</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_tresendarmanor@*</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>13</idcounter>
+						<tokenlock />
+						<scalelock>5.4</scalelock>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>2</id>
+							<type>1</type>
+							<startx>662</startx>
+							<starty>319</starty>
+							<endx>670</endx>
+							<endy>390</endy>
+							<owner></owner>
+							<color>b95000</color>
+						</pointer>
+					</pointers>
+				</image>
+			</img_phandalin_player__jpg>
+			<img_redbrandhideout_jpg>
+				<image type="image">
+					<bitmap>images/Redbrand Hideout.jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>430</x>
+							<y>290</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_01_cellar@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>205</x>
+							<y>253</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_02_barracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>466</x>
+							<y>203</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_03_trappedhall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>323</x>
+							<y>167</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_04_tresendarcrypts@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>377</x>
+							<y>114</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_05_slavepens@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>316</x>
+							<y>80</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_06_armory@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>219</x>
+							<y>80</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_07_storeroomandworkarea@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>168</x>
+							<y>218</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_08_crevasse@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>80</x>
+							<y>307</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_09_guardbarracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>80</x>
+							<y>185</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_10_commonroom@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>80</x>
+							<y>96</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_11_wizard_sworkshop@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>130</x>
+							<y>80</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_12_glasstaff_squarters@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</img_redbrandhideout_jpg>
+			<img_redbrandhideout_player__jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Redbrand Hideout (Player).jpg</bitmap>
+					<mask>maskedimages/1463596538.png</mask>
+					<gridsize>35</gridsize>
+					<gridoffset>34,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>859</x>
+							<y>576</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_01_cellar@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>616</x>
+							<y>521</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_02_barracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>929</x>
+							<y>404</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_03_trappedhall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>649</x>
+							<y>332</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_04_tresendarcrypts@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>748</x>
+							<y>230</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_05_slavepens@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>632</x>
+							<y>159</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_06_armory@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>438</x>
+							<y>160</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_07_storeroomandworkarea@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>331</x>
+							<y>438</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_08_crevasse@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>160</x>
+							<y>612</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_09_guardbarracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>160</x>
+							<y>367</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_10_commonroom@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>147</x>
+							<y>175</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_11_wizard_sworkshop@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>264</x>
+							<y>159</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_12_glasstaff_squarters@*</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>25</idcounter>
+						<tokenlock />
+						<scalelock>1.79</scalelock>
+						<token>
+							<prototype>tokens/trap.png@DD Lost Mine of Phandelver</prototype>
+							<id>18</id>
+							<x>805</x>
+							<y>386</y>
+							<scale>1.432</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00005_token</prototype>
+							<id>1</id>
+							<x>157</x>
+							<y>613</y>
+							<scale>0.4</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>2</id>
+							<x>87</x>
+							<y>613</y>
+							<scale>0.4</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00004_token</prototype>
+							<id>3</id>
+							<x>122</x>
+							<y>578</y>
+							<scale>0.5</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00006_token</prototype>
+							<id>4</id>
+							<x>157</x>
+							<y>578</y>
+							<scale>0.5</scale>
+						</token>
+					</tokens>
+				</image>
+			</img_redbrandhideout_player__jpg>
+			<img_ruinsofthundertree_jpg>
+				<image type="image">
+					<bitmap>images/Ruins of Thundertree.jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>60</x>
+							<y>115</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_01_westernmostcottage@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>130</x>
+							<y>165</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_02_blightedcottages@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>170</x>
+							<y>45</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_03_thebrownhorse@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>130</x>
+							<y>250</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_04_druid_swatch@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>200</x>
+							<y>305</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_05_blightedfarmhouse@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>290</x>
+							<y>240</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_06_ruinedstore@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>270</x>
+							<y>45</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_07_dragon_stower@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>320</x>
+							<y>290</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_08_oldsmithy@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>375</x>
+							<y>235</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_09_herbalist_sshop@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>395</x>
+							<y>115</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_10_townsquare@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>445</x>
+							<y>60</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_11_oldgarrison@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>410</x>
+							<y>165</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_12_weaver_scottage@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>465</x>
+							<y>290</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_13_dragoncultists@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+				<isidentified type="number">0</isidentified>
+			</img_ruinsofthundertree_jpg>
+			<img_ruinsofthundertree_player__jpg>
+				<image type="image">
+					<bitmap>images/Ruins of Thundertree (Player).jpg</bitmap>
+					<gridsize>35</gridsize>
+					<gridoffset>0,34</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>250</x>
+							<y>460</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_01_westernmostcottage@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>520</x>
+							<y>660</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_02_blightedcottages@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>670</x>
+							<y>180</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_03_thebrownhorse@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>530</x>
+							<y>1010</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_04_druid_swatch@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>810</x>
+							<y>1220</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_05_blightedfarmhouse@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1140</x>
+							<y>950</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_06_ruinedstore@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1080</x>
+							<y>180</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_07_dragon_stower@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1300</x>
+							<y>1160</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_08_oldsmithy@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1500</x>
+							<y>950</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_09_herbalist_sshop@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1580</x>
+							<y>450</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_10_townsquare@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1790</x>
+							<y>240</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_11_oldgarrison@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1650</x>
+							<y>670</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_12_weaver_scottage@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1860</x>
+							<y>1160</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_13_dragoncultists@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</img_ruinsofthundertree_player__jpg>
+			<img_stirge_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Stirge.jpg</bitmap>
+				</image>
+			</img_stirge_jpg>
+			<img_theswordcoast_jpg>
+				<image type="image">
+					<bitmap>images/The Sword Coast.jpg</bitmap>
+				</image>
+			</img_theswordcoast_jpg>
+			<img_theswordcoast_player__jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/The Sword Coast (Player).jpg</bitmap>
+					<drawing>drawings/drawing_1452202138.png</drawing>
+					<pointers>
+						<pointer>
+							<id>7</id>
+							<type>1</type>
+							<startx>655</startx>
+							<starty>1206</starty>
+							<endx>704</endx>
+							<endy>1304</endy>
+							<owner></owner>
+							<color>b95000</color>
+						</pointer>
+					</pointers>
+				</image>
+			</img_theswordcoast_player__jpg>
+			<img_theswordcoast_player_lores_jpg>
+				<image type="image">
+					<bitmap>images/The Sword Coast (Player) LoRes.jpg</bitmap>
+				</image>
+			</img_theswordcoast_player_lores_jpg>
+		</category>
+		<category name="Maps - DD Lost Mine of Phandelver" baseicon="2" decalicon="1">
+		</category>
+		<category name="Monsters - DD Lost Mine of Phandelver" baseicon="2" decalicon="1">
+		</category>
+	</image>
+	<npc>
+		<category name="NPCs - DD Lost Mine of Phandelver" baseicon="2" decalicon="1">
+			<ashzombie>
+				<locked type="number">1</locked>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-3</bonus>
+							</charisma>
+							<intelligence>
+								<bonus type="number">-4</bonus>
+							</intelligence>
+						</category>
+					</abilities>
+				</category>
+			</ashzombie>
+			<brughoraxebiter>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<intelligence>
+								<bonus type="number">-2</bonus>
+							</intelligence>
+						</category>
+					</abilities>
+				</category>
+			</brughoraxebiter>
+			<cultist>
+				<locked type="number">1</locked>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+				</category>
+			</cultist>
+			<giantspider>
+				<locked type="number">1</locked>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+				</category>
+			</giantspider>
+			<hamunkost_evilmage_>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<strength>
+								<bonus type="number">-1</bonus>
+							</strength>
+						</category>
+					</abilities>
+				</category>
+			</hamunkost_evilmage_>
+			<klarg>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-1</bonus>
+							</charisma>
+						</category>
+					</abilities>
+				</category>
+			</klarg>
+			<ogre>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-2</bonus>
+							</charisma>
+							<intelligence>
+								<bonus type="number">-3</bonus>
+							</intelligence>
+							<wisdom>
+								<bonus type="number">-2</bonus>
+							</wisdom>
+						</category>
+					</abilities>
+				</category>
+			</ogre>
+			<orc>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<intelligence>
+								<bonus type="number">-2</bonus>
+							</intelligence>
+						</category>
+					</abilities>
+				</category>
+			</orc>
+			<redbrandruffian>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<intelligence>
+								<bonus type="number">-1</bonus>
+							</intelligence>
+							<wisdom>
+								<bonus type="number">-1</bonus>
+							</wisdom>
+						</category>
+					</abilities>
+				</category>
+			</redbrandruffian>
+			<ripper>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<intelligence>
+								<bonus type="number">-4</bonus>
+							</intelligence>
+						</category>
+					</abilities>
+				</category>
+			</ripper>
+			<skeleton>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-3</bonus>
+							</charisma>
+						</category>
+					</abilities>
+				</category>
+			</skeleton>
+			<twigblight>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-4</bonus>
+							</charisma>
+						</category>
+					</abilities>
+				</category>
+			</twigblight>
+			<wolf>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<intelligence>
+								<bonus type="number">-4</bonus>
+							</intelligence>
+						</category>
+					</abilities>
+				</category>
+			</wolf>
+			<younggreendragon>
+				<locked type="number">1</locked>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+				</category>
+			</younggreendragon>
+		</category>
+	</npc>
+	<pregencharsheet>
+		<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+			<highelf_acolyte_>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<classes>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<casterlevelinvmult type="number">1</casterlevelinvmult>
+							</id-00001>
+						</category>
+					</classes>
+				</category>
+			</highelf_acolyte_>
+			<hilldwarf_soldier_>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<classes>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<casterlevelinvmult type="number">1</casterlevelinvmult>
+							</id-00001>
+						</category>
+					</classes>
+				</category>
+			</hilldwarf_soldier_>
+		</category>
+	</pregencharsheet>
+	<treasureparcels>
+		<category name="Parcels - DD Lost Mine of Phandelver" baseicon="2" decalicon="1">
+			<par_4_tresendarcrypts>
+				<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+					<coinlist>
+						<category name="DD Lost Mine of Phandelver" baseicon="0" decalicon="0">
+							<id-00001>
+								<description type="string">PP</description>
+							</id-00001>
+							<id-00002>
+								<description type="string">GP</description>
+							</id-00002>
+							<id-00003>
+								<description type="string">EP</description>
+							</id-00003>
+							<id-00004>
+								<description type="string">SP</description>
+							</id-00004>
+							<id-00005>
+								<description type="string">CP</description>
+							</id-00005>
+						</category>
+					</coinlist>
+				</category>
+			</par_4_tresendarcrypts>
+		</category>
+	</treasureparcels>
+</root>

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.1">
+	<window data="" class="library" pos="163,59,863,609" />
+	<window data="" class="lightingselection" pos="1148,25,1313,485" />
+	<window data="" class="moduleselection" pos="563,263,1263,793" />
+	<window data="" class="pointerselection" pos="515,559,765,814" />
+	<window data="" class="portraitselection" pos="195,48,1281,881" />
+	<window data="" class="reference_background" pos="665,330,1015,680" />
+	<window data="" class="reference_class" pos="1832,303,2182,703" />
+	<window data="" class="select_dialog" pos="683,273,1033,673" />
+	<window data="" class="tokenbag" pos="1059,492,1459,892" />
+	<window data="battle" class="battlelist" pos="380,530,680,930" />
+	<window data="battle.bat_p2_05forestencounter@DD Dungeon Masters Guide" class="battle" pos="665,305,1015,705" />
+	<window data="battle.id-00001" class="battle" pos="1218,130,1568,530" />
+	<window data="battle.id-00002" class="battle" pos="428,343,778,743" />
+	<window data="battle.id-00003" class="battle" pos="595,96,945,496" />
+	<window data="battle.id-00004" class="battle" pos="429,620,779,1020" />
+	<window data="battle.id-00005" class="battle" pos="1134,519,1484,919" />
+	<window data="battle.id-00006" class="battle" pos="610,320,960,720" />
+	<window data="battle.id-00007" class="battle" pos="665,305,1015,705" />
+	<window data="battle.id-00008" class="battle" pos="1018,150,1368,550" />
+	<window data="battle.id-00009" class="battle" pos="395,242,745,642" />
+	<window data="battle.id-00010" class="battle" pos="460,194,810,594" />
+	<window data="battle.id-00011" class="battle" pos="465,343,815,743" />
+	<window data="battle.id-00012" class="battle" pos="415,312,765,712" />
+	<window data="battle.id-00013" class="battle" pos="426,505,776,905" />
+	<window data="battle.id-00014" class="battle" pos="815,284,1165,684" />
+	<window data="battle.id-00015" class="battle" pos="495,133,845,533" />
+	<window data="battle.id-00016" class="battle" pos="191,158,541,558" />
+	<window data="battle.id-00017" class="battle" pos="1904,373,2254,773" />
+	<window data="battle.id-00018" class="battle" pos="908,264,1258,664" />
+	<window data="calendar" class="calendar" pos="565,255,1115,755" />
+	<window data="charsheet.id-00001" class="charsheet" pos="857,192,1382,888" />
+	<window data="charsheet.id-00001" class="charsheet_classes" pos="487,363,957,663" />
+	<window data="charsheet.id-00001" class="charsheet_combatcalc" pos="602,314,1102,534" />
+	<window data="charsheet.id-00001.featurelist.id-00002" class="ref_ability" pos="1002,394,1352,744" />
+	<window data="charsheet.id-00001.featurelist.id-00004" class="ref_ability" pos="422,301,772,651" />
+	<window data="charsheet.id-00001.inventorylist.id-00002" class="item" pos="665,330,1015,680" />
+	<window data="charsheet.id-00001.inventorylist.id-00005" class="item" pos="665,330,1015,680" />
+	<window data="charsheet.id-00001.inventorylist.id-00010" class="item" pos="665,330,1015,680" />
+	<window data="charsheet.id-00001.inventorylist.id-00020" class="item" pos="665,330,1015,680" />
+	<window data="charsheet.id-00001.powers.id-00002" class="power" pos="785,345,1135,695" />
+	<window data="charsheet.id-00001.powers.id-00003" class="power" pos="821,335,1171,685" />
+	<window data="charsheet.id-00001.powers.id-00004" class="power" pos="1065,586,1415,936" />
+	<window data="charsheet.id-00001.powers.id-00007" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00001.powers.id-00007.actions.id-00002" class="power_heal_editor" pos="897,180,1247,530" />
+	<window data="charsheet.id-00001.powers.id-00009" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00001.powers.id-00013" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00001.powers.id-00014" class="power" pos="1048,545,1398,895" />
+	<window data="charsheet.id-00001.powers.id-00017" class="power" pos="1065,227,1415,577" />
+	<window data="charsheet.id-00001.powers.id-00027" class="power" pos="1017,574,1367,924" />
+	<window data="charsheet.id-00002" class="charsheet" pos="695,109,1220,709" />
+	<window data="charsheet.id-00002" class="charsheet_classes" pos="727,566,1197,866" />
+	<window data="charsheet.id-00002" class="charsheet_combatcalc" pos="437,460,937,680" />
+	<window data="charsheet.id-00002.featurelist.id-00001" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00002.featurelist.id-00003" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00002.featurelist.id-00004" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00002.featurelist.id-00008" class="ref_ability" pos="1738,350,2088,700" />
+	<window data="charsheet.id-00002.inventorylist.id-00009" class="item" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003" class="charsheet" pos="404,96,929,836" />
+	<window data="charsheet.id-00003" class="charsheet_classes" pos="867,268,1337,568" />
+	<window data="charsheet.id-00003.featurelist.id-00002" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.featurelist.id-00003" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.featurelist.id-00006" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.powergroup.id-00001" class="power_groupdetail" pos="625,360,1055,650" />
+	<window data="charsheet.id-00003.powers.id-00001" class="power" pos="764,360,1114,710" />
+	<window data="charsheet.id-00003.powers.id-00002" class="power" pos="434,351,784,701" />
+	<window data="charsheet.id-00003.powers.id-00003" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.powers.id-00004" class="power" pos="641,304,991,654" />
+	<window data="charsheet.id-00003.powers.id-00005" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.powers.id-00007" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.powers.id-00008" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.powers.id-00009" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.powers.id-00010" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.powers.id-00011" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.powers.id-00012" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00003.powers.id-00013" class="power" pos="785,345,1135,695" />
+	<window data="charsheet.id-00003.powers.id-00014" class="power" pos="785,345,1135,695" />
+	<window data="charsheet.id-00004" class="charsheet" pos="2502,95,3011,750" />
+	<window data="charsheet.id-00004" class="charsheet_classes" pos="543,422,1013,722" />
+	<window data="charsheet.id-00004" class="charsheet_combatcalc" pos="590,395,1090,615" />
+	<window data="charsheet.id-00004.featurelist.id-00002" class="ref_ability" pos="450,300,800,650" />
+	<window data="charsheet.id-00004.featurelist.id-00003" class="ref_ability" pos="609,170,959,520" />
+	<window data="charsheet.id-00004.featurelist.id-00004" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.featurelist.id-00006" class="ref_ability" pos="386,115,1399,791" />
+	<window data="charsheet.id-00004.featurelist.id-00007" class="ref_ability" pos="993,41,1587,615" />
+	<window data="charsheet.id-00004.featurelist.id-00009" class="ref_ability" pos="2147,324,2497,674" />
+	<window data="charsheet.id-00004.inventorylist.id-00009" class="item" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.inventorylist.id-00012" class="item" pos="860,311,1210,661" />
+	<window data="charsheet.id-00004.inventorylist.id-00013" class="item" pos="655,422,1005,772" />
+	<window data="charsheet.id-00004.inventorylist.id-00015" class="item" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.inventorylist.id-00019" class="item" pos="1156,341,1506,691" />
+	<window data="charsheet.id-00004.inventorylist.id-00021" class="item" pos="963,119,1313,469" />
+	<window data="charsheet.id-00004.powers.id-00001" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.powers.id-00001.actions.id-00002" class="power_damage_editor" pos="701,473,1051,823" />
+	<window data="charsheet.id-00004.powers.id-00003" class="power" pos="3029,109,3379,587" />
+	<window data="charsheet.id-00004.powers.id-00003.actions.id-00002" class="power_damage_editor" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.powers.id-00004" class="power" pos="526,496,876,846" />
+	<window data="charsheet.id-00004.powers.id-00005" class="power" pos="804,386,1154,878" />
+	<window data="charsheet.id-00004.powers.id-00007" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.powers.id-00008" class="power" pos="665,330,1259,796" />
+	<window data="charsheet.id-00004.powers.id-00009" class="power" pos="435,231,785,812" />
+	<window data="charsheet.id-00004.powers.id-00009.actions.id-00002" class="power_damage_editor" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.powers.id-00011" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.powers.id-00014" class="power" pos="2114,121,2464,471" />
+	<window data="charsheet.id-00004.powers.id-00014.actions.id-00002" class="power_damage_editor" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.powers.id-00015" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.powers.id-00016" class="power" pos="1178,498,1528,848" />
+	<window data="charsheet.id-00004.powers.id-00016.actions.id-00002" class="power_damage_editor" pos="1887,323,2237,673" />
+	<window data="charsheet.id-00004.powers.id-00017" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00004.powers.id-00018" class="power" pos="492,242,842,592" />
+	<window data="charsheet.id-00004.powers.id-00018.actions.id-00003" class="power_damage_editor" pos="895,375,1245,725" />
+	<window data="charsheet.id-00004.powers.id-00019" class="power" pos="1545,397,1895,747" />
+	<window data="charsheet.id-00005" class="charsheet" pos="1049,107,1571,707" />
+	<window data="charsheet.id-00005" class="charsheet_classes" pos="385,253,855,553" />
+	<window data="charsheet.id-00005" class="charsheet_combatcalc" pos="590,395,1090,615" />
+	<window data="charsheet.id-00005.featurelist.id-00001" class="ref_ability" pos="1011,228,1361,806" />
+	<window data="charsheet.id-00005.featurelist.id-00003" class="ref_ability" pos="985,358,1335,708" />
+	<window data="charsheet.id-00005.featurelist.id-00004" class="ref_ability" pos="479,447,829,797" />
+	<window data="charsheet.id-00005.featurelist.id-00005" class="ref_ability" pos="1783,221,2133,571" />
+	<window data="charsheet.id-00005.featurelist.id-00006" class="ref_ability" pos="1000,330,1350,680" />
+	<window data="charsheet.id-00005.featurelist.id-00007" class="ref_ability" pos="662,311,1012,661" />
+	<window data="charsheet.id-00005.featurelist.id-00008" class="ref_ability" pos="1003,344,1353,694" />
+	<window data="charsheet.id-00005.featurelist.id-00009" class="ref_ability" pos="865,349,1215,699" />
+	<window data="charsheet.id-00005.inventorylist.id-00019" class="item" pos="1774,310,2124,660" />
+	<window data="charsheet.id-00005.inventorylist.id-00020" class="item" pos="849,434,1199,784" />
+	<window data="charsheet.id-00005.inventorylist.id-00023" class="item" pos="1188,437,1538,787" />
+	<window data="charsheet.id-00005.powers.id-00006" class="power" pos="841,234,1191,584" />
+	<window data="charsheet.id-00005.powers.id-00008" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00005.powers.id-00009" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00006" class="charsheet" pos="1115,122,1643,765" />
+	<window data="charsheet.id-00006" class="charsheet_classes" pos="813,298,1283,598" />
+	<window data="charsheet.id-00006" class="charsheet_combatcalc" pos="975,349,1475,569" />
+	<window data="charsheet.id-00006" class="charsheet_healthcalc" pos="640,445,1040,565" />
+	<window data="charsheet.id-00006.featurelist.id-00001" class="ref_ability" pos="1228,610,1578,960" />
+	<window data="charsheet.id-00006.featurelist.id-00002" class="ref_ability" pos="669,346,1019,696" />
+	<window data="charsheet.id-00006.featurelist.id-00004" class="ref_ability" pos="1107,219,1457,569" />
+	<window data="charsheet.id-00006.featurelist.id-00005" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00006.featurelist.id-00006" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00006.featurelist.id-00008" class="ref_ability" pos="1009,355,1359,705" />
+	<window data="charsheet.id-00006.featurelist.id-00009" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00006.inventorylist.id-00011" class="item" pos="665,330,1015,680" />
+	<window data="charsheet.id-00006.inventorylist.id-00024" class="item" pos="1128,568,1478,918" />
+	<window data="charsheet.id-00007" class="charsheet" pos="1134,179,1659,855" />
+	<window data="charsheet.id-00007" class="charsheet_classes" pos="1898,385,2368,685" />
+	<window data="charsheet.id-00007" class="charsheet_combatcalc" pos="590,395,1090,615" />
+	<window data="charsheet.id-00007" class="charsheet_healthcalc" pos="640,445,1040,565" />
+	<window data="charsheet.id-00007.featurelist.id-00002" class="ref_ability" pos="575,282,925,632" />
+	<window data="charsheet.id-00007.featurelist.id-00004" class="ref_ability" pos="562,336,912,686" />
+	<window data="charsheet.id-00007.featurelist.id-00005" class="ref_ability" pos="433,286,1017,852" />
+	<window data="charsheet.id-00007.featurelist.id-00006" class="ref_ability" pos="474,199,824,549" />
+	<window data="charsheet.id-00007.featurelist.id-00007" class="ref_ability" pos="665,330,1015,680" />
+	<window data="charsheet.id-00007.powers.id-00001" class="power" pos="785,345,1135,695" />
+	<window data="charsheet.id-00007.powers.id-00002" class="power" pos="785,345,1135,695" />
+	<window data="charsheet.id-00007.powers.id-00004" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00007.powers.id-00006" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00007.powers.id-00006.actions.id-00002" class="power_heal_editor" pos="665,330,1015,680" />
+	<window data="charsheet.id-00007.powers.id-00009" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00007.powers.id-00018" class="power" pos="487,186,837,536" />
+	<window data="charsheet.id-00007.powers.id-00025" class="power" pos="665,330,1015,680" />
+	<window data="charsheet.id-00007.powers.id-00033" class="power" pos="441,150,791,735" />
+	<window data="charsheet.id-00007.powers.id-00034" class="power" pos="428,205,778,555" />
+	<window data="charsheet.id-00007.powers.id-00035" class="power" pos="943,270,1293,832" />
+	<window data="combattracker" class="combattracker_host" pos="479,88,1129,842" />
+	<window data="combattracker.list.id-00003.traits.id-00003" class="ct_power_detail" pos="2547,584,2847,884" />
+	<window data="combattracker.list.id-00006" class="npc" pos="386,134,846,684" />
+	<window data="effects" class="effectlist" pos="574,416,1094,816" />
+	<window data="encounter" class="encounterlist" pos="51,246,351,646" />
+	<window data="encounter.id-00001" class="encounter" pos="640,180,1040,830" />
+	<window data="forge.magicitem" class="forge_magicitem" pos="540,330,1140,680" />
+	<window data="image" class="imagelist" pos="376,71,905,642" />
+	<window data="image.id-00001" class="imagewindow" pos="404,121,1172,688" />
+	<window data="image.id-00002" class="imagewindow" pos="0,0,1680,1010" />
+	<window data="image.id-00003" class="imagewindow" pos="979,106,1567,793" />
+	<window data="image.id-00004" class="imagewindow" pos="530,246,1149,764" />
+	<window data="image.id-00005" class="imagewindow" pos="530,0,1149,1010" />
+	<window data="image.id-00008@FG Battle Maps" class="imagewindow" pos="216,0,1464,1010" />
+	<window data="image.img_adventure_site_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="641,20,1409,1030" />
+	<window data="image.img_arauthatorlairplayer_jpg@DD The Rise of Tiamat" class="imagewindow" pos="0,0,1680,1010" />
+	<window data="image.img_book_of_vile_darkness_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="872,309,1578,939" />
+	<window data="image.img_combat_options_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="583,0,1096,1010" />
+	<window data="image.img_crafting_a_magic_item_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="421,190,1258,819" />
+	<window data="image.img_creating_a_spell2_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="598,0,1082,1010" />
+	<window data="image.img_creating_a_spell_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="496,50,1184,960" />
+	<window data="image.img_creating_new_class_options_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="496,61,1184,948" />
+	<window data="image.img_creatingacampaign_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="447,0,1232,1010" />
+	<window data="image.img_domt_jester_card_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="667,253,1013,756" />
+	<window data="image.img_doors_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="428,0,1252,1010" />
+	<window data="image.img_elysium_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="336,112,1344,897" />
+	<window data="image.img_encounters_at_sea_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="338,179,1341,831" />
+	<window data="image.img_encountersatsea_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="320,138,1360,872" />
+	<window data="image.img_grasslands_player__jpg@DD Hoard of the Dragon Queen" class="imagewindow" pos="304,0,1376,1010" />
+	<window data="image.img_handdrawn_map_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="399,0,1281,1010" />
+	<window data="image.img_icecavesplayer_jpg@DD The Rise of Tiamat" class="imagewindow" pos="-105,-36,1575,974" />
+	<window data="image.img_map_1_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="503,2,1146,1012" />
+	<window data="image.img_map_2_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="469,0,1210,1010" />
+	<window data="image.img_map_3_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="0,0,1680,1010" />
+	<window data="image.img_map_4_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="153,5,1507,900" />
+	<window data="image.img_map_5_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="75,0,1605,1010" />
+	<window data="image.img_map_6_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="141,0,1539,1010" />
+	<window data="image.img_map_7_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="441,16,1676,1026" />
+	<window data="image.img_map_8_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="59,0,1620,1010" />
+	<window data="image.img_map_9_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="511,25,1348,967" />
+	<window data="image.img_mapping_a_settlement_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="497,70,1326,765" />
+	<window data="image.img_mapping_your_campaign_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="444,0,1235,1010" />
+	<window data="image.img_marshlands_player__jpg@DD Hoard of the Dragon Queen" class="imagewindow" pos="412,18,1484,1028" />
+	<window data="image.img_neronvainsstrongholdplayer_jpg@DD The Rise of Tiamat" class="imagewindow" pos="1922,44,2988,928" />
+	<window data="image.img_raiders_camp_player__jpg@DD Hoard of the Dragon Queen" class="imagewindow" pos="0,0,1680,1010" />
+	<window data="image.img_roadsidecamp_player__jpg@DD Hoard of the Dragon Queen" class="imagewindow" pos="304,0,1376,1010" />
+	<window data="image.img_spiderwoods_player__jpg@DD Hoard of the Dragon Queen" class="imagewindow" pos="304,0,1376,1010" />
+	<window data="image.img_stragglers_player__jpg@DD Hoard of the Dragon Queen" class="imagewindow" pos="304,0,1376,1010" />
+	<window data="image.img_stranded_player__jpg@DD Hoard of the Dragon Queen" class="imagewindow" pos="304,0,1376,1010" />
+	<window data="image.img_tombofdideriusplayer_jpg@DD The Rise of Tiamat" class="imagewindow" pos="0,0,1680,1010" />
+	<window data="item" class="itemlist" pos="279,462,629,862" />
+	<window data="languages" class="languagelist" pos="665,330,1015,680" />
+	<window data="lists.imagewindow@DD Dungeon Masters Guide" class="referenceindex" pos="1164,386,1514,836" />
+	<window data="lists.imagewindow@DD Hoard of the Dragon Queen" class="referenceindex" pos="479,173,829,623" />
+	<window data="lists.imagewindow@DD The Rise of Tiamat" class="referenceindex" pos="665,280,1015,730" />
+	<window data="lists.imagewindow@FG Battle Maps" class="referenceindexsorted" pos="665,280,1015,730" />
+	<window data="lists.table.bycategory@DD Dungeon Masters Guide" class="reference_colindex" pos="483,229,933,679" />
+	<window data="lists.table.bycategory@DD MM Monster Manual" class="reference_colindex" pos="615,280,1065,730" />
+	<window data="modifiers" class="modifiers" pos="419,121,919,471" />
+	<window data="notes" class="notelist" pos="1153,167,1453,567" />
+	<window data="notes.id-00001" class="note" pos="808,402,1158,752" />
+	<window data="notes.id-00002" class="note" pos="511,486,861,836" />
+	<window data="npc" class="npclist" pos="597,214,897,614" />
+	<window data="npc.id-00001" class="npc" pos="610,230,1070,780" />
+	<window data="partysheet" class="partysheet_host" pos="520,289,1320,879" />
+	<window data="partysheet.treasureparcelitemlist.id-00002" class="item" pos="840,361,1190,711" />
+	<window data="quest" class="questlist" pos="690,305,990,705" />
+	<window data="quest.id-00001" class="quest" pos="665,330,1015,680" />
+	<window data="reference.backgrounddata.acolyte.features.shelterofthefaithful@DD PHB Deluxe" class="reference_backgroundfeature" pos="665,330,1015,680" />
+	<window data="reference.backgrounddata.acolyte@DD PHB Deluxe" class="reference_background" pos="1053,254,1403,604" />
+	<window data="reference.backgrounddata.criminal@DD PHB Deluxe" class="reference_background" pos="713,522,1063,872" />
+	<window data="reference.backgrounddata.guildmerchant@DD PHB Deluxe" class="reference_background" pos="665,330,1015,680" />
+	<window data="reference.backgrounddata.hermit@DD PHB Deluxe" class="reference_background" pos="1291,648,1641,998" />
+	<window data="reference.backgrounddata.outlander@DD PHB Deluxe" class="reference_background" pos="665,330,1015,680" />
+	<window data="reference.backgrounddata.sage.features.researcher@DD PHB Deluxe" class="reference_backgroundfeature" pos="665,330,1015,680" />
+	<window data="reference.backgrounddata.sage@DD PHB Deluxe" class="reference_background" pos="941,443,1291,793" />
+	<window data="reference.backgroundlists.byletter@DD PHB Deluxe" class="reference_colindex" pos="911,126,1361,576" />
+	<window data="reference.classdata.cleric.features.spellcasting1@DD PHB Deluxe" class="reference_classfeature" pos="14,215,364,515" />
+	<window data="reference.classdata.cleric@DD PHB Deluxe" class="reference_class" pos="32,121,382,521" />
+	<window data="reference.classdata.druid.abilities.circleoftheland@DD PHB Deluxe" class="reference_classability" pos="665,405,1015,705" />
+	<window data="reference.classdata.druid.features.bonuscantrip2@DD PHB Deluxe" class="reference_classfeature" pos="665,405,1015,705" />
+	<window data="reference.classdata.druid.features.spellcasting1@DD PHB Deluxe" class="reference_classfeature" pos="993,507,1482,924" />
+	<window data="reference.classdata.druid@DD PHB Deluxe" class="reference_class" pos="1055,179,1405,579" />
+	<window data="reference.classdata.fighter.features.actionsurge2@DD PHB Deluxe" class="reference_classfeature" pos="979,594,1329,894" />
+	<window data="reference.classdata.fighter.features.fightingstyle1@DD PHB Deluxe" class="reference_classfeature" pos="665,405,1015,705" />
+	<window data="reference.classdata.fighter.features.secondwind1@DD PHB Deluxe" class="reference_classfeature" pos="665,405,1015,705" />
+	<window data="reference.classdata.fighter@DD PHB Deluxe" class="reference_class" pos="762,322,1346,722" />
+	<window data="reference.classdata.ranger@DD PHB Deluxe" class="reference_class" pos="2072,291,2422,691" />
+	<window data="reference.classdata.rogue@DD PHB Deluxe" class="reference_class" pos="1200,406,1550,806" />
+	<window data="reference.classdata.warlock.features.eldritchinvocations2@DD PHB Deluxe" class="reference_classfeature" pos="792,354,1541,764" />
+	<window data="reference.classdata.warlock.features.pactboon3@DD PHB Deluxe" class="reference_classfeature" pos="637,410,1249,774" />
+	<window data="reference.classdata.warlock.features.pactmagic1@DD PHB Deluxe" class="reference_classfeature" pos="638,45,1141,377" />
+	<window data="reference.classdata.warlock@DD PHB Deluxe" class="reference_class" pos="470,361,1242,869" />
+	<window data="reference.classdata.wizard.features.spellcasting1@DD PHB Deluxe" class="reference_classfeature" pos="785,420,1135,720" />
+	<window data="reference.classdata.wizard@DD PHB Deluxe" class="reference_class" pos="785,320,1135,720" />
+	<window data="reference.classlists.byletter@DD PHB Deluxe" class="reference_colindex" pos="1055,219,1505,669" />
+	<window data="reference.equipmentdata.chainmail@DD PHB Deluxe" class="reference_armor" pos="665,330,1015,680" />
+	<window data="reference.equipmentdata.herbalismkit@DD PHB Deluxe" class="reference_equipment" pos="551,348,901,698" />
+	<window data="reference.equipmentdata.scholar_spack@DD PHB Deluxe" class="reference_equipment" pos="665,330,1015,680" />
+	<window data="reference.equipmentdata.warhammer@DD PHB Deluxe" class="reference_weapon" pos="665,330,1015,680" />
+	<window data="reference.equipmentlists.adventuringgeartable@DD PHB Deluxe" class="reference_adventuringgeartable" pos="762,197,1212,847" />
+	<window data="reference.equipmentlists.armortable@DD PHB Deluxe" class="reference_armortable" pos="846,244,1596,894" />
+	<window data="reference.equipmentlists.equipment@DD PHB Deluxe" class="referenceindex" pos="1167,343,1517,793" />
+	<window data="reference.equipmentlists.mountsandotheranimalstable@DD PHB Deluxe" class="reference_mountsandotheranimalstable" pos="615,180,1065,830" />
+	<window data="reference.equipmentlists.toolstable@DD PHB Deluxe" class="reference_adventuringgeartable" pos="140,111,590,761" />
+	<window data="reference.equipmentlists.weapontable@DD PHB Deluxe" class="reference_weapontable" pos="829,391,1579,1041" />
+	<window data="reference.magicitemdata.scrollofprotectionfromfiends@DD Dungeon Masters Guide" class="reference_magicitem" pos="665,330,1015,680" />
+	<window data="reference.magicitemlists.bytype@DD Dungeon Masters Guide" class="reference_colindex" pos="615,280,1065,730" />
+	<window data="reference.npcdata.airelemental@DD MM Monster Manual" class="npc" pos="586,226,1046,776" />
+	<window data="reference.npcdata.allosaurus@DD MM Monster Manual" class="npc" pos="1118,243,1578,793" />
+	<window data="reference.npcdata.ankheg@DD MM Monster Manual" class="npc" pos="1221,195,1681,745" />
+	<window data="reference.npcdata.awakenedtree@DD MM Monster Manual" class="npc" pos="1103,220,1563,770" />
+	<window data="reference.npcdata.barbeddevil@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.beholder@DD MM Monster Manual" class="npc" pos="650,283,1110,929" />
+	<window data="reference.npcdata.beholderzombie@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.carrioncrawler@DD MM Monster Manual" class="npc" pos="963,220,1423,770" />
+	<window data="reference.npcdata.cloaker@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.cyclops@DD MM Monster Manual" class="npc" pos="789,358,1249,908" />
+	<window data="reference.npcdata.darkmantle@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.direwolf@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.displacerbeast@DD MM Monster Manual" class="npc" pos="66,303,526,853" />
+	<window data="reference.npcdata.earthelemental@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.ettercap@DD MM Monster Manual" class="npc" pos="1257,229,1717,779" />
+	<window data="reference.npcdata.gelatinouscube@DD MM Monster Manual" class="npc" pos="154,234,614,784" />
+	<window data="reference.npcdata.giantboar@DD MM Monster Manual" class="npc" pos="839,305,1299,855" />
+	<window data="reference.npcdata.giantconstrictorsnake@DD MM Monster Manual" class="npc" pos="954,239,1414,789" />
+	<window data="reference.npcdata.giantelk@DD MM Monster Manual" class="npc" pos="825,239,1285,789" />
+	<window data="reference.npcdata.giantwolfspider@DD MM Monster Manual" class="npc" pos="251,269,711,819" />
+	<window data="reference.npcdata.gibberingmouther@DD MM Monster Manual" class="npc" pos="1080,211,1540,761" />
+	<window data="reference.npcdata.goblinboss@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.grick@DD MM Monster Manual" class="npc" pos="1062,222,1522,772" />
+	<window data="reference.npcdata.grickalpha@DD MM Monster Manual" class="npc" pos="701,289,1161,839" />
+	<window data="reference.npcdata.griffon@DD MM Monster Manual" class="npc" pos="1030,216,1490,766" />
+	<window data="reference.npcdata.guard@DD MM Monster Manual" class="npc" pos="378,211,838,761" />
+	<window data="reference.npcdata.hellhound@DD MM Monster Manual" class="npc" pos="1865,204,2325,754" />
+	<window data="reference.npcdata.hillgiant@DD MM Monster Manual" class="npc" pos="973,178,1433,728" />
+	<window data="reference.npcdata.hobgoblin@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.hobgoblincaptain@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.hobgoblinwarlord@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.huntershark@DD MM Monster Manual" class="npc" pos="1052,240,1512,790" />
+	<window data="reference.npcdata.hydra@DD MM Monster Manual" class="npc" pos="222,128,682,857" />
+	<window data="reference.npcdata.kraken@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.lizardfolkshaman@DD MM Monster Manual" class="npc" pos="1071,218,1531,768" />
+	<window data="reference.npcdata.mindflayer@DD MM Monster Manual" class="npc" pos="759,157,1219,707" />
+	<window data="reference.npcdata.minotaur@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.oni@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.orceyeofgruumsh@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.orog@DD MM Monster Manual" class="npc" pos="1125,201,1585,751" />
+	<window data="reference.npcdata.pegasus@DD MM Monster Manual" class="npc" pos="1042,210,1502,760" />
+	<window data="reference.npcdata.peryton@DD MM Monster Manual" class="npc" pos="956,242,1416,792" />
+	<window data="reference.npcdata.plesiosaurus@DD MM Monster Manual" class="npc" pos="1018,241,1478,791" />
+	<window data="reference.npcdata.polarbear@DD MM Monster Manual" class="npc" pos="873,295,1333,845" />
+	<window data="reference.npcdata.quaggoth@DD MM Monster Manual" class="npc" pos="1394,235,1854,785" />
+	<window data="reference.npcdata.rhinoceros@DD MM Monster Manual" class="npc" pos="914,232,1374,782" />
+	<window data="reference.npcdata.roc@DD MM Monster Manual" class="npc" pos="730,245,1190,795" />
+	<window data="reference.npcdata.saber_toothedtiger@DD MM Monster Manual" class="npc" pos="1858,246,2318,796" />
+	<window data="reference.npcdata.shadowdemon@DD MM Monster Manual" class="npc" pos="730,245,1190,795" />
+	<window data="reference.npcdata.umberhulk@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.unicorn@DD MM Monster Manual" class="npc" pos="810,314,1270,864" />
+	<window data="reference.npcdata.vampirespawn@DD MM Monster Manual" class="npc" pos="730,245,1190,795" />
+	<window data="reference.npcdata.waterelemental@DD MM Monster Manual" class="npc" pos="408,360,868,910" />
+	<window data="reference.npcdata.waterweird@DD MM Monster Manual" class="npc" pos="725,589,1185,1139" />
+	<window data="reference.npcdata.wererat@DD MM Monster Manual" class="npc" pos="1567,229,2027,779" />
+	<window data="reference.npcdata.will_o__wisp@DD MM Monster Manual" class="npc" pos="1567,229,2027,779" />
+	<window data="reference.npcdata.wolf@DD MM Monster Manual" class="npc" pos="1041,131,1501,681" />
+	<window data="reference.npcdata.yuan_tiabomination@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npclists.byletter@DD MM Monster Manual" class="reference_colindex" pos="540,237,990,687" />
+	<window data="reference.npclists.bylevel@DD MM Monster Manual" class="reference_colindex" pos="412,157,862,887" />
+	<window data="reference.npclists.bytype@DD MM Monster Manual" class="reference_colindex" pos="615,280,1065,730" />
+	<window data="reference.npclists.npcs@DD MM Monster Manual" class="referenceindex" pos="540,273,890,723" />
+	<window data="reference.racedata.human@DD PHB Deluxe" class="reference_race" pos="665,330,1015,680" />
+	<window data="reference.racelists.byletter@DD PHB Deluxe" class="reference_colindex" pos="995,266,1445,716" />
+	<window data="reference.refmanualdata.refpage_000318makinganattack@DD PHB Deluxe" class="referencetextwide" pos="699,279,1349,929" />
+	<window data="reference.refmanualindex@DD MM Monster Manual" class="reference_manual" pos="365,180,1315,830" />
+	<window data="reference.refmanualindex@DD PHB Deluxe" class="reference_manual" pos="349,251,1299,901" />
+	<window data="reference.skilldata.acrobatics@DD PHB Deluxe" class="ref_ability" pos="665,330,1015,680" />
+	<window data="reference.skilldata.animalhandling@DD PHB Deluxe" class="ref_ability" pos="665,330,1015,680" />
+	<window data="reference.skilldata.insight@DD PHB Deluxe" class="ref_ability" pos="665,330,1015,680" />
+	<window data="reference.skilllists.byletter@DD PHB Deluxe" class="reference_colindex" pos="967,284,1417,734" />
+	<window data="reference.spelldata.arcaneeye@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.armorofagathys@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.bless@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.burninghands@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.continualflame@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.curewounds@DD PHB Deluxe" class="reference_spell" pos="1247,233,1597,583" />
+	<window data="reference.spelldata.detectevilandgood@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.druidcraft@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.eldritchblast@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.findfamiliar@DD PHB Deluxe" class="reference_spell" pos="478,153,828,721" />
+	<window data="reference.spelldata.hellishrebuke@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.hungerofhadar@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.iceknife@DD Elemental Evil Players Companion" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.illusoryscript@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.minorillusion@DD PHB Deluxe" class="reference_spell" pos="665,330,1050,680" />
+	<window data="reference.spelldata.prestidigitation@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.sacredflame@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.shillelagh@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.thaumaturgy@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelldata.unseenservant@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
+	<window data="reference.spelllists._index_@DD Elemental Evil Players Companion" class="reference_colindex" pos="615,280,1065,730" />
+	<window data="reference.spelllists._index_@DD PHB Deluxe" class="reference_colindex" pos="554,453,1004,903" />
+	<window data="reference.spelllists.bard@DD Elemental Evil Players Companion" class="reference_colindex" pos="615,280,1065,730" />
+	<window data="reference.spelllists.bard@DD PHB Deluxe" class="reference_colindex" pos="615,280,1065,730" />
+	<window data="reference.spelllists.cleric@DD PHB Deluxe" class="reference_colindex" pos="1069,199,1519,649" />
+	<window data="reference.spelllists.druid@DD PHB Deluxe" class="reference_colindex" pos="1063,212,1513,662" />
+	<window data="reference.spelllists.eldritchinvocations@DD PHB Deluxe" class="reference_colindex" pos="615,280,1065,730" />
+	<window data="reference.spelllists.eldritchmaster_fiend_@DD PHB Deluxe" class="reference_colindex" pos="615,280,1065,730" />
+	<window data="reference.spelllists.sorcerer@DD Elemental Evil Players Companion" class="reference_colindex" pos="775,359,1225,809" />
+	<window data="reference.spelllists.sorcerer@DD PHB Deluxe" class="reference_colindex" pos="396,288,846,738" />
+	<window data="reference.spelllists.spells@DD Elemental Evil Players Companion" class="referenceindex" pos="665,280,1015,730" />
+	<window data="reference.spelllists.spells@DD PHB Deluxe" class="referenceindex" pos="849,35,1199,946" />
+	<window data="reference.spelllists.warlock@DD PHB Deluxe" class="reference_colindex" pos="1009,231,1459,681" />
+	<window data="reference.spelllists.wizard@DD PHB Deluxe" class="reference_colindex" pos="354,234,804,684" />
+	<window data="tables.tab_50gpgemstones@DD Dungeon Masters Guide" class="table" pos="394,151,794,551" />
+	<window data="tables.tab_acolyteflaw@DD PHB Deluxe" class="table" pos="640,305,1040,705" />
+	<window data="tables.tab_acolyteideal@DD PHB Deluxe" class="table" pos="640,305,1040,705" />
+	<window data="tables.tab_criminalbond@DD PHB Deluxe" class="table" pos="640,305,1040,705" />
+	<window data="tables.tab_criminalflaw@DD PHB Deluxe" class="table" pos="640,305,1040,705" />
+	<window data="tables.tab_criminalideal@DD PHB Deluxe" class="table" pos="640,305,1040,705" />
+	<window data="tables.tab_criminalpersonalitytrait@DD PHB Deluxe" class="table" pos="926,370,1326,770" />
+	<window data="tables.tab_criminalspeciality@DD PHB Deluxe" class="table" pos="1097,313,1497,713" />
+	<window data="tables.tab_etherealcurtains@DD Dungeon Masters Guide" class="table" pos="312,184,712,584" />
+	<window data="tables.tab_hermitbond@DD PHB Deluxe" class="table" pos="846,375,1246,775" />
+	<window data="tables.tab_hermitflaw@DD PHB Deluxe" class="table" pos="1047,418,1447,818" />
+	<window data="tables.tab_hermitideal@DD PHB Deluxe" class="table" pos="1055,424,1455,824" />
+	<window data="tables.tab_hermitlifeofseclusion@DD PHB Deluxe" class="table" pos="1005,493,1405,893" />
+	<window data="tables.tab_hermitpersonalitytrait@DD PHB Deluxe" class="table" pos="1054,442,1454,842" />
+	<window data="tables.tab_magicitemtablec@DD Dungeon Masters Guide" class="table" pos="640,305,1040,705" />
+	<window data="tables.tab_randomdungeon_dungeon_deathtrap@DD Dungeon Masters Guide" class="table" pos="312,184,712,584" />
+	<window data="tables.tab_sagebond@DD PHB Deluxe" class="table" pos="992,139,1392,630" />
+	<window data="tables.tab_sageflaw@DD PHB Deluxe" class="table" pos="640,305,1118,738" />
+	<window data="tables.tab_sageideal@DD PHB Deluxe" class="table" pos="956,179,1365,696" />
+	<window data="tables.tab_sagepersonalitytrait@DD PHB Deluxe" class="table" pos="924,288,1481,841" />
+	<window data="treasureparcels" class="parcellist" pos="690,305,990,705" />
+
+	<image data="image.id-00002" class="imagewindow" control="image" view="0,0" zoom="0.6375" />
+	<image data="image.img_arauthatorlairplayer_jpg@DD The Rise of Tiamat" class="imagewindow" control="image" view="0,-312" zoom="0.334289" />
+	<image data="image.img_icecavesplayer_jpg@DD The Rise of Tiamat" class="imagewindow" control="image" view="0,0" zoom="0.334084" />
+	<image data="image.img_map_1_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="0,0" zoom="0.661111" />
+	<image data="image.img_map_2_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="0,-198" zoom="1" />
+	<image data="image.img_map_3_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="0,0" zoom="0.726625" />
+	<image data="image.img_map_4_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="0,-33" zoom="0.561962" />
+	<image data="image.img_map_7_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="0,0" zoom="0.511925" />
+	<image data="image.img_map_9_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="0,0" zoom="0.375714" />
+	<image data="image.img_mapping_a_settlement_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="0,-84" zoom="1.05114" />
+	<image data="image.img_marshlands_player__jpg@DD Hoard of the Dragon Queen" class="imagewindow" control="image" view="0,-101" zoom="1" />
+	<image data="image.img_neronvainsstrongholdplayer_jpg@DD The Rise of Tiamat" class="imagewindow" control="image" view="0,0" zoom="1.02" />
+	<image data="image.img_tombofdideriusplayer_jpg@DD The Rise of Tiamat" class="imagewindow" control="image" view="0,-100" zoom="0.543457" />
+</windowstate>

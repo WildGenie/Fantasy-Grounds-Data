@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3">
+	<battle>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="DMG - Sylvan Forest Encounters" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Encounters" mergeid="" baseicon="8" decalicon="1">
+		</category>
+	</battle>
+	<calendar>
+		<public />
+	</calendar>
+	<combattracker>
+		<public />
+	</combattracker>
+	<effects>
+		<public />
+	</effects>
+	<encounter>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="00. Curse of Strahd" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="01. Chapter 1: Into the Mists" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="02. Chapter 2: The Lands of Barovia" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="03. Chapter 3: The Village of Barovia" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="04. Chapter 4: Castle Ravenloft" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="05. Chapter 5: The Town of Vallaki" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="06. Chapter 6: Old Bonegrinder" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="07. Chapter 7: Argynvostholt" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="08. Chapter 8: The Village of Krezk" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="09. Chapter 9: Tsolenka Pass" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="10. Chapter 10: The Ruins of Berez" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="11. Chapter 11: Van Richten's Tower" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="12. Chapter 12: The Wizard of Wines" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="13. Chapter 13: The Amber Temple" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="14. Chapter 14: Yester Hill" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="15. Chapter 15: Werewolf Den" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="16. Epilogue" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="17. Appendix A: Character Options" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="18. Appendix B: Death House" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="19. Appendix C: Treasures" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="20. Appendix D: Monsters and NPCs" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="21. Appendix E: The Tarokka Deck" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="22. Appendix F: Handouts" mergeid="" baseicon="8" decalicon="1">
+		</category>
+	</encounter>
+	<image>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="DD Dungeon Masters Guide" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - DM Maps" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Handouts" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Maps" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Monsters" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - NPCs" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Portraits" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Tarokka" mergeid="" baseicon="8" decalicon="1">
+		</category>
+	</image>
+	<item>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="Curse of Strahd - Magic Items" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Quest Items" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Treasure and Equipment" mergeid="" baseicon="8" decalicon="1">
+		</category>
+	</item>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<name type="string">Common</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00016>
+	</languages>
+	<library>
+	</library>
+	<modifiers>
+		<public />
+	</modifiers>
+	<npc>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="Curse of Strahd - MM" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Monsters" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - NPCs" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Traps" mergeid="" baseicon="8" decalicon="1">
+		</category>
+	</npc>
+	<options>
+		<public />
+		<DDCL type="string">desktopdecal_COS2</DDCL>
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+	<tables>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="DD DMG Chptr 1: A World of Your Own" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 2: Creating a Multiverse" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 3: Creating Adventures" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 4: Creating Nonplayer Characters" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 5: Adventure Environments" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 6: Between Adventures" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 7: Treasure" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 8: Running the Game" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 9: Dungeon Master's Workshop" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr A: Random Dungeon" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD PHB Deluxe" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD Players Handbook" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="Monster Manual" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="Default Fumble and Critical Hit Tables" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Tables" mergeid="" baseicon="8" decalicon="1">
+		</category>
+	</tables>
+	<treasureparcels>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="Curse of Strahd - Parcels" mergeid="" baseicon="8" decalicon="1">
+		</category>
+	</treasureparcels>
+</root>

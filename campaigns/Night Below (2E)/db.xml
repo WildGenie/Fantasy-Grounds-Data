@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.2" release="7">
+	<battle>
+		<id-00001>
+			<exp type="number">0</exp>
+			<level type="number">0</level>
+			<name type="string">Bandits</name>
+			<npclist>
+				<id-00001>
+					<count type="number">2</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00001</recordname>
+					</link>
+					<name type="string">Archer</name>
+					<token type="token"></token>
+				</id-00001>
+			</npclist>
+		</id-00001>
+	</battle>
+	<charsheet>
+	</charsheet>
+	<combattracker>
+		<id-00011>
+			<ac type="string">7 (Padded Armor)</ac>
+			<active type="number">0</active>
+			<atk type="string">Long Sword 19 (1d8+1)</atk>
+			<breathweaponsave type="number">0</breathweaponsave>
+			<deathparalysispoisonsave type="number">0</deathparalysispoisonsave>
+			<effects>
+				<id-00001>
+					<adjustment type="number">0</adjustment>
+					<duration type="number">0</duration>
+				</id-00001>
+			</effects>
+			<friendfoe type="string">foe</friendfoe>
+			<hp type="number">0</hp>
+			<init type="number">0</init>
+			<initresult type="number">0</initresult>
+			<link type="windowreference">
+				<class>npc</class>
+				<recordname>npc.id-00001</recordname>
+			</link>
+			<name type="string">Archer</name>
+			<petrificationpolymorphsave type="number">0</petrificationpolymorphsave>
+			<reach type="number">5</reach>
+			<rodstaffwandsave type="number">0</rodstaffwandsave>
+			<show_npc type="number">1</show_npc>
+			<space type="number">5</space>
+			<speed type="string">12</speed>
+			<spellsave type="number">0</spellsave>
+			<status type="string">Healthy</status>
+			<token type="token"></token>
+			<type type="string">npc</type>
+			<wounds type="number">0</wounds>
+		</id-00011>
+		<id-00012>
+			<ac type="string">7 (Padded Armor)</ac>
+			<active type="number">1</active>
+			<atk type="string">Long Sword 19 (1d8+1)</atk>
+			<breathweaponsave type="number">0</breathweaponsave>
+			<deathparalysispoisonsave type="number">0</deathparalysispoisonsave>
+			<effects>
+				<id-00001>
+					<adjustment type="number">0</adjustment>
+					<duration type="number">0</duration>
+				</id-00001>
+			</effects>
+			<friendfoe type="string">foe</friendfoe>
+			<hp type="number">0</hp>
+			<init type="number">0</init>
+			<initresult type="number">0</initresult>
+			<link type="windowreference">
+				<class>npc</class>
+				<recordname>npc.id-00001</recordname>
+			</link>
+			<name type="string">Archer</name>
+			<petrificationpolymorphsave type="number">0</petrificationpolymorphsave>
+			<reach type="number">5</reach>
+			<rodstaffwandsave type="number">0</rodstaffwandsave>
+			<show_npc type="number">1</show_npc>
+			<space type="number">5</space>
+			<speed type="string">12</speed>
+			<spellsave type="number">0</spellsave>
+			<status type="string">Healthy</status>
+			<token type="token"></token>
+			<type type="string">npc</type>
+			<wounds type="number">0</wounds>
+		</id-00012>
+		<id-00013>
+			<ac type="string">7 (Padded Armor)</ac>
+			<active type="number">0</active>
+			<atk type="string">Ranged Weapon Attack: +2 to hit, range 150/600., one target. Hit: 5 (1d8+1) piercing damage</atk>
+			<breathweaponsave type="number">0</breathweaponsave>
+			<deathparalysispoisonsave type="number">0</deathparalysispoisonsave>
+			<effects>
+				<id-00001>
+					<adjustment type="number">0</adjustment>
+					<duration type="number">0</duration>
+				</id-00001>
+			</effects>
+			<friendfoe type="string">neutral</friendfoe>
+			<hp type="number">0</hp>
+			<init type="number">0</init>
+			<initresult type="number">0</initresult>
+			<link type="windowreference">
+				<class>npc</class>
+				<recordname>npc.id-00001</recordname>
+			</link>
+			<name type="string">Archer</name>
+			<petrificationpolymorphsave type="number">0</petrificationpolymorphsave>
+			<reach type="number">5</reach>
+			<rodstaffwandsave type="number">0</rodstaffwandsave>
+			<show_npc type="number">1</show_npc>
+			<space type="number">5</space>
+			<speed type="string">12</speed>
+			<spellsave type="number">0</spellsave>
+			<status type="string">Healthy</status>
+			<token type="token"></token>
+			<type type="string">npc</type>
+			<wounds type="number">0</wounds>
+		</id-00013>
+		<id-00014>
+			<ac type="string">7 (Padded Armor)</ac>
+			<active type="number">0</active>
+			<atk type="string">Longbow Ranged Weapon Attack: 20/20 to hit, range 150/600., one target. Hit: 5 (1d6+1) piercing damage</atk>
+			<breathweaponsave type="number">0</breathweaponsave>
+			<deathparalysispoisonsave type="number">0</deathparalysispoisonsave>
+			<effects>
+				<id-00001>
+					<adjustment type="number">0</adjustment>
+					<duration type="number">0</duration>
+				</id-00001>
+			</effects>
+			<friendfoe type="string">neutral</friendfoe>
+			<hp type="number">0</hp>
+			<init type="number">0</init>
+			<initresult type="number">0</initresult>
+			<link type="windowreference">
+				<class>npc</class>
+				<recordname>npc.id-00001</recordname>
+			</link>
+			<name type="string">Archer</name>
+			<petrificationpolymorphsave type="number">0</petrificationpolymorphsave>
+			<reach type="number">5</reach>
+			<rodstaffwandsave type="number">0</rodstaffwandsave>
+			<show_npc type="number">1</show_npc>
+			<space type="number">5</space>
+			<speed type="string">12</speed>
+			<spellsave type="number">0</spellsave>
+			<status type="string">Healthy</status>
+			<token type="token"></token>
+			<type type="string">npc</type>
+			<wounds type="number">0</wounds>
+		</id-00014>
+	</combattracker>
+	<combattracker_props>
+		<round type="number">1</round>
+	</combattracker_props>
+	<effects>
+	</effects>
+	<image>
+	</image>
+	<item>
+	</item>
+	<library>
+	</library>
+	<npc>
+		<id-00001>
+			<ac type="string">7 (Padded Armor)</ac>
+			<atk type="string">Ranged Weapon Attack: +2 to hit, range 150/600., one target. Hit: 5 (1d8+1) piercing damage</atk>
+			<breathweaponsave type="number">0</breathweaponsave>
+			<charisma type="number">0</charisma>
+			<constitution type="number">0</constitution>
+			<deathparalysispoisonsave type="number">0</deathparalysispoisonsave>
+			<dexterity type="number">0</dexterity>
+			<hd type="string">1</hd>
+			<hp type="number">0</hp>
+			<init type="number">0</init>
+			<intelligence type="number">0</intelligence>
+			<name type="string">Archer</name>
+			<petrificationpolymorphsave type="number">0</petrificationpolymorphsave>
+			<rodstaffwandsave type="number">0</rodstaffwandsave>
+			<speed type="string">12</speed>
+			<spellsave type="number">0</spellsave>
+			<strength type="number">17</strength>
+			<text type="formattedtext">
+				<p></p>
+			</text>
+			<token type="token"></token>
+			<wisdom type="number">0</wisdom>
+		</id-00001>
+	</npc>
+	<options>
+	</options>
+</root>

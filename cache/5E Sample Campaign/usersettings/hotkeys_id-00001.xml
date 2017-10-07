@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<hotkeys version="3.3">
+	<bank number="0">
+		<key number="0">
+			<description>[INIT]</description>
+			<icon>action_roll</icon>
+			<shortcut>
+				<class>pc</class>
+				<datasource>charsheet.id-00001</datasource>
+			</shortcut>
+			<data>
+				<type>init</type>
+				<slot number="0">
+					<type>init</type>
+					<number>5</number>
+					<string>[INIT]</string>
+					<dice>
+						<die>d20</die>
+					</dice>
+				</slot>
+			</data>
+		</key>
+		<key number="1">
+			<description>[ATTACK (M)] Longsword [MOD:STR]</description>
+			<icon>action_attack</icon>
+			<shortcut>
+				<class>pc</class>
+				<datasource>charsheet.id-00001</datasource>
+			</shortcut>
+			<data>
+				<type>attack</type>
+				<slot number="0">
+					<type>attack</type>
+					<number>3</number>
+					<string>[ATTACK (M)] Longsword [MOD:STR]</string>
+					<dice>
+						<die>d20</die>
+					</dice>
+					<metadata>
+						<bWeapon>true</bWeapon>
+					</metadata>
+				</slot>
+			</data>
+		</key>
+		<key number="2">
+			<description>[DAMAGE (M)] Longsword [TYPE: slashing (1d8+1)(strength)]</description>
+			<icon>action_damage</icon>
+			<shortcut>
+				<class>pc</class>
+				<datasource>charsheet.id-00001</datasource>
+			</shortcut>
+			<data>
+				<type>damage</type>
+				<slot number="0">
+					<type>damage</type>
+					<number>1</number>
+					<string>[DAMAGE (M)] Longsword [TYPE: slashing (1d8+1)(strength)]</string>
+					<dice>
+						<die>d8</die>
+					</dice>
+					<metadata>
+						<bWeapon>true</bWeapon>
+						<clauses>table: 1625D8A0</clauses>
+						<range>M</range>
+					</metadata>
+				</slot>
+			</data>
+		</key>
+	</bank>
+	<bank number="1">
+	</bank>
+	<bank number="2">
+	</bank>
+	<bank number="3">
+	</bank>
+	<bank number="4">
+	</bank>
+	<bank number="5">
+	</bank>
+	<bank number="6">
+	</bank>
+	<bank number="7">
+	</bank>
+</hotkeys>

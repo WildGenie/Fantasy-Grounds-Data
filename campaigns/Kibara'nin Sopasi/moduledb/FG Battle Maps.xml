@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="ed912deeed4bf435df1e7716ce908d893ed7da90">
+	<image>
+		<category name="FG Battle Maps" mergeid="FG Battle Maps" baseicon="0" decalicon="0">
+			<id-00008>
+				<image type="image">
+					<bitmap>BattleMap01.jpg</bitmap>
+				</image>
+			</id-00008>
+			<id-00009>
+				<image type="image">
+					<bitmap>BattleMap02.jpg</bitmap>
+				</image>
+			</id-00009>
+			<id-00010>
+				<image type="image">
+					<bitmap>BattleMap03.jpg</bitmap>
+				</image>
+			</id-00010>
+			<id-00012>
+				<image type="image">
+					<bitmap>BattleMap05.jpg</bitmap>
+				</image>
+			</id-00012>
+			<id-00013>
+				<image type="image">
+					<bitmap>BattleMap_Cave01.jpg</bitmap>
+				</image>
+			</id-00013>
+			<id-00014>
+				<image type="image">
+					<bitmap>BattleMap_Cave02.jpg</bitmap>
+				</image>
+			</id-00014>
+			<id-00015>
+				<image type="image">
+					<bitmap>BattleMap_Cave03.jpg</bitmap>
+				</image>
+			</id-00015>
+			<id-00016>
+				<image type="image">
+					<bitmap>BattleMap_outdoor1.jpg</bitmap>
+				</image>
+			</id-00016>
+			<id-00017>
+				<image type="image">
+					<bitmap>BattleMap_outdoor2.jpg</bitmap>
+				</image>
+			</id-00017>
+			<id-00018>
+				<image type="image">
+					<bitmap>Streets1.jpg</bitmap>
+				</image>
+			</id-00018>
+			<id-00022>
+				<image type="image">
+					<bitmap>Underdark_tunnels_A.jpg</bitmap>
+				</image>
+			</id-00022>
+			<id-00023>
+				<image type="image">
+					<bitmap>Underdark_tunnels_B.jpg</bitmap>
+				</image>
+			</id-00023>
+			<id-00024>
+				<image type="image">
+					<bitmap>Underdark_tunnels_C.jpg</bitmap>
+				</image>
+			</id-00024>
+			<id-00025>
+				<image type="image">
+					<bitmap>Underdark_tunnels_D.jpg</bitmap>
+				</image>
+			</id-00025>
+			<id-00026>
+				<image type="image">
+					<bitmap>Underdark_tunnels_Dry_Chasms.jpg</bitmap>
+				</image>
+			</id-00026>
+			<id-00027>
+				<image type="image">
+					<bitmap>Underdark_tunnels_E.jpg</bitmap>
+				</image>
+			</id-00027>
+			<id-00029>
+				<image type="image">
+					<bitmap>Underdark_tunnels_Large_Pool.jpg</bitmap>
+				</image>
+			</id-00029>
+			<id-00030>
+				<image type="image">
+					<bitmap>Underdark_tunnels_Raised_walkways.jpg</bitmap>
+				</image>
+			</id-00030>
+			<id-00031>
+				<image type="image">
+					<bitmap>Underdark_tunnels_Water_Edge.jpg</bitmap>
+				</image>
+			</id-00031>
+			<id-00032>
+				<image type="image">
+					<bitmap>Underdark_tunnels_Water_filled_Chasms.jpg</bitmap>
+				</image>
+			</id-00032>
+			<id-00033>
+				<image type="image">
+					<bitmap>Underdark_tunnels_Y-Intersection_and_Side_Cave.jpg</bitmap>
+				</image>
+			</id-00033>
+			<id-00034>
+				<image type="image">
+					<bitmap>NoGrid_Underdark_tunnels_A.jpg</bitmap>
+				</image>
+			</id-00034>
+			<id-00047>
+				<image type="image">
+					<bitmap>Underdark_tunnels_wide_paths.jpg</bitmap>
+				</image>
+			</id-00047>
+		</category>
+	</image>
+</root>

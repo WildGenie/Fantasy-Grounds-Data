@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<modulestate version="3.3">
+	<module name="Animal Pogs">
+		<loaded />
+	</module>
+	<module name="Animal Tokens">
+		<loaded />
+	</module>
+	<module name="Character Pogs">
+		<loaded />
+	</module>
+	<module name="Character Tokens">
+		<loaded />
+	</module>
+	<module name="D&#38;D Sword Coast Adventurer's Guide - Player's Guide">
+		<disallow />
+	</module>
+	<module name="DD 5E Basic Rules - Player">
+		<disallow />
+	</module>
+	<module name="DD Curse of Strahd">
+		<loaded />
+	</module>
+	<module name="DD Curse of Strahd Players">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD Dungeon Masters Guide">
+		<loaded />
+	</module>
+	<module name="DD Dungeon Masters Guide - Players">
+		<allow />
+	</module>
+	<module name="DD Elemental Evil Players Companion">
+		<disallow />
+	</module>
+	<module name="DD MM Monster Manual">
+		<loaded />
+	</module>
+	<module name="DD PHB Deluxe">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD5E SRD Data">
+		<disallow />
+	</module>
+	<module name="Default Fumble and Critical Hit Tables">
+		<loaded />
+	</module>
+	<module name="Letter Tokens">
+		<loaded />
+	</module>
+	<module name="Monster Pogs">
+		<loaded />
+	</module>
+	<module name="Monster Tokens">
+		<loaded />
+	</module>
+</modulestate>

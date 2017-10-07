@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.3">
+	<window data="encounter" class="masterindex" pos="176,137,626,587" />
+	<window data="encounter.id-00001" class="encounter" pos="640,180,1241,677" />
+	<window data="encounter.id-00002" class="encounter" pos="658,91,1259,588" />
+	<window data="languages" class="languagelist" pos="665,330,1015,680" />
+</windowstate>

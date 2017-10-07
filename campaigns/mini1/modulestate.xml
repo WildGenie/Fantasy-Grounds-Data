@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<modulestate version="3.1">
+	<module name="DD Dungeon Masters Guide">
+		<loaded />
+	</module>
+	<module name="DD MM Monster Manual">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD PHB Deluxe">
+		<loaded />
+		<allow />
+	</module>
+</modulestate>

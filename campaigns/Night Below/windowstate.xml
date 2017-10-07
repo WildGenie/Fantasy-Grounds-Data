@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.2">
+	<window data="" class="library" pos="708,305,1408,855" />
+	<window data="" class="moduleselection" pos="490,240,1190,770" />
+	<window data="battle" class="masterindex" pos="197,357,647,807" />
+	<window data="battle.id-00001" class="battle" pos="189,475,539,875" />
+	<window data="combattracker" class="combattracker_host" pos="669,479,1319,979" />
+	<window data="item" class="masterindex" pos="776,190,1226,640" />
+	<window data="npc" class="masterindex" pos="772,8,1222,458" />
+	<window data="npc.id-00001" class="npc" pos="312,159,772,709" />
+	<window data="race" class="masterindex" pos="906,244,1356,694" />
+	<window data="reference.npcdata.archmage@DD MM Monster Manual" class="npc" pos="265,270,725,820" />
+	<window data="reference.npcdata.blackbear@DD MM Monster Manual" class="npc" pos="1046,356,1506,906" />
+	<window data="reference.npcdata.brassdragonwyrmling@DD MM Monster Manual" class="npc" pos="963,176,1423,726" />
+	<window data="reference.npcdata.hobgoblin@DD MM Monster Manual" class="npc" pos="1015,115,1475,665" />
+	<window data="reference.npcdata.tribalwarrior@DD MM Monster Manual" class="npc" pos="443,271,903,821" />
+</windowstate>

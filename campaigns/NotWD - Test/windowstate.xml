@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.3">
+	<window data="" class="library" pos="309,244,1243,794" />
+	<window data="" class="moduleselection" pos="435,254,1135,784" />
+	<window data="" class="portraitselection" pos="342,337,802,637" />
+	<window data="" class="tokenbag" pos="736,423,1136,823" />
+	<window data="background" class="masterindex" pos="735,295,1185,745" />
+	<window data="battle" class="masterindex" pos="893,99,1343,549" />
+	<window data="battle.id-00001" class="battle" pos="897,175,1247,575" />
+	<window data="battle.id-00002" class="battle" pos="636,364,986,764" />
+	<window data="charsheet.id-00001" class="charsheet" pos="519,109,1044,709" />
+	<window data="charsheet.id-00002" class="charsheet" pos="1104,319,1629,919" />
+	<window data="charsheet.id-00003" class="charsheet" pos="424,67,949,667" />
+	<window data="charsheet.id-00003.powers.id-00005" class="power" pos="722,123,1072,473" />
+	<window data="charsheet.id-00003.powers.id-00006" class="power" pos="410,181,760,531" />
+	<window data="charsheet.id-00004" class="charsheet" pos="697,220,1222,820" />
+	<window data="charsheet.id-00005" class="charsheet" pos="119,100,644,700" />
+	<window data="combattracker" class="combattracker_host" pos="332,291,982,791" />
+	<window data="image" class="masterindex" pos="1134,362,1584,812" />
+	<window data="item" class="masterindex" pos="130,263,580,713" />
+	<window data="npc" class="masterindex" pos="228,217,678,667" />
+	<window data="npc.id-00001" class="npc" pos="865,228,1325,778" />
+	<window data="npc.id-00002" class="npc" pos="417,101,877,651" />
+	<window data="partysheet" class="partysheet_host" pos="560,270,1360,770" />
+	<window data="race" class="masterindex" pos="1069,137,1519,587" />
+	<window data="reference.classdata.fighter.features.actionsurge2@DD PHB Deluxe" class="reference_classfeature" pos="173,309,523,609" />
+	<window data="reference.classdata.fighter.features.fightingstyle1@DD PHB Deluxe" class="reference_classfeature" pos="130,202,504,686" />
+	<window data="reference.classdata.fighter.features.secondwind1@DD PHB Deluxe" class="reference_classfeature" pos="258,289,608,589" />
+	<window data="reference.classdata.fighter@DD PHB Deluxe" class="reference_class" pos="424,107,937,668" />
+	<window data="reference.classlists.byletter@DD PHB Deluxe" class="reference_colindex" pos="615,280,1065,730" />
+	<window data="reference.equipmentdata.potionofhealing@DD PHB Deluxe" class="reference_equipment" pos="845,243,1195,593" />
+	<window data="reference.imagedata.img_map_1_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="366,0,1314,1010" />
+	<window data="reference.imagedata.img_map_2_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="441,-4,1182,1006" />
+	<window data="reference.npcdata.adultwhitedragon@DD MM Monster Manual" class="npc" pos="662,181,1122,731" />
+	<window data="reference.npcdata.crocodile@DD MM Monster Manual" class="npc" pos="1081,260,1541,810" />
+	<window data="reference.npcdata.crocodile@DD PHB Deluxe" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.giantcrocodile@DD MM Monster Manual" class="npc" pos="610,230,1070,780" />
+	<window data="reference.npcdata.giantfrog@DD MM Monster Manual" class="npc" pos="412,368,872,918" />
+	<window data="skill" class="masterindex" pos="615,280,1065,730" />
+
+</windowstate>

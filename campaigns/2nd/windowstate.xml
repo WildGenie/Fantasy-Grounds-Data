@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.2">
+	<window data="" class="library" pos="490,230,1190,780" />
+	<window data="battle" class="battlelist" pos="374,209,649,559" />
+	<window data="charsheet" class="charactersheetlist" pos="267,295,943,725" />
+	<window data="charsheet.id-00001" class="charsheet" pos="708,219,1233,830" />
+	<window data="effects" class="effectlist" pos="374,209,649,559" />
+	<window data="encounter" class="encounterlist" pos="374,209,649,559" />
+	<window data="notes" class="gm_notelist" pos="702,330,977,680" />
+	<window data="npc" class="npclist" pos="374,209,649,559" />
+</windowstate>

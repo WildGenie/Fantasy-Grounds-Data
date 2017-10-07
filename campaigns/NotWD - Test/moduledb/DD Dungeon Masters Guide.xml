@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="7|CoreRPG:3" integrity="fd758f149ed5651fa743af75612ed904fc282f19">
+	<battle>
+		<bat_p2_02forestencounter type="deleted" />
+		<bat_p2_03forestencounter type="deleted" />
+		<bat_p2_04forestencounter type="deleted" />
+		<bat_p2_05forestencounter type="deleted" />
+		<bat_p2_06forestencounter type="deleted" />
+		<bat_p2_08forestencounter type="deleted" />
+		<bat_p2_09forestencounter type="deleted" />
+		<bat_p2_10forestencounter type="deleted" />
+		<bat_p2_11forestencounter type="deleted" />
+		<bat_p2_12forestencounter type="deleted" />
+		<bat_p2_13forestencounter type="deleted" />
+		<bat_p2_14forestencounter type="deleted" />
+		<bat_p2_17forestencounter type="deleted" />
+		<bat_p2_18forestencounter type="deleted" />
+		<bat_p2_19forestencounter type="deleted" />
+		<bat_p2_20forestencounter type="deleted" />
+	</battle>
+	<reference>
+		<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+			<imagedata>
+				<category name="Artwork - DD Dungeon Masters Guide" baseicon="2" decalicon="1">
+				</category>
+				<category name="Magic Items - DD Dungeon Masters Guide" baseicon="2" decalicon="1">
+				</category>
+				<category name="Maps - DD Dungeon Masters Guide" baseicon="2" decalicon="1">
+					<img_map_2_jpg>
+						<image type="image">
+							<bitmap>images/Map-2.jpg</bitmap>
+							<gridsize>50</gridsize>
+							<gridoffset>33,27</gridoffset>
+							<gridsnap>on</gridsnap>
+							<tokens>
+								<idcounter>5</idcounter>
+								<scalelock>2.5</scalelock>
+								<token>
+									<prototype>portrait_id-00005_token</prototype>
+									<id>3</id>
+									<x>509</x>
+									<y>503</y>
+									<scale>0.8</scale>
+								</token>
+								<token>
+									<prototype>portrait_id-00003_token</prototype>
+									<id>5</id>
+									<x>509</x>
+									<y>453</y>
+								</token>
+								<token>
+									<prototype>portrait_id-00002_token</prototype>
+									<id>4</id>
+									<x>409</x>
+									<y>453</y>
+								</token>
+							</tokens>
+						</image>
+					</img_map_2_jpg>
+				</category>
+				<category name="NPCs - DD Dungeon Masters Guide" baseicon="2" decalicon="1">
+				</category>
+				<category name="Races - DD Dungeon Masters Guide" baseicon="2" decalicon="1">
+				</category>
+			</imagedata>
+		</category>
+	</reference>
+</root>

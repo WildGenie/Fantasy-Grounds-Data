@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<modulestate version="3.1">
+	<module name="DD Dungeon Masters Guide">
+		<loaded />
+	</module>
+	<module name="DD Elemental Evil Players Companion">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD Hoard of the Dragon Queen">
+		<loaded />
+	</module>
+	<module name="DD MM Monster Manual">
+		<loaded />
+	</module>
+	<module name="DD PHB Deluxe">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD The Rise of Tiamat">
+		<loaded />
+	</module>
+	<module name="FG Battle Maps">
+		<loaded />
+	</module>
+</modulestate>

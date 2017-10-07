@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.2" release="7">
+	<battle>
+	</battle>
+	<charsheet>
+		<id-00001>
+			<ac>
+				<sources>
+					<armor type="number">0</armor>
+					<misc type="number">0</misc>
+					<shield type="number">0</shield>
+					<temporary type="number">0</temporary>
+				</sources>
+				<totals>
+					<general type="number">8</general>
+				</totals>
+			</ac>
+			<addprofevery type="number">0</addprofevery>
+			<attackbonus>
+				<melee type="number">0</melee>
+				<ranged type="number">0</ranged>
+			</attackbonus>
+			<breathweaponsave type="number">0</breathweaponsave>
+			<castingmode type="number">0</castingmode>
+			<characterlevel type="number">0</characterlevel>
+			<charisma type="number">0</charisma>
+			<classes>
+				<slot1>
+					<level type="number">0</level>
+				</slot1>
+				<slot2>
+					<level type="number">0</level>
+				</slot2>
+				<slot3>
+					<level type="number">0</level>
+				</slot3>
+			</classes>
+			<climbwalls type="number">0</climbwalls>
+			<coins>
+				<slot1>
+					<amount type="number">0</amount>
+				</slot1>
+				<slot2>
+					<amount type="number">0</amount>
+				</slot2>
+				<slot3>
+					<amount type="number">0</amount>
+				</slot3>
+				<slot4>
+					<amount type="number">0</amount>
+				</slot4>
+				<slot5>
+					<amount type="number">0</amount>
+				</slot5>
+				<slot6>
+					<amount type="number">0</amount>
+				</slot6>
+			</coins>
+			<combattoken type="token"></combattoken>
+			<constitution type="number">0</constitution>
+			<damageadjustment type="number">0</damageadjustment>
+			<deathparalysispoisonsave type="number">0</deathparalysispoisonsave>
+			<defenseadjustment type="number">-2</defenseadjustment>
+			<dexterity type="number">16</dexterity>
+			<encumbrance>
+				<load type="number">0</load>
+			</encumbrance>
+			<encumbrancestrbonus type="number">0</encumbrancestrbonus>
+			<exceptionalstrength type="number">0</exceptionalstrength>
+			<exp type="number">0</exp>
+			<expneeded type="number">0</expneeded>
+			<findtraps type="number">0</findtraps>
+			<hearnoise type="number">0</hearnoise>
+			<hideinshadows type="number">0</hideinshadows>
+			<hitprobability type="number">0</hitprobability>
+			<hp>
+				<nonlethal type="number">0</nonlethal>
+				<total type="number">0</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<hpadjustment type="number">0</hpadjustment>
+			<intelligence type="number">0</intelligence>
+			<inventorylist>
+			</inventorylist>
+			<languagelist>
+			</languagelist>
+			<loyaltybase type="number">0</loyaltybase>
+			<maximumadditionallanguages type="number">0</maximumadditionallanguages>
+			<maximumhenchman type="number">0</maximumhenchman>
+			<maxspellsperlevel type="number">0</maxspellsperlevel>
+			<minspellsperlevel type="number">0</minspellsperlevel>
+			<miscattackbonus>
+				<melee type="number">0</melee>
+				<ranged type="number">0</ranged>
+			</miscattackbonus>
+			<missilebonus type="number">0</missilebonus>
+			<movementrate type="number">0</movementrate>
+			<movesilently type="number">0</movesilently>
+			<nonprofpenalty type="number">0</nonprofpenalty>
+			<numberofattacks type="number">0</numberofattacks>
+			<openlocks type="number">0</openlocks>
+			<perround type="number">0</perround>
+			<petrificationpolymorphsave type="number">0</petrificationpolymorphsave>
+			<pickpockets type="number">0</pickpockets>
+			<proficiencylist>
+			</proficiencylist>
+			<reactionadjustment type="number">0</reactionadjustment>
+			<readlanguages type="number">0</readlanguages>
+			<reflexadjustment type="number">0</reflexadjustment>
+			<resurrectionsurvival type="number">0</resurrectionsurvival>
+			<rodstaffwandsave type="number">0</rodstaffwandsave>
+			<special>
+				<spellfailure type="number">0</spellfailure>
+				<spellresistance type="number">0</spellresistance>
+			</special>
+			<specialabilitylist>
+			</specialabilitylist>
+			<spellsave type="number">0</spellsave>
+			<spellset>
+				<set1>
+					<availablelevel1 type="number">0</availablelevel1>
+					<availablelevel2 type="number">0</availablelevel2>
+					<availablelevel3 type="number">0</availablelevel3>
+					<availablelevel4 type="number">0</availablelevel4>
+					<availablelevel5 type="number">0</availablelevel5>
+					<availablelevel6 type="number">0</availablelevel6>
+					<availablelevel7 type="number">0</availablelevel7>
+					<availablelevel8 type="number">0</availablelevel8>
+					<availablelevel9 type="number">0</availablelevel9>
+					<levels>
+						<level0>
+							<spells>
+							</spells>
+						</level0>
+						<level1>
+							<spells>
+							</spells>
+						</level1>
+						<level2>
+							<spells>
+							</spells>
+						</level2>
+						<level3>
+							<spells>
+							</spells>
+						</level3>
+						<level4>
+							<spells>
+							</spells>
+						</level4>
+						<level5>
+							<spells>
+							</spells>
+						</level5>
+						<level6>
+							<spells>
+							</spells>
+						</level6>
+						<level7>
+							<spells>
+							</spells>
+						</level7>
+						<level8>
+							<spells>
+							</spells>
+						</level8>
+						<level9>
+							<spells>
+							</spells>
+						</level9>
+					</levels>
+					<spontaneous type="number">0</spontaneous>
+				</set1>
+				<set2>
+					<availablelevel1 type="number">0</availablelevel1>
+					<availablelevel2 type="number">0</availablelevel2>
+					<availablelevel3 type="number">0</availablelevel3>
+					<availablelevel4 type="number">0</availablelevel4>
+					<availablelevel5 type="number">0</availablelevel5>
+					<availablelevel6 type="number">0</availablelevel6>
+					<availablelevel7 type="number">0</availablelevel7>
+					<availablelevel8 type="number">0</availablelevel8>
+					<availablelevel9 type="number">0</availablelevel9>
+					<levels>
+						<level0>
+							<spells>
+							</spells>
+						</level0>
+						<level1>
+							<spells>
+							</spells>
+						</level1>
+						<level2>
+							<spells>
+							</spells>
+						</level2>
+						<level3>
+							<spells>
+							</spells>
+						</level3>
+						<level4>
+							<spells>
+							</spells>
+						</level4>
+						<level5>
+							<spells>
+							</spells>
+						</level5>
+						<level6>
+							<spells>
+							</spells>
+						</level6>
+						<level7>
+							<spells>
+							</spells>
+						</level7>
+						<level8>
+							<spells>
+							</spells>
+						</level8>
+						<level9>
+							<spells>
+							</spells>
+						</level9>
+					</levels>
+					<spontaneous type="number">0</spontaneous>
+				</set2>
+				<set3>
+					<availablelevel1 type="number">0</availablelevel1>
+					<availablelevel2 type="number">0</availablelevel2>
+					<availablelevel3 type="number">0</availablelevel3>
+					<availablelevel4 type="number">0</availablelevel4>
+					<availablelevel5 type="number">0</availablelevel5>
+					<availablelevel6 type="number">0</availablelevel6>
+					<availablelevel7 type="number">0</availablelevel7>
+					<availablelevel8 type="number">0</availablelevel8>
+					<availablelevel9 type="number">0</availablelevel9>
+					<levels>
+						<level0>
+							<spells>
+							</spells>
+						</level0>
+						<level1>
+							<spells>
+							</spells>
+						</level1>
+						<level2>
+							<spells>
+							</spells>
+						</level2>
+						<level3>
+							<spells>
+							</spells>
+						</level3>
+						<level4>
+							<spells>
+							</spells>
+						</level4>
+						<level5>
+							<spells>
+							</spells>
+						</level5>
+						<level6>
+							<spells>
+							</spells>
+						</level6>
+						<level7>
+							<spells>
+							</spells>
+						</level7>
+						<level8>
+							<spells>
+							</spells>
+						</level8>
+						<level9>
+							<spells>
+							</spells>
+						</level9>
+					</levels>
+					<spontaneous type="number">0</spontaneous>
+				</set3>
+			</spellset>
+			<strength type="number">12</strength>
+			<surprise>
+				<encumbrance type="number">0</encumbrance>
+			</surprise>
+			<surpriseadjustmentbonus type="number">0</surpriseadjustmentbonus>
+			<systemshocksurvival type="number">0</systemshocksurvival>
+			<thac0 type="number">0</thac0>
+			<turndemon type="number">0</turndemon>
+			<turnghast type="number">0</turnghast>
+			<turnghost type="number">0</turnghost>
+			<turnghoul type="number">0</turnghoul>
+			<turnlich type="number">0</turnlich>
+			<turnmummy type="number">0</turnmummy>
+			<turnshadow type="number">0</turnshadow>
+			<turnskeleton type="number">0</turnskeleton>
+			<turnspectre type="number">0</turnspectre>
+			<turnvampire type="number">0</turnvampire>
+			<turnwight type="number">0</turnwight>
+			<turnwraith type="number">0</turnwraith>
+			<turnzombie type="number">0</turnzombie>
+			<weaponlist>
+			</weaponlist>
+			<willadjustment type="number">0</willadjustment>
+			<wisdom type="number">0</wisdom>
+		</id-00001>
+	</charsheet>
+	<effects>
+	</effects>
+	<encounter>
+	</encounter>
+	<library>
+	</library>
+	<notes>
+	</notes>
+	<npc>
+	</npc>
+	<options>
+	</options>
+</root>

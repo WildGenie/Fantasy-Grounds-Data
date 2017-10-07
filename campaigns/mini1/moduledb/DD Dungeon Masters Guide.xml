@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="fd1672f8c7a58e9a0abd43b3f7e723f07d4f3cac">
+	<image>
+		<category name="DD Dungeon Masters Guide" mergeid="" baseicon="2" decalicon="1">
+			<img_assault_jpg>
+				<image type="image">
+					<bitmap>images/Assault.jpg</bitmap>
+				</image>
+			</img_assault_jpg>
+			<img_handdrawn_map_jpg>
+				<image type="image">
+					<bitmap>images/Handdrawn_Map.jpg</bitmap>
+				</image>
+			</img_handdrawn_map_jpg>
+			<img_map_1_jpg>
+				<image type="image">
+					<bitmap>images/Map-1.jpg</bitmap>
+				</image>
+			</img_map_1_jpg>
+			<img_map_2_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Map-2.jpg</bitmap>
+					<mask>maskedimages/1470079336.png</mask>
+					<gridsize>50</gridsize>
+					<gridoffset>33,27</gridoffset>
+					<gridsnap>on</gridsnap>
+					<clientview>0,773,693,1592</clientview>
+					<shortcuts>
+						<shortcut>
+							<x>693</x>
+							<y>183</y>
+							<class>npc</class>
+							<recordname>reference.npcdata.goblin@DD MM Monster Manual</recordname>
+						</shortcut>
+						<shortcut>
+							<x>-188</x>
+							<y>824</y>
+							<class>npc</class>
+							<recordname>reference.npcdata.gianteagle@DD MM Monster Manual</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>42</idcounter>
+						<tokenlock />
+						<scalelock>2.5</scalelock>
+						<token>
+							<prototype>portrait_id-00009_token</prototype>
+							<id>27</id>
+							<x>309</x>
+							<y>1003</y>
+						</token>
+						<token>
+							<prototype>portrait_id-00007_token</prototype>
+							<id>26</id>
+							<x>209</x>
+							<y>903</y>
+						</token>
+						<token>
+							<prototype>portrait_id-00008_token</prototype>
+							<id>28</id>
+							<x>259</x>
+							<y>1003</y>
+						</token>
+					</tokens>
+				</image>
+			</img_map_2_jpg>
+			<img_map_3_jpg>
+				<image type="image">
+					<bitmap>images/Map-3.jpg</bitmap>
+					<gridsize>30</gridsize>
+					<gridoffset>6,6</gridoffset>
+					<gridsnap>on</gridsnap>
+				</image>
+			</img_map_3_jpg>
+			<img_map_4_jpg>
+				<image type="image">
+					<bitmap>images/Map-4.jpg</bitmap>
+					<gridsize>30</gridsize>
+					<gridoffset>23,29</gridoffset>
+					<gridsnap>on</gridsnap>
+				</image>
+			</img_map_4_jpg>
+			<img_map_6_jpg>
+				<image type="image">
+					<bitmap>images/Map-6.jpg</bitmap>
+					<gridtype>hexcolumn</gridtype>
+					<gridsize>22</gridsize>
+					<gridoffset>10,9</gridoffset>
+					<gridsnap>on</gridsnap>
+					<tokens>
+						<idcounter>0</idcounter>
+						<orientationcount>6</orientationcount>
+					</tokens>
+				</image>
+			</img_map_6_jpg>
+			<img_map_7_jpg>
+				<image type="image">
+					<bitmap>images/Map-7.jpg</bitmap>
+					<gridsize>60</gridsize>
+					<gridoffset>58,1</gridoffset>
+					<gridsnap>on</gridsnap>
+				</image>
+			</img_map_7_jpg>
+			<img_map_8_jpg>
+				<image type="image">
+					<bitmap>images/Map-8.jpg</bitmap>
+					<gridsize>50</gridsize>
+					<gridoffset>0,1</gridoffset>
+					<gridsnap>on</gridsnap>
+				</image>
+			</img_map_8_jpg>
+			<img_map_9_jpg>
+				<image type="image">
+					<bitmap>images/Map-9.jpg</bitmap>
+					<gridsize>35</gridsize>
+					<gridoffset>17,8</gridoffset>
+					<gridsnap>on</gridsnap>
+				</image>
+			</img_map_9_jpg>
+		</category>
+	</image>
+</root>

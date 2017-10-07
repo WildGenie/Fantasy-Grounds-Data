@@ -1,0 +1,4365 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="0a955de8e1f8c807a4293ee3100a13e6eee1b404">
+	<reference>
+		<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+			<backgrounddata>
+				<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+					<soldier>
+						<public />
+						<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+							<features>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<militaryrank>
+										<public />
+									</militaryrank>
+								</category>
+							</features>
+						</category>
+					</soldier>
+				</category>
+			</backgrounddata>
+			<classdata>
+				<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+					<fighter>
+						<public />
+						<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+							<abilities>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<battlemaster>
+										<public />
+									</battlemaster>
+									<champion>
+										<public />
+									</champion>
+									<eldritchknight>
+										<public />
+									</eldritchknight>
+								</category>
+							</abilities>
+							<equipment>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<standard>
+										<public />
+									</standard>
+								</category>
+							</equipment>
+							<features>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<abilityscoreimprovement12>
+										<public />
+									</abilityscoreimprovement12>
+									<abilityscoreimprovement14>
+										<public />
+									</abilityscoreimprovement14>
+									<abilityscoreimprovement16>
+										<public />
+									</abilityscoreimprovement16>
+									<abilityscoreimprovement19>
+										<public />
+									</abilityscoreimprovement19>
+									<abilityscoreimprovement4>
+										<public />
+									</abilityscoreimprovement4>
+									<abilityscoreimprovement6>
+										<public />
+									</abilityscoreimprovement6>
+									<abilityscoreimprovement8>
+										<public />
+									</abilityscoreimprovement8>
+									<actionsurge2>
+										<public />
+									</actionsurge2>
+									<additionalfightingstyle10>
+										<public />
+									</additionalfightingstyle10>
+									<arcanecharge15>
+										<public />
+									</arcanecharge15>
+									<combatsuperiority10>
+										<public />
+									</combatsuperiority10>
+									<combatsuperiority15>
+										<public />
+									</combatsuperiority15>
+									<combatsuperiority3>
+										<public />
+									</combatsuperiority3>
+									<combatsuperiority7>
+										<public />
+									</combatsuperiority7>
+									<eldritchstrike10>
+										<public />
+									</eldritchstrike10>
+									<extraattack5>
+										<public />
+									</extraattack5>
+									<fightingstyle1>
+										<public />
+									</fightingstyle1>
+									<improvedcombatsuperiority10>
+										<public />
+									</improvedcombatsuperiority10>
+									<improvedcombatsuperiority18>
+										<public />
+									</improvedcombatsuperiority18>
+									<improvedcritical3>
+										<public />
+									</improvedcritical3>
+									<improvedwarmagic18>
+										<public />
+									</improvedwarmagic18>
+									<indomitable13>
+										<public />
+									</indomitable13>
+									<indomitable17>
+										<public />
+									</indomitable17>
+									<indomitable9>
+										<public />
+									</indomitable9>
+									<knowyourenemy7>
+										<public />
+									</knowyourenemy7>
+									<martialarchetype3>
+										<public />
+									</martialarchetype3>
+									<relentless15>
+										<public />
+									</relentless15>
+									<remarkableathlete7>
+										<public />
+									</remarkableathlete7>
+									<secondwind1>
+										<public />
+									</secondwind1>
+									<spellcasting3>
+										<public />
+									</spellcasting3>
+									<studentofwar3>
+										<public />
+									</studentofwar3>
+									<superiorcritical15>
+										<public />
+									</superiorcritical15>
+									<survivor18>
+										<public />
+									</survivor18>
+									<warmagic7>
+										<public />
+									</warmagic7>
+									<weaponbond3>
+										<public />
+									</weaponbond3>
+								</category>
+							</features>
+							<hp>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<hitdice>
+										<public />
+									</hitdice>
+									<hitpointsat1stlevel>
+										<public />
+									</hitpointsat1stlevel>
+									<hitpointsathigherlevels>
+										<public />
+									</hitpointsathigherlevels>
+								</category>
+							</hp>
+							<multiclassfeatures>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<extraattack5>
+										<public />
+									</extraattack5>
+									<spellcasting3>
+										<public />
+									</spellcasting3>
+								</category>
+							</multiclassfeatures>
+							<multiclassproficiencies>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<armor>
+										<public />
+									</armor>
+									<weapons>
+										<public />
+									</weapons>
+								</category>
+							</multiclassproficiencies>
+							<proficiencies>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<armor>
+										<public />
+									</armor>
+									<savingthrows>
+										<public />
+									</savingthrows>
+									<skills>
+										<public />
+									</skills>
+									<tools>
+										<public />
+									</tools>
+									<weapons>
+										<public />
+									</weapons>
+								</category>
+							</proficiencies>
+						</category>
+					</fighter>
+					<ranger>
+						<public />
+						<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+							<abilities>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<beastmaster>
+										<public />
+									</beastmaster>
+									<hunter>
+										<public />
+									</hunter>
+								</category>
+							</abilities>
+							<equipment>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<standard>
+										<public />
+									</standard>
+								</category>
+							</equipment>
+							<features>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<abilityscoreimprovement12>
+										<public />
+									</abilityscoreimprovement12>
+									<abilityscoreimprovement16>
+										<public />
+									</abilityscoreimprovement16>
+									<abilityscoreimprovement19>
+										<public />
+									</abilityscoreimprovement19>
+									<abilityscoreimprovement4>
+										<public />
+									</abilityscoreimprovement4>
+									<abilityscoreimprovement8>
+										<public />
+									</abilityscoreimprovement8>
+									<bestialfury11>
+										<public />
+									</bestialfury11>
+									<defensivetactics7>
+										<public />
+									</defensivetactics7>
+									<exceptionaltraining7>
+										<public />
+									</exceptionaltraining7>
+									<extraattack5>
+										<public />
+									</extraattack5>
+									<favoredenemy1>
+										<public />
+									</favoredenemy1>
+									<favoredenemy14>
+										<public />
+									</favoredenemy14>
+									<favoredenemy6>
+										<public />
+									</favoredenemy6>
+									<feralsenses18>
+										<public />
+									</feralsenses18>
+									<fightingstyle2>
+										<public />
+									</fightingstyle2>
+									<foeslayer20>
+										<public />
+									</foeslayer20>
+									<hideinplainsight10>
+										<public />
+									</hideinplainsight10>
+									<hunter_sprey3>
+										<public />
+									</hunter_sprey3>
+									<land_sstride8>
+										<public />
+									</land_sstride8>
+									<multiattack11>
+										<public />
+									</multiattack11>
+									<naturalexplorer1>
+										<public />
+									</naturalexplorer1>
+									<primevalawareness3>
+										<public />
+									</primevalawareness3>
+									<ranger_scompanion3>
+										<public />
+									</ranger_scompanion3>
+									<rangerarchetype3>
+										<public />
+									</rangerarchetype3>
+									<sharespells15>
+										<public />
+									</sharespells15>
+									<spellcasting2>
+										<public />
+									</spellcasting2>
+									<superiorhunter_sdefense15>
+										<public />
+									</superiorhunter_sdefense15>
+									<vanish14>
+										<public />
+									</vanish14>
+								</category>
+							</features>
+							<hp>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<hitdice>
+										<public />
+									</hitdice>
+									<hitpointsat1stlevel>
+										<public />
+									</hitpointsat1stlevel>
+									<hitpointsathigherlevels>
+										<public />
+									</hitpointsathigherlevels>
+								</category>
+							</hp>
+							<multiclassfeatures>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<extraattack5>
+										<public />
+									</extraattack5>
+									<spellcasting2>
+										<public />
+									</spellcasting2>
+								</category>
+							</multiclassfeatures>
+							<multiclassproficiencies>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<armor>
+										<public />
+									</armor>
+									<skills>
+										<public />
+									</skills>
+									<weapons>
+										<public />
+									</weapons>
+								</category>
+							</multiclassproficiencies>
+							<proficiencies>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<armor>
+										<public />
+									</armor>
+									<savingthrows>
+										<public />
+									</savingthrows>
+									<skills>
+										<public />
+									</skills>
+									<tools>
+										<public />
+									</tools>
+									<weapons>
+										<public />
+									</weapons>
+								</category>
+							</proficiencies>
+						</category>
+					</ranger>
+					<rogue>
+						<public />
+						<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+							<abilities>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<arcanetrickster>
+										<public />
+									</arcanetrickster>
+									<assassin>
+										<public />
+									</assassin>
+									<thief>
+										<public />
+									</thief>
+								</category>
+							</abilities>
+							<equipment>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<standard>
+										<public />
+									</standard>
+								</category>
+							</equipment>
+							<features>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<abilityscoreimprovement10>
+										<public />
+									</abilityscoreimprovement10>
+									<abilityscoreimprovement12>
+										<public />
+									</abilityscoreimprovement12>
+									<abilityscoreimprovement16>
+										<public />
+									</abilityscoreimprovement16>
+									<abilityscoreimprovement19>
+										<public />
+									</abilityscoreimprovement19>
+									<abilityscoreimprovement4>
+										<public />
+									</abilityscoreimprovement4>
+									<abilityscoreimprovement8>
+										<public />
+									</abilityscoreimprovement8>
+									<assassinate3>
+										<public />
+									</assassinate3>
+									<blindsense14>
+										<public />
+									</blindsense14>
+									<bonusproficiencies3>
+										<public />
+									</bonusproficiencies3>
+									<cunningaction2>
+										<public />
+									</cunningaction2>
+									<deathstrike17>
+										<public />
+									</deathstrike17>
+									<elusive18>
+										<public />
+									</elusive18>
+									<evasion7>
+										<public />
+									</evasion7>
+									<expertise1>
+										<public />
+									</expertise1>
+									<expertise6>
+										<public />
+									</expertise6>
+									<fasthands3>
+										<public />
+									</fasthands3>
+									<impostor13>
+										<public />
+									</impostor13>
+									<infiltrationexpertise9>
+										<public />
+									</infiltrationexpertise9>
+									<magehandlegerdemain3>
+										<public />
+									</magehandlegerdemain3>
+									<magicalambush9>
+										<public />
+									</magicalambush9>
+									<reliabletalent11>
+										<public />
+									</reliabletalent11>
+									<roguisharchetype3>
+										<public />
+									</roguisharchetype3>
+									<second_storywork3>
+										<public />
+									</second_storywork3>
+									<slipperymind15>
+										<public />
+									</slipperymind15>
+									<sneakattack1>
+										<public />
+									</sneakattack1>
+									<spellcasting10>
+										<public />
+									</spellcasting10>
+									<spellcasting3>
+										<public />
+									</spellcasting3>
+									<spellthief17>
+										<public />
+									</spellthief17>
+									<strokeofluck20>
+										<public />
+									</strokeofluck20>
+									<supremesneak9>
+										<public />
+									</supremesneak9>
+									<thief_sreflexes17>
+										<public />
+									</thief_sreflexes17>
+									<thieves_cant1>
+										<public />
+									</thieves_cant1>
+									<uncannydodge5>
+										<public />
+									</uncannydodge5>
+									<usemagicdevice13>
+										<public />
+									</usemagicdevice13>
+									<versatiletrickster13>
+										<public />
+									</versatiletrickster13>
+								</category>
+							</features>
+							<hp>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<hitdice>
+										<public />
+									</hitdice>
+									<hitpointsat1stlevel>
+										<public />
+									</hitpointsat1stlevel>
+									<hitpointsathigherlevels>
+										<public />
+									</hitpointsathigherlevels>
+								</category>
+							</hp>
+							<multiclassfeatures>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<spellcasting3>
+										<public />
+									</spellcasting3>
+								</category>
+							</multiclassfeatures>
+							<multiclassproficiencies>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<armor>
+										<public />
+									</armor>
+									<skills>
+										<public />
+									</skills>
+									<tools>
+										<public />
+									</tools>
+								</category>
+							</multiclassproficiencies>
+							<proficiencies>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<armor>
+										<public />
+									</armor>
+									<savingthrows>
+										<public />
+									</savingthrows>
+									<skills>
+										<public />
+									</skills>
+									<tools>
+										<public />
+									</tools>
+									<weapons>
+										<public />
+									</weapons>
+								</category>
+							</proficiencies>
+						</category>
+					</rogue>
+				</category>
+			</classdata>
+			<spelllists>
+				<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+					<cleric>
+						<public />
+						<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+							<groups>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<level0>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<guidance>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</guidance>
+													<light>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</light>
+													<mending>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mending>
+													<resistance>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</resistance>
+													<sacredflame>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sacredflame>
+													<sparethedying>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sparethedying>
+													<thaumaturgy>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</thaumaturgy>
+												</category>
+											</index>
+										</category>
+									</level0>
+									<level1>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<bane>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</bane>
+													<bless>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</bless>
+													<command>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</command>
+													<createordestroywater>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</createordestroywater>
+													<curewounds>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</curewounds>
+													<detectevilandgood>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</detectevilandgood>
+													<detectmagic>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</detectmagic>
+													<detectpoisonanddisease>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</detectpoisonanddisease>
+													<guidingbolt>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</guidingbolt>
+													<healingword>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</healingword>
+													<inflictwounds>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</inflictwounds>
+													<protectionfromevilandgood>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</protectionfromevilandgood>
+													<purifyfoodanddrink>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</purifyfoodanddrink>
+													<sanctuary>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sanctuary>
+													<shieldoffaith>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</shieldoffaith>
+												</category>
+											</index>
+										</category>
+									</level1>
+									<level2>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<aid>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</aid>
+													<augury>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</augury>
+													<blindness_deafness>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</blindness_deafness>
+													<calmemotions>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</calmemotions>
+													<continualflame>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</continualflame>
+													<enhanceability>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</enhanceability>
+													<findtraps>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</findtraps>
+													<gentlerepose>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</gentlerepose>
+													<holdperson>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</holdperson>
+													<lesserrestoration>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</lesserrestoration>
+													<locateobject>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</locateobject>
+													<prayerofhealing>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</prayerofhealing>
+													<protectionfrompoison>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</protectionfrompoison>
+													<silence>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</silence>
+													<spiritualweapon>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</spiritualweapon>
+													<wardingbond>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</wardingbond>
+													<zoneoftruth>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</zoneoftruth>
+												</category>
+											</index>
+										</category>
+									</level2>
+									<level3>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<animatedead>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</animatedead>
+													<beaconofhope>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</beaconofhope>
+													<bestowcurse>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</bestowcurse>
+													<clairvoyance>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</clairvoyance>
+													<createfoodandwater>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</createfoodandwater>
+													<daylight>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</daylight>
+													<dispelmagic>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</dispelmagic>
+													<feigndeath>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</feigndeath>
+													<glyphofwarding>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</glyphofwarding>
+													<magiccircle>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</magiccircle>
+													<masshealingword>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</masshealingword>
+													<meldintostone>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</meldintostone>
+													<protectionfromenergy>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</protectionfromenergy>
+													<removecurse>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</removecurse>
+													<revivify>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</revivify>
+													<sending>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sending>
+													<speakwithdead>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</speakwithdead>
+													<spiritguardians>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</spiritguardians>
+													<tongues>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</tongues>
+													<waterwalk>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</waterwalk>
+												</category>
+											</index>
+										</category>
+									</level3>
+									<level4>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<banishment>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</banishment>
+													<controlwater>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</controlwater>
+													<deathward>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</deathward>
+													<divination>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</divination>
+													<freedomofmovement>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</freedomofmovement>
+													<guardianoffaith>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</guardianoffaith>
+													<locatecreature>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</locatecreature>
+													<stoneshape>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</stoneshape>
+												</category>
+											</index>
+										</category>
+									</level4>
+									<level5>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<commune>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</commune>
+													<contagion>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</contagion>
+													<dispelevilandgood>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</dispelevilandgood>
+													<flamestrike>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</flamestrike>
+													<geas>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</geas>
+													<greaterrestoration>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</greaterrestoration>
+													<hallow>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</hallow>
+													<insectplague>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</insectplague>
+													<legendlore>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</legendlore>
+													<masscurewounds>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</masscurewounds>
+													<planarbinding>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</planarbinding>
+													<raisedead>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</raisedead>
+													<scrying>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</scrying>
+												</category>
+											</index>
+										</category>
+									</level5>
+									<level6>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<bladebarrier>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</bladebarrier>
+													<createundead>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</createundead>
+													<findthepath>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</findthepath>
+													<forbiddance>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</forbiddance>
+													<harm>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</harm>
+													<heal>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</heal>
+													<heroes_feast>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</heroes_feast>
+													<planarally>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</planarally>
+													<trueseeing>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</trueseeing>
+													<wordofrecall>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</wordofrecall>
+												</category>
+											</index>
+										</category>
+									</level6>
+									<level7>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<conjurecelestial>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</conjurecelestial>
+													<divineword>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</divineword>
+													<etherealness>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</etherealness>
+													<firestorm>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</firestorm>
+													<planeshift>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</planeshift>
+													<regenerate>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</regenerate>
+													<resurrection>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</resurrection>
+													<symbol>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</symbol>
+												</category>
+											</index>
+										</category>
+									</level7>
+									<level8>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<antimagicfield>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</antimagicfield>
+													<controlweather>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</controlweather>
+													<earthquake>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</earthquake>
+													<holyaura>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</holyaura>
+												</category>
+											</index>
+										</category>
+									</level8>
+									<level9>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<astralprojection>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</astralprojection>
+													<gate>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</gate>
+													<massheal>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</massheal>
+													<trueresurrection>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</trueresurrection>
+												</category>
+											</index>
+										</category>
+									</level9>
+								</category>
+							</groups>
+						</category>
+					</cleric>
+					<druid>
+						<public />
+						<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+							<groups>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<level0>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<druidcraft>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</druidcraft>
+													<guidance>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</guidance>
+													<mending>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mending>
+													<poisonspray>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</poisonspray>
+													<produceflame>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</produceflame>
+													<resistance>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</resistance>
+													<shillelagh>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</shillelagh>
+													<thornwhip>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</thornwhip>
+												</category>
+											</index>
+										</category>
+									</level0>
+									<level1>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<animalfriendship>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</animalfriendship>
+													<charmperson>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</charmperson>
+													<createordestroywater>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</createordestroywater>
+													<curewounds>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</curewounds>
+													<detectmagic>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</detectmagic>
+													<detectpoisonanddisease>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</detectpoisonanddisease>
+													<entangle>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</entangle>
+													<faeriefire>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</faeriefire>
+													<fogcloud>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</fogcloud>
+													<goodberry>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</goodberry>
+													<healingword>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</healingword>
+													<jump>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</jump>
+													<longstrider>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</longstrider>
+													<purifyfoodanddrink>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</purifyfoodanddrink>
+													<speakwithanimals>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</speakwithanimals>
+													<thunderwave>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</thunderwave>
+												</category>
+											</index>
+										</category>
+									</level1>
+									<level2>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<animalmessenger>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</animalmessenger>
+													<barkskin>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</barkskin>
+													<beastsense>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</beastsense>
+													<darkvision>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</darkvision>
+													<enhanceability>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</enhanceability>
+													<findtraps>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</findtraps>
+													<flameblade>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</flameblade>
+													<flamingsphere>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</flamingsphere>
+													<gustofwind>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</gustofwind>
+													<heatmetal>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</heatmetal>
+													<holdperson>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</holdperson>
+													<lesserrestoration>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</lesserrestoration>
+													<locateanimalsorplants>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</locateanimalsorplants>
+													<locateobject>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</locateobject>
+													<moonbeam>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</moonbeam>
+													<passwithouttrace>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</passwithouttrace>
+													<protectionfrompoison>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</protectionfrompoison>
+													<spikegrowth>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</spikegrowth>
+												</category>
+											</index>
+										</category>
+									</level2>
+									<level3>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<calllightning>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</calllightning>
+													<conjureanimals>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</conjureanimals>
+													<daylight>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</daylight>
+													<dispelmagic>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</dispelmagic>
+													<feigndeath>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</feigndeath>
+													<meldintostone>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</meldintostone>
+													<plantgrowth>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</plantgrowth>
+													<protectionfromenergy>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</protectionfromenergy>
+													<sleetstorm>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sleetstorm>
+													<speakwithplants>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</speakwithplants>
+													<waterbreathing>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</waterbreathing>
+													<waterwalk>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</waterwalk>
+													<windwall>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</windwall>
+												</category>
+											</index>
+										</category>
+									</level3>
+									<level4>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<blight>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</blight>
+													<confusion>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</confusion>
+													<conjureminorelementals>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</conjureminorelementals>
+													<conjurewoodlandbeings>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</conjurewoodlandbeings>
+													<controlwater>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</controlwater>
+													<dominatebeast>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</dominatebeast>
+													<freedomofmovement>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</freedomofmovement>
+													<giantinsect>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</giantinsect>
+													<graspingvine>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</graspingvine>
+													<hallucinatoryterrain>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</hallucinatoryterrain>
+													<icestorm>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</icestorm>
+													<locatecreature>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</locatecreature>
+													<polymorph>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</polymorph>
+													<stoneshape>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</stoneshape>
+													<stoneskin>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</stoneskin>
+													<walloffire>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</walloffire>
+												</category>
+											</index>
+										</category>
+									</level4>
+									<level5>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<antilifeshell>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</antilifeshell>
+													<awaken>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</awaken>
+													<communewithnature>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</communewithnature>
+													<conjureelemental>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</conjureelemental>
+													<contagion>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</contagion>
+													<geas>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</geas>
+													<greaterrestoration>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</greaterrestoration>
+													<insectplague>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</insectplague>
+													<masscurewounds>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</masscurewounds>
+													<planarbinding>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</planarbinding>
+													<reincarnate>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</reincarnate>
+													<scrying>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</scrying>
+													<treestride>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</treestride>
+													<wallofstone>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</wallofstone>
+												</category>
+											</index>
+										</category>
+									</level5>
+									<level6>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<conjurefey>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</conjurefey>
+													<findthepath>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</findthepath>
+													<heal>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</heal>
+													<heroes_feast>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</heroes_feast>
+													<moveearth>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</moveearth>
+													<sunbeam>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sunbeam>
+													<transportviaplants>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</transportviaplants>
+													<wallofthorns>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</wallofthorns>
+													<windwalk>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</windwalk>
+												</category>
+											</index>
+										</category>
+									</level6>
+									<level7>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<firestorm>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</firestorm>
+													<miragearcane>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</miragearcane>
+													<planeshift>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</planeshift>
+													<regenerate>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</regenerate>
+													<reversegravity>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</reversegravity>
+												</category>
+											</index>
+										</category>
+									</level7>
+									<level8>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<animalshapes>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</animalshapes>
+													<antipathy_sympathy>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</antipathy_sympathy>
+													<controlweather>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</controlweather>
+													<earthquake>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</earthquake>
+													<feeblemind>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</feeblemind>
+													<sunburst>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sunburst>
+													<tsunami>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</tsunami>
+												</category>
+											</index>
+										</category>
+									</level8>
+									<level9>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<foresight>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</foresight>
+													<shapechange>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</shapechange>
+													<stormofvengeance>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</stormofvengeance>
+													<trueresurrection>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</trueresurrection>
+												</category>
+											</index>
+										</category>
+									</level9>
+								</category>
+							</groups>
+						</category>
+					</druid>
+					<wizard>
+						<public />
+						<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+							<groups>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<level0>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<acidsplash>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</acidsplash>
+													<bladeward>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</bladeward>
+													<chilltouch>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</chilltouch>
+													<dancinglights>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</dancinglights>
+													<firebolt>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</firebolt>
+													<friends>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</friends>
+													<light>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</light>
+													<magehand>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</magehand>
+													<mending>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mending>
+													<message>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</message>
+													<minorillusion>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</minorillusion>
+													<poisonspray>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</poisonspray>
+													<prestidigitation>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</prestidigitation>
+													<rayoffrost>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</rayoffrost>
+													<shockinggrasp>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</shockinggrasp>
+													<truestrike>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</truestrike>
+												</category>
+											</index>
+										</category>
+									</level0>
+									<level1>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<alarm>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</alarm>
+													<burninghands>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</burninghands>
+													<charmperson>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</charmperson>
+													<chromaticorb>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</chromaticorb>
+													<colorspray>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</colorspray>
+													<comprehendlanguages>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</comprehendlanguages>
+													<detectmagic>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</detectmagic>
+													<disguiseself>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</disguiseself>
+													<expeditiousretreat>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</expeditiousretreat>
+													<falselife>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</falselife>
+													<featherfall>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</featherfall>
+													<findfamiliar>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</findfamiliar>
+													<fogcloud>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</fogcloud>
+													<grease>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</grease>
+													<identify>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</identify>
+													<illusoryscript>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</illusoryscript>
+													<jump>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</jump>
+													<longstrider>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</longstrider>
+													<magearmor>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</magearmor>
+													<magicmissile>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</magicmissile>
+													<protectionfromevilandgood>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</protectionfromevilandgood>
+													<rayofsickness>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</rayofsickness>
+													<shield>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</shield>
+													<silentimage>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</silentimage>
+													<sleep>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sleep>
+													<tasha_shideouslaughter>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</tasha_shideouslaughter>
+													<tenser_sfloatingdisk>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</tenser_sfloatingdisk>
+													<thunderwave>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</thunderwave>
+													<unseenservant>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</unseenservant>
+													<witchbolt>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</witchbolt>
+												</category>
+											</index>
+										</category>
+									</level1>
+									<level2>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<alterself>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</alterself>
+													<arcanelock>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</arcanelock>
+													<blindness_deafness>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</blindness_deafness>
+													<blur>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</blur>
+													<cloudofdaggers>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</cloudofdaggers>
+													<continualflame>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</continualflame>
+													<crownofmadness>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</crownofmadness>
+													<darkness>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</darkness>
+													<darkvision>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</darkvision>
+													<detectthoughts>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</detectthoughts>
+													<enlarge_reduce>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</enlarge_reduce>
+													<flamingsphere>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</flamingsphere>
+													<gentlerepose>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</gentlerepose>
+													<gustofwind>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</gustofwind>
+													<holdperson>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</holdperson>
+													<invisibility>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</invisibility>
+													<knock>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</knock>
+													<levitate>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</levitate>
+													<locateobject>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</locateobject>
+													<magicmouth>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</magicmouth>
+													<magicweapon>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</magicweapon>
+													<melf_sacidarrow>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</melf_sacidarrow>
+													<mirrorimage>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mirrorimage>
+													<mistystep>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mistystep>
+													<nystul_smagicaura>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</nystul_smagicaura>
+													<phantasmalforce>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</phantasmalforce>
+													<rayofenfeeblement>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</rayofenfeeblement>
+													<ropetrick>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</ropetrick>
+													<scorchingray>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</scorchingray>
+													<seeinvisibility>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</seeinvisibility>
+													<shatter>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</shatter>
+													<spiderclimb>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</spiderclimb>
+													<suggestion>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</suggestion>
+													<web>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</web>
+												</category>
+											</index>
+										</category>
+									</level2>
+									<level3>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<animatedead>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</animatedead>
+													<bestowcurse>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</bestowcurse>
+													<blink>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</blink>
+													<clairvoyance>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</clairvoyance>
+													<counterspell>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</counterspell>
+													<dispelmagic>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</dispelmagic>
+													<fear>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</fear>
+													<feigndeath>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</feigndeath>
+													<fireball>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</fireball>
+													<fly>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</fly>
+													<gaseousform>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</gaseousform>
+													<glyphofwarding>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</glyphofwarding>
+													<haste>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</haste>
+													<hypnoticpattern>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</hypnoticpattern>
+													<leomund_stinyhut>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</leomund_stinyhut>
+													<lightningbolt>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</lightningbolt>
+													<magiccircle>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</magiccircle>
+													<majorimage>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</majorimage>
+													<nondetection>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</nondetection>
+													<phantomsteed>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</phantomsteed>
+													<protectionfromenergy>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</protectionfromenergy>
+													<removecurse>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</removecurse>
+													<sending>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sending>
+													<sleetstorm>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sleetstorm>
+													<slow>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</slow>
+													<stinkingcloud>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</stinkingcloud>
+													<tongues>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</tongues>
+													<vampirictouch>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</vampirictouch>
+													<waterbreathing>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</waterbreathing>
+												</category>
+											</index>
+										</category>
+									</level3>
+									<level4>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<arcaneeye>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</arcaneeye>
+													<banishment>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</banishment>
+													<blight>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</blight>
+													<confusion>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</confusion>
+													<conjureminorelementals>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</conjureminorelementals>
+													<controlwater>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</controlwater>
+													<dimensiondoor>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</dimensiondoor>
+													<evard_sblacktentacles>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</evard_sblacktentacles>
+													<fabricate>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</fabricate>
+													<fireshield>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</fireshield>
+													<greaterinvisibility>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</greaterinvisibility>
+													<hallucinatoryterrain>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</hallucinatoryterrain>
+													<icestorm>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</icestorm>
+													<leomund_ssecretchest>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</leomund_ssecretchest>
+													<locatecreature>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</locatecreature>
+													<mordenkainen_sfaithfulhound>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mordenkainen_sfaithfulhound>
+													<mordenkainen_sprivatesanctum>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mordenkainen_sprivatesanctum>
+													<otiluke_sresilientsphere>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</otiluke_sresilientsphere>
+													<phantasmalkiller>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</phantasmalkiller>
+													<polymorph>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</polymorph>
+													<stoneshape>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</stoneshape>
+													<stoneskin>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</stoneskin>
+													<walloffire>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</walloffire>
+												</category>
+											</index>
+										</category>
+									</level4>
+									<level5>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<animateobjects>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</animateobjects>
+													<bigby_shand>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</bigby_shand>
+													<cloudkill>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</cloudkill>
+													<coneofcold>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</coneofcold>
+													<conjureelemental>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</conjureelemental>
+													<contactotherplane>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</contactotherplane>
+													<creation>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</creation>
+													<dominateperson>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</dominateperson>
+													<dream>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</dream>
+													<geas>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</geas>
+													<holdmonster>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</holdmonster>
+													<legendlore>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</legendlore>
+													<mislead>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mislead>
+													<modifymemory>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</modifymemory>
+													<passwall>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</passwall>
+													<planarbinding>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</planarbinding>
+													<rary_stelepathicbond>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</rary_stelepathicbond>
+													<scrying>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</scrying>
+													<seeming>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</seeming>
+													<telekinesis>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</telekinesis>
+													<teleportationcircle>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</teleportationcircle>
+													<wallofforce>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</wallofforce>
+													<wallofstone>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</wallofstone>
+												</category>
+											</index>
+										</category>
+									</level5>
+									<level6>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<arcanegate>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</arcanegate>
+													<chainlightning>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</chainlightning>
+													<circleofdeath>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</circleofdeath>
+													<contingency>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</contingency>
+													<createundead>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</createundead>
+													<disintegrate>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</disintegrate>
+													<drawmij_sinstantsummons>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</drawmij_sinstantsummons>
+													<eyebite>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</eyebite>
+													<fleshtostone>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</fleshtostone>
+													<globeofinvulnerability>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</globeofinvulnerability>
+													<guardsandwards>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</guardsandwards>
+													<magicjar>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</magicjar>
+													<masssuggestion>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</masssuggestion>
+													<moveearth>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</moveearth>
+													<otiluke_sfreezingsphere>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</otiluke_sfreezingsphere>
+													<otto_sirresistibledance>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</otto_sirresistibledance>
+													<programmedillusion>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</programmedillusion>
+													<sunbeam>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sunbeam>
+													<trueseeing>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</trueseeing>
+													<wallofice>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</wallofice>
+												</category>
+											</index>
+										</category>
+									</level6>
+									<level7>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<delayedblastfireball>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</delayedblastfireball>
+													<etherealness>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</etherealness>
+													<fingerofdeath>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</fingerofdeath>
+													<forcecage>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</forcecage>
+													<miragearcane>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</miragearcane>
+													<mordenkainen_smagnificentmansion>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mordenkainen_smagnificentmansion>
+													<mordenkainen_ssword>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mordenkainen_ssword>
+													<planeshift>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</planeshift>
+													<prismaticspray>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</prismaticspray>
+													<projectimage>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</projectimage>
+													<reversegravity>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</reversegravity>
+													<sequester>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sequester>
+													<simulacrum>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</simulacrum>
+													<symbol>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</symbol>
+													<teleport>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</teleport>
+												</category>
+											</index>
+										</category>
+									</level7>
+									<level8>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<antimagicfield>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</antimagicfield>
+													<antipathy_sympathy>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</antipathy_sympathy>
+													<clone>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</clone>
+													<controlweather>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</controlweather>
+													<demiplane>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</demiplane>
+													<dominatemonster>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</dominatemonster>
+													<feeblemind>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</feeblemind>
+													<incendiarycloud>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</incendiarycloud>
+													<maze>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</maze>
+													<mindblank>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</mindblank>
+													<powerwordstun>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</powerwordstun>
+													<sunburst>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</sunburst>
+													<telepathy>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</telepathy>
+												</category>
+											</index>
+										</category>
+									</level8>
+									<level9>
+										<public />
+										<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+													<astralprojection>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</astralprojection>
+													<foresight>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</foresight>
+													<gate>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</gate>
+													<imprisonment>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</imprisonment>
+													<meteorswarm>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</meteorswarm>
+													<powerwordkill>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</powerwordkill>
+													<prismaticwall>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</prismaticwall>
+													<shapechange>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</shapechange>
+													<timestop>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</timestop>
+													<truepolymorph>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</truepolymorph>
+													<weird>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</weird>
+													<wish>
+														<public />
+														<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+															<source>
+																<public />
+															</source>
+														</category>
+													</wish>
+												</category>
+											</index>
+										</category>
+									</level9>
+								</category>
+							</groups>
+						</category>
+					</wizard>
+				</category>
+			</spelllists>
+		</category>
+	</reference>
+</root>

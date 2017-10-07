@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="fb95cf04c3e6f9a8053b8b0438bf2d6c373fcd21">
+	<pregencharsheet>
+		<highelf_acolyte_>
+			<classes>
+				<id-00001>
+					<casterlevelinvmult type="number">1</casterlevelinvmult>
+				</id-00001>
+			</classes>
+		</highelf_acolyte_>
+		<hilldwarf_soldier_>
+			<classes>
+				<id-00001>
+					<casterlevelinvmult type="number">1</casterlevelinvmult>
+				</id-00001>
+			</classes>
+		</hilldwarf_soldier_>
+	</pregencharsheet>
+</root>

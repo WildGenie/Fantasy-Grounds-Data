@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<hotkeys version="3.2">
+	<bank number="0">
+		<key number="0">
+			<description>[INIT]</description>
+			<icon>action_roll</icon>
+			<shortcut>
+				<class>pc</class>
+				<datasource>charsheet.id-00007</datasource>
+			</shortcut>
+			<data>
+				<type>init</type>
+				<slot number="0">
+					<type>init</type>
+					<number>1</number>
+					<string>[INIT]</string>
+					<dice>
+						<die>d20</die>
+					</dice>
+				</slot>
+			</data>
+		</key>
+	</bank>
+	<bank number="1">
+	</bank>
+	<bank number="2">
+	</bank>
+	<bank number="3">
+	</bank>
+	<bank number="4">
+	</bank>
+	<bank number="5">
+	</bank>
+	<bank number="6">
+	</bank>
+	<bank number="7">
+	</bank>
+</hotkeys>

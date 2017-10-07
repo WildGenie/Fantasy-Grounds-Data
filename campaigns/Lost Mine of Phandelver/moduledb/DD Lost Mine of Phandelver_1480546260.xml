@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="fb95cf04c3e6f9a8053b8b0438bf2d6c373fcd21">
+	<battle>
+		<category name="LMoP - Part 1" mergeid="" baseicon="2" decalicon="1">
+			<bat_p1_03goblinambush>
+				<npclist>
+					<id-00001>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>partysheet.image</recordname>
+								</imageref>
+								<imagex type="number">376</imagex>
+								<imagey type="number">226</imagey>
+							</id-00001>
+							<id-00002>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>partysheet.image</recordname>
+								</imageref>
+								<imagex type="number">376</imagex>
+								<imagey type="number">326</imagey>
+							</id-00002>
+							<id-00003>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>partysheet.image</recordname>
+								</imageref>
+								<imagex type="number">276</imagex>
+								<imagey type="number">276</imagey>
+							</id-00003>
+							<id-00004>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>partysheet.image</recordname>
+								</imageref>
+								<imagex type="number">276</imagex>
+								<imagey type="number">126</imagey>
+							</id-00004>
+						</maplink>
+					</id-00001>
+				</npclist>
+			</bat_p1_03goblinambush>
+			<bat_p1_04_02_goblinblind>
+				<npclist>
+					<id-00001>
+						<maplink>
+							<id-id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+								</imageref>
+								<imagex type="number">506</imagex>
+								<imagey type="number">543</imagey>
+							</id-id-00001>
+							<id-id-00002>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+								</imageref>
+								<imagey type="number">578</imagey>
+							</id-id-00002>
+						</maplink>
+					</id-00001>
+				</npclist>
+			</bat_p1_04_02_goblinblind>
+			<bat_p1_04_03_kennel>
+				<npclist>
+					<id-00001>
+						<maplink>
+							<id-id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+								</imageref>
+							</id-id-00001>
+							<id-id-00002>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+								</imageref>
+							</id-id-00002>
+							<id-id-00003>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+								</imageref>
+							</id-id-00003>
+						</maplink>
+					</id-00001>
+				</npclist>
+			</bat_p1_04_03_kennel>
+			<bat_p1_04_05_overpass>
+				<npclist>
+					<id-00001>
+						<maplink>
+							<id-id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+								</imageref>
+							</id-id-00001>
+						</maplink>
+					</id-00001>
+				</npclist>
+			</bat_p1_04_05_overpass>
+			<bat_p1_04_07_twinpoolscave>
+				<npclist>
+					<id-00001>
+						<maplink>
+							<id-id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+								</imageref>
+							</id-id-00001>
+							<id-id-00002>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+								</imageref>
+							</id-id-00002>
+							<id-id-00003>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@*</recordname>
+								</imageref>
+							</id-id-00003>
+						</maplink>
+					</id-00001>
+				</npclist>
+			</bat_p1_04_07_twinpoolscave>
+			<bat_p1_04_08_klarg_scave>
+				<npclist>
+					<id-00001>
+						<maplink>
+							<id-id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+								</imageref>
+								<imagex type="number">856</imagex>
+								<imagey type="number">473</imagey>
+							</id-id-00001>
+						</maplink>
+					</id-00001>
+					<id-00002>
+						<maplink>
+							<id-id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+								</imageref>
+								<imagex type="number">891</imagex>
+							</id-id-00001>
+							<id-id-00002>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+								</imageref>
+								<imagex type="number">751</imagex>
+								<imagey type="number">473</imagey>
+							</id-id-00002>
+						</maplink>
+					</id-00002>
+					<id-00003>
+						<maplink>
+							<id-id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_cragmawhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+								</imageref>
+								<imagex type="number">891</imagex>
+								<imagey type="number">473</imagey>
+							</id-id-00001>
+						</maplink>
+					</id-00003>
+				</npclist>
+			</bat_p1_04_08_klarg_scave>
+		</category>
+		<category name="LMoP - Part 2" mergeid="" baseicon="2" decalicon="1">
+			<bat_p2_07_04_tresendarcrypts>
+				<npclist>
+					<id-00001>
+						<maplink>
+							<id-id-00002>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_redbrandhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+								</imageref>
+								<imagex type="number">577</imagex>
+								<imagey type="number">386</imagey>
+							</id-id-00002>
+							<id-id-00003>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.img_redbrandhideout_player__jpg.image@DD Lost Mine of Phandelver</recordname>
+								</imageref>
+								<imagex type="number">577</imagex>
+								<imagey type="number">403</imagey>
+							</id-id-00003>
+						</maplink>
+					</id-00001>
+				</npclist>
+			</bat_p2_07_04_tresendarcrypts>
+		</category>
+		<category name="LMoP - Part 3" mergeid="" baseicon="2" decalicon="1">
+			<bat_p3_07orccamp>
+				<npclist>
+					<id-00002>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>partysheet.image</recordname>
+								</imageref>
+								<imagex type="number">176</imagex>
+								<imagey type="number">26</imagey>
+							</id-00001>
+						</maplink>
+					</id-00002>
+				</npclist>
+			</bat_p3_07orccamp>
+		</category>
+		<category name="LMoP - Part 4" mergeid="" baseicon="2" decalicon="1">
+			<bat_wildernessencounters_ghouls>
+				<locked type="number">1</locked>
+				<npclist>
+					<id-00001>
+						<count type="number">2</count>
+					</id-00001>
+				</npclist>
+			</bat_wildernessencounters_ghouls>
+			<bat_wildernessencounters_owlbear>
+				<npclist>
+					<id-00001>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>partysheet.image</recordname>
+								</imageref>
+								<imagex type="number">401</imagex>
+								<imagey type="number">401</imagey>
+							</id-00001>
+						</maplink>
+					</id-00001>
+				</npclist>
+			</bat_wildernessencounters_owlbear>
+		</category>
+	</battle>
+	<image>
+		<category name="DD Lost Mine of Phandelver" mergeid="" baseicon="2" decalicon="1">
+			<img_bugbear_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Bugbear.jpg</bitmap>
+				</image>
+			</img_bugbear_jpg>
+			<img_cragmawcastle_player__jpg>
+				<image type="image">
+					<bitmap>images/Cragmaw Castle (Player).jpg</bitmap>
+					<gridsize>35</gridsize>
+					<gridoffset>33,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>160</x>
+							<y>440</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_01_castleentrance@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>300</x>
+							<y>370</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_02_trappedhall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>195</x>
+							<y>300</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_03_archerpost@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>225</x>
+							<y>545</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_03_archerpost@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>260</x>
+							<y>580</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_04_ruinedbarracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>300</x>
+							<y>225</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_05_storeroom@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>190</x>
+							<y>230</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_06_hobgoblinbarracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>440</x>
+							<y>490</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_07_banquethall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>470</x>
+							<y>330</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_08_darkhall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>470</x>
+							<y>190</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_09_goblinshrine@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>440</x>
+							<y>650</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_10_posterngate@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>615</x>
+							<y>225</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_11_ruinedtower@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>750</x>
+							<y>440</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_12_guardbarracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>720</x>
+							<y>580</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_13_owlbeartower@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>860</x>
+							<y>225</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_08_14_king_squarters@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</img_cragmawcastle_player__jpg>
+			<img_cragmawhideout_jpg>
+				<image type="image">
+					<bitmap>images/Cragmaw Hideout.jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>148</x>
+							<y>291</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_01_cavemouth@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>253</x>
+							<y>271</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_02_goblinblind@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>271</x>
+							<y>201</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_03_kennel@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>222</x>
+							<y>108</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_04_steeppassage@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>278</x>
+							<y>58</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_05_overpass@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>79</x>
+							<y>114</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_06_goblinden@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>411</x>
+							<y>119</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_07_twinpoolscave@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>446</x>
+							<y>238</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p1_04_08_klarg_scave@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</img_cragmawhideout_jpg>
+			<img_flameskull_jpg>
+				<image type="image">
+					<bitmap>images/Flameskull.jpg</bitmap>
+				</image>
+			</img_flameskull_jpg>
+			<img_goblin_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Goblin.jpg</bitmap>
+				</image>
+			</img_goblin_jpg>
+			<img_hobgoblin_jpg>
+				<image type="image">
+					<bitmap>images/Hobgoblin.jpg</bitmap>
+				</image>
+			</img_hobgoblin_jpg>
+			<img_nothic_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Nothic.jpg</bitmap>
+				</image>
+			</img_nothic_jpg>
+			<img_ogre_jpg>
+				<image type="image">
+					<bitmap>images/Ogre.jpg</bitmap>
+				</image>
+			</img_ogre_jpg>
+			<img_phandalin_jpg>
+				<image type="image">
+					<bitmap>images/Phandalin.jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>343</x>
+							<y>204</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_stonehillinn@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>399</x>
+							<y>140</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_barthen_sprovisions@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>198</x>
+							<y>156</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_edermathorchard@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>254</x>
+							<y>273</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_lionshieldcoster@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>244</x>
+							<y>347</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_phandalinminer_sexchange@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>488</x>
+							<y>342</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_alderleaffarm@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>290</x>
+							<y>208</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_shrineofluck@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>461</x>
+							<y>216</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_thesleepinggiant@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>333</x>
+							<y>268</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_townmaster_shall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>652</x>
+							<y>200</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_tresendarmanor@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</img_phandalin_jpg>
+			<img_phandalin_player__jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Phandalin (Player).jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>445</x>
+							<y>276</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_stonehillinn@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>518</x>
+							<y>216</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_barthen_sprovisions@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>256</x>
+							<y>207</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_edermathorchard@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>338</x>
+							<y>365</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_lionshieldcoster@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>324</x>
+							<y>460</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_phandalinminer_sexchange@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>657</x>
+							<y>457</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_alderleaffarm@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>384</x>
+							<y>279</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_shrineofluck@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>637</x>
+							<y>299</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_thesleepinggiant@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>423</x>
+							<y>355</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_townmaster_shall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>869</x>
+							<y>265</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_05_tresendarmanor@*</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>13</idcounter>
+						<tokenlock />
+						<scalelock>5.4</scalelock>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>2</id>
+							<type>1</type>
+							<startx>662</startx>
+							<starty>319</starty>
+							<endx>670</endx>
+							<endy>390</endy>
+							<owner></owner>
+							<color>6e00ff</color>
+						</pointer>
+					</pointers>
+				</image>
+			</img_phandalin_player__jpg>
+			<img_redbrandhideout_jpg>
+				<image type="image">
+					<bitmap>images/Redbrand Hideout.jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>430</x>
+							<y>290</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_01_cellar@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>205</x>
+							<y>253</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_02_barracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>466</x>
+							<y>203</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_03_trappedhall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>323</x>
+							<y>167</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_04_tresendarcrypts@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>377</x>
+							<y>114</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_05_slavepens@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>316</x>
+							<y>80</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_06_armory@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>219</x>
+							<y>80</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_07_storeroomandworkarea@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>168</x>
+							<y>218</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_08_crevasse@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>80</x>
+							<y>307</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_09_guardbarracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>80</x>
+							<y>185</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_10_commonroom@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>80</x>
+							<y>96</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_11_wizard_sworkshop@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>130</x>
+							<y>80</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_12_glasstaff_squarters@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</img_redbrandhideout_jpg>
+			<img_redbrandhideout_player__jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Redbrand Hideout (Player).jpg</bitmap>
+					<mask>maskedimages/1463596538.png</mask>
+					<gridsize>35</gridsize>
+					<gridoffset>34,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>859</x>
+							<y>576</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_01_cellar@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>616</x>
+							<y>521</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_02_barracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>929</x>
+							<y>404</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_03_trappedhall@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>649</x>
+							<y>332</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_04_tresendarcrypts@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>748</x>
+							<y>230</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_05_slavepens@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>632</x>
+							<y>159</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_06_armory@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>438</x>
+							<y>160</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_07_storeroomandworkarea@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>331</x>
+							<y>438</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_08_crevasse@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>160</x>
+							<y>612</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_09_guardbarracks@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>160</x>
+							<y>367</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_10_commonroom@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>147</x>
+							<y>175</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_11_wizard_sworkshop@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>264</x>
+							<y>159</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p2_07_12_glasstaff_squarters@*</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>25</idcounter>
+						<tokenlock />
+						<scalelock>1.79</scalelock>
+						<token>
+							<prototype>tokens/trap.png@DD Lost Mine of Phandelver</prototype>
+							<id>18</id>
+							<x>805</x>
+							<y>386</y>
+							<scale>1.432</scale>
+						</token>
+						<token>
+							<prototype>tokens/droop.png@DD Lost Mine of Phandelver</prototype>
+							<id>22</id>
+							<x>195</x>
+							<y>580</y>
+							<name>Droop</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>portrait_id-00005_token</prototype>
+							<id>1</id>
+							<x>157</x>
+							<y>613</y>
+							<scale>0.4</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>2</id>
+							<x>87</x>
+							<y>613</y>
+							<scale>0.4</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00004_token</prototype>
+							<id>3</id>
+							<x>122</x>
+							<y>578</y>
+							<scale>0.5</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00006_token</prototype>
+							<id>4</id>
+							<x>157</x>
+							<y>578</y>
+							<scale>0.5</scale>
+						</token>
+						<token>
+							<prototype>tokens/bugbear.png@DD Lost Mine of Phandelver</prototype>
+							<id>24</id>
+							<x>122</x>
+							<y>578</y>
+							<scale>0.5012</scale>
+							<name>Bugbear 2</name>
+							<unmodifiable />
+						</token>
+					</tokens>
+				</image>
+			</img_redbrandhideout_player__jpg>
+			<img_ruinsofthundertree_player__jpg>
+				<image type="image">
+					<bitmap>images/Ruins of Thundertree (Player).jpg</bitmap>
+					<gridsize>35</gridsize>
+					<gridoffset>0,34</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>250</x>
+							<y>460</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_01_westernmostcottage@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>520</x>
+							<y>660</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_02_blightedcottages@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>670</x>
+							<y>180</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_03_thebrownhorse@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>530</x>
+							<y>1010</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_04_druid_swatch@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>810</x>
+							<y>1220</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_05_blightedfarmhouse@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1140</x>
+							<y>950</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_06_ruinedstore@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1080</x>
+							<y>180</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_07_dragon_stower@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1300</x>
+							<y>1160</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_08_oldsmithy@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1500</x>
+							<y>950</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_09_herbalist_sshop@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1580</x>
+							<y>450</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_10_townsquare@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1790</x>
+							<y>240</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_11_oldgarrison@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1650</x>
+							<y>670</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_12_weaver_scottage@*</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1860</x>
+							<y>1160</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_p3_06_13_dragoncultists@*</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</img_ruinsofthundertree_player__jpg>
+			<img_stirge_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Stirge.jpg</bitmap>
+				</image>
+			</img_stirge_jpg>
+			<img_theswordcoast_jpg>
+				<image type="image">
+					<bitmap>images/The Sword Coast.jpg</bitmap>
+				</image>
+			</img_theswordcoast_jpg>
+			<img_theswordcoast_player__jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/The Sword Coast (Player).jpg</bitmap>
+					<drawing>drawings/drawing_1452202138.png</drawing>
+					<pointers>
+						<pointer>
+							<id>7</id>
+							<type>1</type>
+							<startx>655</startx>
+							<starty>1206</starty>
+							<endx>704</endx>
+							<endy>1304</endy>
+							<owner></owner>
+							<color>6e00ff</color>
+						</pointer>
+					</pointers>
+				</image>
+			</img_theswordcoast_player__jpg>
+			<img_theswordcoast_player_lores_jpg>
+				<image type="image">
+					<bitmap>images/The Sword Coast (Player) LoRes.jpg</bitmap>
+				</image>
+			</img_theswordcoast_player_lores_jpg>
+		</category>
+	</image>
+	<npc>
+		<category name="NPCs - DD Lost Mine of Phandelver" mergeid="" baseicon="2" decalicon="1">
+			<ashzombie>
+				<abilities>
+					<charisma>
+						<bonus type="number">-3</bonus>
+					</charisma>
+					<intelligence>
+						<bonus type="number">-4</bonus>
+					</intelligence>
+				</abilities>
+			</ashzombie>
+			<brughoraxebiter>
+				<abilities>
+					<intelligence>
+						<bonus type="number">-2</bonus>
+					</intelligence>
+				</abilities>
+			</brughoraxebiter>
+			<klarg>
+				<abilities>
+					<charisma>
+						<bonus type="number">-1</bonus>
+					</charisma>
+				</abilities>
+			</klarg>
+			<ogre>
+				<abilities>
+					<charisma>
+						<bonus type="number">-2</bonus>
+					</charisma>
+					<intelligence>
+						<bonus type="number">-3</bonus>
+					</intelligence>
+					<wisdom>
+						<bonus type="number">-2</bonus>
+					</wisdom>
+				</abilities>
+			</ogre>
+			<orc>
+				<abilities>
+					<intelligence>
+						<bonus type="number">-2</bonus>
+					</intelligence>
+				</abilities>
+			</orc>
+			<redbrandruffian>
+				<abilities>
+					<intelligence>
+						<bonus type="number">-1</bonus>
+					</intelligence>
+					<wisdom>
+						<bonus type="number">-1</bonus>
+					</wisdom>
+				</abilities>
+			</redbrandruffian>
+			<ripper>
+				<abilities>
+					<intelligence>
+						<bonus type="number">-4</bonus>
+					</intelligence>
+				</abilities>
+			</ripper>
+			<skeleton>
+				<abilities>
+					<charisma>
+						<bonus type="number">-3</bonus>
+					</charisma>
+				</abilities>
+			</skeleton>
+			<wolf>
+				<abilities>
+					<intelligence>
+						<bonus type="number">-4</bonus>
+					</intelligence>
+				</abilities>
+			</wolf>
+		</category>
+	</npc>
+	<pregencharsheet>
+		<highelf_acolyte_>
+			<classes>
+				<id-00001>
+					<casterlevelinvmult type="number">1</casterlevelinvmult>
+				</id-00001>
+			</classes>
+		</highelf_acolyte_>
+		<hilldwarf_soldier_>
+			<classes>
+				<id-00001>
+					<casterlevelinvmult type="number">1</casterlevelinvmult>
+				</id-00001>
+			</classes>
+		</hilldwarf_soldier_>
+	</pregencharsheet>
+	<treasureparcels>
+		<category name="Parcels - DD Lost Mine of Phandelver" mergeid="" baseicon="2" decalicon="1">
+			<par_4_tresendarcrypts>
+				<coinlist>
+					<id-00001>
+						<description type="string">PP</description>
+					</id-00001>
+					<id-00002>
+						<description type="string">GP</description>
+					</id-00002>
+					<id-00003>
+						<description type="string">EP</description>
+					</id-00003>
+					<id-00004>
+						<description type="string">SP</description>
+					</id-00004>
+					<id-00005>
+						<description type="string">CP</description>
+					</id-00005>
+				</coinlist>
+			</par_4_tresendarcrypts>
+		</category>
+	</treasureparcels>
+</root>

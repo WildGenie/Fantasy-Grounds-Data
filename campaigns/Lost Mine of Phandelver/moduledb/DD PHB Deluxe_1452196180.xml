@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="bf42a9d83aed0f6526836473421c14dfa3d4ec70">
+	<reference>
+		<imagedata>
+			<img_cleric>
+				<image type="image">
+					<bitmap>images/Cleric.jpg</bitmap>
+				</image>
+			</img_cleric>
+		</imagedata>
+	</reference>
+</root>

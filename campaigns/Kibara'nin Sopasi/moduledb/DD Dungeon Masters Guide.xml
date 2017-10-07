@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="fd1672f8c7a58e9a0abd43b3f7e723f07d4f3cac">
+	<image>
+		<category name="DD Dungeon Masters Guide" mergeid="" baseicon="2" decalicon="1">
+			<img_adventure_site_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Adventure_Site.jpg</bitmap>
+				</image>
+			</img_adventure_site_jpg>
+			<img_book_of_vile_darkness_jpg>
+				<image type="image">
+					<bitmap>images/Book_of_Vile_Darkness.jpg</bitmap>
+				</image>
+			</img_book_of_vile_darkness_jpg>
+			<img_combat_options_jpg>
+				<image type="image">
+					<bitmap>images/Combat_Options.jpg</bitmap>
+				</image>
+			</img_combat_options_jpg>
+			<img_crafting_a_magic_item_jpg>
+				<image type="image">
+					<bitmap>images/Crafting_a_Magic_Item.jpg</bitmap>
+				</image>
+			</img_crafting_a_magic_item_jpg>
+			<img_creating_a_spell2_jpg>
+				<image type="image">
+					<bitmap>images/Creating_a_Spell2.jpg</bitmap>
+				</image>
+			</img_creating_a_spell2_jpg>
+			<img_creating_a_spell_jpg>
+				<image type="image">
+					<bitmap>images/Creating_a_Spell.jpg</bitmap>
+				</image>
+			</img_creating_a_spell_jpg>
+			<img_creating_new_class_options_jpg>
+				<image type="image">
+					<bitmap>images/Creating_New_Class_Options.jpg</bitmap>
+				</image>
+			</img_creating_new_class_options_jpg>
+			<img_creatingacampaign_jpg>
+				<image type="image">
+					<bitmap>images/Creating a Campaign.jpg</bitmap>
+				</image>
+			</img_creatingacampaign_jpg>
+			<img_domt_jester_card_jpg>
+				<image type="image">
+					<bitmap>images/DOMT_Jester_Card.jpg</bitmap>
+				</image>
+			</img_domt_jester_card_jpg>
+			<img_doors_jpg>
+				<image type="image">
+					<bitmap>images/Doors.jpg</bitmap>
+				</image>
+			</img_doors_jpg>
+			<img_elysium_jpg>
+				<image type="image">
+					<bitmap>images/Elysium.jpg</bitmap>
+				</image>
+			</img_elysium_jpg>
+			<img_encounters_at_sea_jpg>
+				<image type="image">
+					<bitmap>images/Encounters_at_Sea.jpg</bitmap>
+				</image>
+			</img_encounters_at_sea_jpg>
+			<img_encountersatsea_jpg>
+				<image type="image">
+					<bitmap>images/Encounters at Sea.jpg</bitmap>
+				</image>
+			</img_encountersatsea_jpg>
+			<img_handdrawn_map_jpg>
+				<image type="image">
+					<bitmap>images/Handdrawn_Map.jpg</bitmap>
+				</image>
+			</img_handdrawn_map_jpg>
+			<img_map_1_jpg>
+				<image type="image">
+					<bitmap>images/Map-1.jpg</bitmap>
+				</image>
+			</img_map_1_jpg>
+			<img_map_2_jpg>
+				<image type="image">
+					<bitmap>images/Map-2.jpg</bitmap>
+					<gridsize>50</gridsize>
+					<gridoffset>33,27</gridoffset>
+					<gridsnap>on</gridsnap>
+				</image>
+			</img_map_2_jpg>
+			<img_map_3_jpg>
+				<image type="image">
+					<bitmap>images/Map-3.jpg</bitmap>
+					<gridsize>30</gridsize>
+					<gridoffset>6,6</gridoffset>
+					<gridsnap>on</gridsnap>
+				</image>
+			</img_map_3_jpg>
+			<img_map_4_jpg>
+				<image type="image">
+					<bitmap>images/Map-4.jpg</bitmap>
+					<gridsize>30</gridsize>
+					<gridoffset>23,29</gridoffset>
+					<gridsnap>on</gridsnap>
+				</image>
+			</img_map_4_jpg>
+			<img_map_5_jpg>
+				<image type="image">
+					<bitmap>images/Map-5.jpg</bitmap>
+					<gridtype>hexcolumn</gridtype>
+					<gridsize>30</gridsize>
+					<gridoffset>42,8</gridoffset>
+					<gridsnap>on</gridsnap>
+					<tokens>
+						<idcounter>0</idcounter>
+						<orientationcount>6</orientationcount>
+					</tokens>
+				</image>
+			</img_map_5_jpg>
+			<img_map_6_jpg>
+				<image type="image">
+					<bitmap>images/Map-6.jpg</bitmap>
+					<gridtype>hexcolumn</gridtype>
+					<gridsize>22</gridsize>
+					<gridoffset>10,9</gridoffset>
+					<gridsnap>on</gridsnap>
+					<tokens>
+						<idcounter>0</idcounter>
+						<orientationcount>6</orientationcount>
+					</tokens>
+				</image>
+			</img_map_6_jpg>
+			<img_map_7_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Map-7.jpg</bitmap>
+					<mask>maskedimages/1470774206.png</mask>
+					<drawing>drawings/drawing_1471291528.png</drawing>
+					<gridsize>60</gridsize>
+					<gridoffset>58,1</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>2059</x>
+							<y>1161</y>
+							<class>battle</class>
+							<recordname>battle.id-00001</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1885</x>
+							<y>566</y>
+							<class>battle</class>
+							<recordname>battle.id-00004</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1185</x>
+							<y>929</y>
+							<class>battle</class>
+							<recordname>battle.id-00002</recordname>
+						</shortcut>
+						<shortcut>
+							<x>592</x>
+							<y>1433</y>
+							<class>battle</class>
+							<recordname>battle.id-00003</recordname>
+						</shortcut>
+						<shortcut>
+							<x>426</x>
+							<y>400</y>
+							<class>battle</class>
+							<recordname>battle.id-00005</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>52</idcounter>
+						<tokenlock />
+						<scalelock>1.04167</scalelock>
+						<token>
+							<prototype>portrait_id-00001_token</prototype>
+							<id>33</id>
+							<x>2309</x>
+							<y>1352</y>
+							<scale>0.500002</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>34</id>
+							<x>449</x>
+							<y>392</y>
+							<scale>0.500002</scale>
+						</token>
+						<token>
+							<prototype>tokens/goblinboss.png@DD MM Monster Manual</prototype>
+							<id>52</id>
+							<x>509</x>
+							<y>332</y>
+						</token>
+						<token>
+							<prototype>portrait_id-00006_token</prototype>
+							<id>31</id>
+							<x>599</x>
+							<y>242</y>
+							<scale>0.500002</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00003_token</prototype>
+							<id>30</id>
+							<x>389</x>
+							<y>512</y>
+							<scale>0.500002</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00005_token</prototype>
+							<id>32</id>
+							<x>509</x>
+							<y>392</y>
+							<scale>0.500002</scale>
+						</token>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>7</id>
+							<type>1</type>
+							<startx>569</startx>
+							<starty>332</starty>
+							<endx>569</endx>
+							<endy>272</endy>
+							<owner></owner>
+							<color>6e00ff</color>
+						</pointer>
+					</pointers>
+				</image>
+			</img_map_7_jpg>
+			<img_map_8_jpg>
+				<image type="image">
+					<bitmap>images/Map-8.jpg</bitmap>
+					<gridsize>50</gridsize>
+					<gridoffset>0,1</gridoffset>
+					<gridsnap>on</gridsnap>
+				</image>
+			</img_map_8_jpg>
+			<img_map_9_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Map-9.jpg</bitmap>
+					<mask>maskedimages/1472670240.png</mask>
+					<gridsize>35</gridsize>
+					<gridoffset>17,8</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>976</x>
+							<y>2472</y>
+							<class>battle</class>
+							<recordname>battle.id-00008</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1031</x>
+							<y>568</y>
+							<class>battle</class>
+							<recordname>battle.id-00009</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>15</idcounter>
+						<tokenlock />
+						<scalelock>3.57143</scalelock>
+						<token>
+							<prototype>portrait_id-00004_token</prototype>
+							<id>9</id>
+							<x>1715</x>
+							<y>1741</y>
+							<orientation>1</orientation>
+						</token>
+						<token>
+							<prototype>portrait_id-00006_token</prototype>
+							<id>10</id>
+							<x>1085</x>
+							<y>2791</y>
+						</token>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>6</id>
+							<x>1225</x>
+							<y>2651</y>
+						</token>
+						<token>
+							<prototype>portrait_id-00007_token</prototype>
+							<id>7</id>
+							<x>1190</x>
+							<y>2616</y>
+						</token>
+						<token>
+							<prototype>portrait_id-00005_token</prototype>
+							<id>8</id>
+							<x>1085</x>
+							<y>2564</y>
+						</token>
+						<token>
+							<prototype>tokens/kraken.png@DD MM Monster Manual</prototype>
+							<id>15</id>
+							<x>2083</x>
+							<y>1059</y>
+							<scale>0.25</scale>
+						</token>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>1</id>
+							<type>1</type>
+							<startx>123</startx>
+							<starty>219</starty>
+							<endx>315</endx>
+							<endy>149</endy>
+							<owner></owner>
+							<color>6e00ff</color>
+						</pointer>
+						<pointer>
+							<id>1</id>
+							<type>4</type>
+							<startx>1243</startx>
+							<starty>2809</starty>
+							<endx>1243</endx>
+							<endy>2669</endy>
+							<owner>id-00007</owner>
+							<color>ff000000</color>
+						</pointer>
+						<pointer>
+							<id>8</id>
+							<type>1</type>
+							<startx>1225</startx>
+							<starty>2704</starty>
+							<endx>1278</endx>
+							<endy>2669</endy>
+							<owner></owner>
+							<color>6e00ff</color>
+						</pointer>
+					</pointers>
+				</image>
+			</img_map_9_jpg>
+			<img_mapping_a_settlement_jpg>
+				<public />
+				<image type="image">
+					<bitmap>images/Mapping_a_Settlement.jpg</bitmap>
+					<pointers>
+						<pointer>
+							<id>2</id>
+							<type>1</type>
+							<startx>223</startx>
+							<starty>491</starty>
+							<endx>235</endx>
+							<endy>568</endy>
+							<owner></owner>
+							<color>6e00ff</color>
+						</pointer>
+					</pointers>
+				</image>
+			</img_mapping_a_settlement_jpg>
+			<img_mapping_your_campaign_jpg>
+				<image type="image">
+					<bitmap>images/Mapping_your_Campaign.jpg</bitmap>
+				</image>
+			</img_mapping_your_campaign_jpg>
+		</category>
+	</image>
+	<tables>
+		<category name="DD DMG Chptr 1: A World of Your Own" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 2: Creating a Multiverse" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 3: Creating Adventures" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 4: Creating Nonplayer Characters" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 5: Adventure Environments" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 6: Between Adventures" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 7: Treasure" mergeid="" baseicon="2" decalicon="1">
+			<tab_50gpgemstones>
+				<output type="string">parcel</output>
+			</tab_50gpgemstones>
+		</category>
+		<category name="DD DMG Chptr 8: Running the Game" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 9: Dungeon Master's Workshop" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr A: Random Dungeon" mergeid="" baseicon="2" decalicon="1">
+		</category>
+	</tables>
+</root>

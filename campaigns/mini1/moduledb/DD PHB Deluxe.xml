@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="c6d6991de22d5f9cb5a4669ceb5b782e86d34023">
+	<tables>
+		<category name="DD PHB Deluxe" mergeid="" baseicon="2" decalicon="1">
+			<tab_folkheroideal>
+				<locked type="number">1</locked>
+				<tablerows>
+					<id-00004>
+						<fromrange type="number">4</fromrange>
+						<torange type="number">4</torange>
+					</id-00004>
+				</tablerows>
+			</tab_folkheroideal>
+		</category>
+		<category name="DD Players Handbook" mergeid="" baseicon="2" decalicon="1">
+		</category>
+	</tables>
+</root>

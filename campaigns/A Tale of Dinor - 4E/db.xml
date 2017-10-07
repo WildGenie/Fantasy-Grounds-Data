@@ -1,0 +1,3894 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="2.8" release="20">
+	<battle>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+			<id-00001>
+				<exp type="number">0</exp>
+				<level type="number">0</level>
+				<name type="string">Catacombs - Walking Dead</name>
+				<npclist>
+					<id-00001>
+						<count type="number">1</count>
+						<leveladj type="number">0</leveladj>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00005</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Walking Dead</name>
+						<token type="token">tokens/Medium/z.png@Letter Tokens</token>
+					</id-00001>
+				</npclist>
+			</id-00001>
+			<id-00003>
+				<exp type="number">0</exp>
+				<level type="number">0</level>
+				<name type="string">Deep in the Mines - Spider's Nest</name>
+				<npclist>
+					<id-00001>
+						<count type="number">1</count>
+						<leveladj type="number">0</leveladj>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00006</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imagelink type="string">image.id-00008.image</imagelink>
+								<imagex type="number">173</imagex>
+								<imagey type="number">434</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Monstrous Spider</name>
+						<token type="token">tokens/Medium/s.png@Letter Tokens</token>
+					</id-00001>
+				</npclist>
+			</id-00003>
+			<id-00004>
+				<exp type="number">0</exp>
+				<level type="number">0</level>
+				<name type="string">Deep in the Mines - Dwarven Hall</name>
+				<npclist>
+					<id-00001>
+						<count type="number">1</count>
+						<leveladj type="number">0</leveladj>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00003</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imagelink type="string">image.id-00008.image</imagelink>
+								<imagex type="number">462</imagex>
+								<imagey type="number">111</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Goblin Leader</name>
+						<token type="token">tokens/Medium/l.png@Letter Tokens</token>
+					</id-00001>
+					<id-00002>
+						<count type="number">1</count>
+						<leveladj type="number">0</leveladj>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00007</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imagelink type="string">image.id-00008.image</imagelink>
+								<imagex type="number">445</imagex>
+								<imagey type="number">128</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Goblin</name>
+						<token type="token">tokens/Medium/g.png@Letter Tokens</token>
+					</id-00002>
+				</npclist>
+			</id-00004>
+			<id-00005>
+				<exp type="number">0</exp>
+				<level type="number">0</level>
+				<name type="string">Deep in the Mines - Excavation Cavern</name>
+				<npclist>
+					<id-00001>
+						<count type="number">5</count>
+						<leveladj type="number">0</leveladj>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00007</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imagelink type="string">image.id-00008.image</imagelink>
+								<imagex type="number">207</imagex>
+								<imagey type="number">94</imagey>
+							</id-00001>
+							<id-00002>
+								<imagelink type="string">image.id-00008.image</imagelink>
+								<imagex type="number">207</imagex>
+								<imagey type="number">111</imagey>
+							</id-00002>
+							<id-00003>
+								<imagelink type="string">image.id-00008.image</imagelink>
+								<imagex type="number">224</imagex>
+								<imagey type="number">111</imagey>
+							</id-00003>
+							<id-00004>
+								<imagelink type="string">image.id-00008.image</imagelink>
+								<imagex type="number">173</imagex>
+								<imagey type="number">128</imagey>
+							</id-00004>
+							<id-00005>
+								<imagelink type="string">image.id-00008.image</imagelink>
+								<imagex type="number">190</imagex>
+								<imagey type="number">145</imagey>
+							</id-00005>
+						</maplink>
+						<name type="string">Goblin</name>
+						<token type="token">tokens/Medium/g.png@Letter Tokens</token>
+					</id-00001>
+					<id-00002>
+						<count type="number">1</count>
+						<leveladj type="number">0</leveladj>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00008</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imagelink type="string">image.id-00008.image</imagelink>
+								<imagex type="number">233</imagex>
+								<imagey type="number">86</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Burrowing Bug</name>
+						<token type="token">tokens/Medium/a.png@Letter Tokens</token>
+					</id-00002>
+				</npclist>
+			</id-00005>
+		</category>
+	</battle>
+	<charsheet>
+		<id-00001>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">0</check>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">3</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">3</check>
+					<score type="number">16</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">2</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">2</check>
+					<score type="number">14</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">0</check>
+					<score type="number">11</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">4</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">4</check>
+					<score type="number">18</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">0</check>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<actionpoints type="number">1</actionpoints>
+			<apused type="number">0</apused>
+			<attacks>
+				<base>
+					<total type="number">0</total>
+				</base>
+				<melee>
+					<ability type="number">4</ability>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">4</total>
+				</melee>
+				<ranged>
+					<ability type="number">2</ability>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">2</total>
+				</ranged>
+			</attacks>
+			<class>
+				<base type="string">Knight</base>
+				<epic type="string">Indomitable Champion</epic>
+				<paragon type="string">Stalwart Knight</paragon>
+			</class>
+			<coins>
+				<slot1>
+					<amount type="number">10</amount>
+					<name type="string">gp</name>
+				</slot1>
+				<slot2>
+					<amount type="number">0</amount>
+				</slot2>
+				<slot3>
+					<amount type="number">0</amount>
+				</slot3>
+				<slot4>
+					<amount type="number">0</amount>
+				</slot4>
+				<slot5>
+					<amount type="number">0</amount>
+				</slot5>
+				<slot6>
+					<amount type="number">0</amount>
+				</slot6>
+			</coins>
+			<combattoken type="token"></combattoken>
+			<defenses>
+				<ac>
+					<ability type="number">0</ability>
+					<armor type="number">8</armor>
+					<base type="number">10</base>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">18</total>
+				</ac>
+				<fortitude>
+					<ability type="number">4</ability>
+					<armor type="number">0</armor>
+					<base type="number">10</base>
+					<misc type="number">2</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">16</total>
+				</fortitude>
+				<reflex>
+					<ability type="number">2</ability>
+					<armor type="number">0</armor>
+					<base type="number">10</base>
+					<misc type="number">2</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">14</total>
+				</reflex>
+				<save>
+					<base type="number">0</base>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">0</total>
+				</save>
+				<will>
+					<ability type="number">0</ability>
+					<armor type="number">0</armor>
+					<base type="number">10</base>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">10</total>
+				</will>
+			</defenses>
+			<encumbrance>
+				<armorcheckpenalty type="number">-2</armorcheckpenalty>
+				<dragload type="number">900</dragload>
+				<heavyarmor type="number">1</heavyarmor>
+				<heavyload type="number">360</heavyload>
+				<load type="number">103</load>
+				<normalload type="number">180</normalload>
+			</encumbrance>
+			<exp type="number">0</exp>
+			<expneeded type="number">1000</expneeded>
+			<featlist>
+				<id-00001>
+					<description type="string">When you use your second wind, you gain a +5 power bonus to the next damage roll you make with a melee weapon attack before the end of your next turn.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Feat</source>
+					<value type="string">Disciple of Strength</value>
+				</id-00001>
+			</featlist>
+			<hp>
+				<bloodied type="number">15</bloodied>
+				<faileddeathsaves type="number">0</faileddeathsaves>
+				<maxdeathsaves type="number">3</maxdeathsaves>
+				<secondwind type="number">0</secondwind>
+				<surge type="number">7</surge>
+				<surgemodifier type="number">0</surgemodifier>
+				<surgesmax type="number">12</surgesmax>
+				<surgesused type="number">0</surgesused>
+				<temporary type="number">0</temporary>
+				<total type="number">31</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<initiative>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">2</total>
+			</initiative>
+			<inventorylist>
+				<id-00000>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<location type="string">Body</location>
+					<name type="string">Plate Armor</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="string">0</showonminisheet>
+					<weight type="number">50</weight>
+				</id-00000>
+				<id-00001>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<name type="string">Adventurer's Kit</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="string">0</showonminisheet>
+					<weight type="number">33</weight>
+				</id-00001>
+				<id-00002>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<location type="string">One-hand</location>
+					<name type="string">Warhammer</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="string">0</showonminisheet>
+					<weight type="number">5</weight>
+				</id-00002>
+				<id-00003>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<location type="string">Off-Hand</location>
+					<name type="string">Heavy Shield</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="string">0</showonminisheet>
+					<weight type="number">15</weight>
+				</id-00003>
+			</inventorylist>
+			<languagelist>
+				<id-00001>
+					<name type="string">Common</name>
+				</id-00001>
+				<id-00002>
+					<name type="string">Dwarven</name>
+				</id-00002>
+			</languagelist>
+			<level type="number">1</level>
+			<levelbonus type="number">0</levelbonus>
+			<meleemodifier type="number">0</meleemodifier>
+			<name type="string">Bjorn</name>
+			<passiveinsight type="number">10</passiveinsight>
+			<passiveperception type="number">10</passiveperception>
+			<powerfocus>
+				<implement>
+					<order type="number">0</order>
+				</implement>
+				<weapon>
+					<order type="number">2</order>
+				</weapon>
+			</powerfocus>
+			<powermode type="string">standard</powermode>
+			<powers>
+				<a0-situational>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</a0-situational>
+				<a1-atwill>
+					<power>
+						<id-00001>
+							<abilities>
+								<id-00001>
+									<attackdef type="string">ac</attackdef>
+									<attackstat type="string">strength</attackstat>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">strength</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">1</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">strength</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">2</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00002>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">You resort to the simple attack you learned when you first picked up a melee weapon.</flavor>
+							<keywords type="string">Weapon</keywords>
+							<name type="string">Melee Basic Attack</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Melee weapon</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: One creature \rAttack: Strength vs. AC \rHit: 1[W] + Strength modifier damage. \r Level 21: 2[W] + Strength modifier damage. \r</shortdescription>
+							<source type="string">Basic Attack</source>
+							<used type="number">0</used>
+						</id-00001>
+						<id-00002>
+							<abilities>
+								<id-00001>
+									<attackdef type="string">ac</attackdef>
+									<attackstat type="string">dexterity</attackstat>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">dexterity</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">1</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">dexterity</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">2</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00002>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">You resort to the simple attack you learned when you first picked up a ranged weapon.</flavor>
+							<keywords type="string">Weapon</keywords>
+							<name type="string">Ranged Basic Attack</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Ranged weapon</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: One creature \rAttack: Dexterity vs. AC \rHit: 1[W] + Dexterity modifier damage. \r Level 21: 2[W] + Dexterity modifier damage. \r</shortdescription>
+							<source type="string">Basic Attack</source>
+							<used type="number">0</used>
+						</id-00002>
+						<id-00003>
+							<abilities>
+								<id-00001>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">strength</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+							</abilities>
+							<action type="string">Opportunity Action</action>
+							<flavor type="string">Ignoring you in battle leaves a foe open to a devastating assault.</flavor>
+							<keywords type="string">Martial</keywords>
+							<name type="string">Battle Guardian</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Personal</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Trigger: An enemy subject to your defender aura either shifts or makes an attack that targets an ally of yours but not you or an ally who has an active defender aura. \rEffect: You make a melee basic attack against the triggering enemy. If the attack misses, the enemy still takes damage equal to your Strength modifier. \r</shortdescription>
+							<source type="string">Fighter Attack</source>
+							<used type="number">0</used>
+						</id-00003>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</a1-atwill>
+				<a11-atwillspecial>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</a11-atwillspecial>
+				<a2-cantrip>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</a2-cantrip>
+				<b1-encounter>
+					<power>
+						<id-00002>
+							<abilities>
+							</abilities>
+							<action type="string">No Action</action>
+							<flavor type="string">By pushing yourself beyond your normal limits, you unleash your full wrath against a foe.</flavor>
+							<keywords type="string">Martial, Weapon</keywords>
+							<name type="string">Power Strike</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Special</range>
+							<recharge type="string">Encounter</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Trigger: You hit an enemy with a melee basic attack using a weapon. \rTarget: The enemy you hit \rEffect: The target takes 1[W] extra damage from the triggering attack. Level 17: 2[W] extra damage. Level 27: 3[W] extra damage. \r</shortdescription>
+							<source type="string">Knight Attack</source>
+							<used type="number">0</used>
+						</id-00002>
+						<id-00003>
+							<abilities>
+								<id-00001>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">1</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">1</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">heal</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<effectsavemod type="number">0</effectsavemod>
+									<expiration type="string">start</expiration>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<label type="string">DEF: 2</label>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<targeting type="string">self</targeting>
+									<type type="string">effect</type>
+								</id-00002>
+							</abilities>
+							<action type="string">Minor</action>
+							<keywords type="string">Healing</keywords>
+							<name type="string">Second Wind</name>
+							<prepared type="number">1</prepared>
+							<range type="string">Personal</range>
+							<recharge type="string">Encounter</recharge>
+							<shortdescription type="string">Effect: You spend a healing surge, and gain a +2 bonus to all defenses until the start of your next turn.</shortdescription>
+							<source type="string">General</source>
+							<used type="number">0</used>
+						</id-00003>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</b1-encounter>
+				<b11-encounterspecial>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</b11-encounterspecial>
+				<b2-channeldivinity>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</b2-channeldivinity>
+				<c-daily>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</c-daily>
+				<d-utility>
+					<power>
+						<id-00001>
+							<abilities>
+								<id-00001>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<effectsavemod type="number">0</effectsavemod>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<label type="string">ATK: -2</label>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">effect</type>
+								</id-00001>
+							</abilities>
+							<action type="string">Minor Action</action>
+							<flavor type="string">You work to occupy nearby foes using a combination of fighting skill and clever tactics to keep them distracted.</flavor>
+							<keywords type="string">Aura</keywords>
+							<name type="string">Defender Aura</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Personal</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Effect: You activate an aura 1 that lasts until you end it as a minor action or until you fall unconscious. While in the aura, any enemy takes a -2 penalty to attack rolls when it makes an attack that does not include among its targets either you or an ally of yours who has this aura active. Marked enemies are not subject to this aura. \r</shortdescription>
+							<source type="string">Knight Utility</source>
+							<used type="number">0</used>
+						</id-00001>
+						<id-00002>
+							<abilities>
+							</abilities>
+							<action type="string">Minor Action</action>
+							<flavor type="string">Each carefully timed strike lets you slip through your foes without fear of reprisal.</flavor>
+							<keywords type="string">Martial, Stance</keywords>
+							<name type="string">Measured Cut</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Personal</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Effect: You assume the measured cut stance. Until the stance ends, whenever you hit an enemy with a melee basic attack using a weapon, you can shift 1 square as a free action. \r</shortdescription>
+							<source type="string">Fighter Utility</source>
+							<used type="number">0</used>
+						</id-00002>
+						<id-00003>
+							<abilities>
+								<id-00001>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<effectsavemod type="number">0</effectsavemod>
+									<expiration type="string">endnext</expiration>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<label type="string">Slowed</label>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">effect</type>
+								</id-00001>
+							</abilities>
+							<action type="string">Minor Action</action>
+							<flavor type="string">Your attack staggers a foe, hindering its attempts to flee from you.</flavor>
+							<keywords type="string">Martial, Stance</keywords>
+							<name type="string">Defend the Line</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Personal</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Effect: You assume the defend the line stance. Until the stance ends, whenever you hit an enemy with a melee basic attack using a weapon, that enemy is slowed until the end of your next turn. \r</shortdescription>
+							<source type="string">Fighter Utility</source>
+							<used type="number">0</used>
+						</id-00003>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</d-utility>
+				<e-itemdaily>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</e-itemdaily>
+			</powers>
+			<powershow>
+				<atwillspecial type="number">0</atwillspecial>
+				<cantrip type="number">0</cantrip>
+				<channeldivinity type="number">0</channeldivinity>
+				<encounterspecial type="number">0</encounterspecial>
+			</powershow>
+			<preparationmode type="number">0</preparationmode>
+			<proficiencyarmor>
+				<id-00001>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Leather</value>
+				</id-00001>
+				<id-00002>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Hide</value>
+				</id-00002>
+				<id-00003>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Chainmail</value>
+				</id-00003>
+				<id-00004>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Scale</value>
+				</id-00004>
+				<id-00005>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Plate</value>
+				</id-00005>
+				<id-00006>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Heavy</value>
+				</id-00006>
+				<id-00007>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Light</value>
+				</id-00007>
+				<id-00008>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Dragontooth Shield</value>
+				</id-00008>
+				<id-00009>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Fighting Shield</value>
+				</id-00009>
+				<id-00010>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Soul Shield</value>
+				</id-00010>
+				<id-00011>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Sun Shield</value>
+				</id-00011>
+				<id-00012>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Feral Armor Claw</value>
+				</id-00012>
+			</proficiencyarmor>
+			<proficiencyweapon>
+				<id-00001>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Warhammer</value>
+				</id-00001>
+				<id-00002>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Simple Melee</value>
+				</id-00002>
+				<id-00003>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Club</value>
+				</id-00003>
+				<id-00004>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Dagger</value>
+				</id-00004>
+				<id-00005>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Javelin</value>
+				</id-00005>
+				<id-00006>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Mace</value>
+				</id-00006>
+				<id-00007>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Sickle</value>
+				</id-00007>
+				<id-00008>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Spear</value>
+				</id-00008>
+				<id-00009>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Greatclub</value>
+				</id-00009>
+				<id-00010>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Morningstar</value>
+				</id-00010>
+				<id-00011>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Quarterstaff</value>
+				</id-00011>
+				<id-00012>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Scythe</value>
+				</id-00012>
+				<id-00013>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Spiked gauntlet</value>
+				</id-00013>
+				<id-00014>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Talid</value>
+				</id-00014>
+				<id-00015>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Widow's knife</value>
+				</id-00015>
+				<id-00016>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Wrist razors</value>
+				</id-00016>
+				<id-00017>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Claw Fighter Claw</value>
+				</id-00017>
+				<id-00018>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Shadowblade</value>
+				</id-00018>
+				<id-00019>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Climbing Claw</value>
+				</id-00019>
+				<id-00020>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Rod of Seven Parts</value>
+				</id-00020>
+				<id-00021>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Military Melee</value>
+				</id-00021>
+				<id-00022>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Battleaxe</value>
+				</id-00022>
+				<id-00023>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Handaxe</value>
+				</id-00023>
+				<id-00024>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Flail</value>
+				</id-00024>
+				<id-00025>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">War Pick</value>
+				</id-00025>
+				<id-00026>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Scimitar</value>
+				</id-00026>
+				<id-00027>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Longsword</value>
+				</id-00027>
+				<id-00028>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Short sword</value>
+				</id-00028>
+				<id-00029>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Greataxe</value>
+				</id-00029>
+				<id-00030>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Heavy flail</value>
+				</id-00030>
+				<id-00031>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Glaive</value>
+				</id-00031>
+				<id-00032>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Halberd</value>
+				</id-00032>
+				<id-00033>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Maul</value>
+				</id-00033>
+				<id-00034>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Longspear</value>
+				</id-00034>
+				<id-00035>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Greatsword</value>
+				</id-00035>
+				<id-00036>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Rapier</value>
+				</id-00036>
+				<id-00037>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Falchion</value>
+				</id-00037>
+				<id-00038>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Broadsword</value>
+				</id-00038>
+				<id-00039>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Khopesh</value>
+				</id-00039>
+				<id-00040>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Light war pick</value>
+				</id-00040>
+				<id-00041>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Scourge</value>
+				</id-00041>
+				<id-00042>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Trident</value>
+				</id-00042>
+				<id-00043>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Heavy war pick</value>
+				</id-00043>
+				<id-00044>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Alhulak</value>
+				</id-00044>
+				<id-00045>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Carrikal</value>
+				</id-00045>
+				<id-00046>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Trikal</value>
+				</id-00046>
+				<id-00047>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Blade of Winter's Mourning</value>
+				</id-00047>
+				<id-00048>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Blade of Annihilation</value>
+				</id-00048>
+				<id-00049>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Starshadow Blade</value>
+				</id-00049>
+				<id-00050>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Sword of the White Well</value>
+				</id-00050>
+				<id-00051>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Scourge of Exquisite Agony</value>
+				</id-00051>
+				<id-00052>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Simple Ranged</value>
+				</id-00052>
+				<id-00053>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Hand crossbow</value>
+				</id-00053>
+				<id-00054>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Sling</value>
+				</id-00054>
+				<id-00055>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Crossbow</value>
+				</id-00055>
+				<id-00056>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Repeating crossbow</value>
+				</id-00056>
+				<id-00057>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Dejada</value>
+				</id-00057>
+				<id-00058>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Military Ranged</value>
+				</id-00058>
+				<id-00059>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Shortbow</value>
+				</id-00059>
+				<id-00060>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Longbow</value>
+				</id-00060>
+				<id-00061>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Chatkcha</value>
+				</id-00061>
+			</proficiencyweapon>
+			<race type="string">Dwarf</race>
+			<senses type="string">Low-light</senses>
+			<size type="string">Medium</size>
+			<skilllist>
+				<id-00001>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Acrobatics</label>
+					<misc type="number">0</misc>
+					<name type="string">Acrobatics</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00001>
+				<id-00002>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Arcana</label>
+					<misc type="number">0</misc>
+					<name type="string">Arcana</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00002>
+				<id-00003>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Bluff</label>
+					<misc type="number">0</misc>
+					<name type="string">Bluff</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00003>
+				<id-00004>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Diplomacy</label>
+					<misc type="number">0</misc>
+					<name type="string">Diplomacy</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00004>
+				<id-00005>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Dungeoneering</label>
+					<misc type="number">0</misc>
+					<name type="string">Dungeoneering</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00005>
+				<id-00006>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Endurance</label>
+					<misc type="number">0</misc>
+					<name type="string">Endurance</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00006>
+				<id-00007>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Heal</label>
+					<misc type="number">0</misc>
+					<name type="string">Heal</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00007>
+				<id-00008>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">History</label>
+					<misc type="number">0</misc>
+					<name type="string">History</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00008>
+				<id-00009>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Insight</label>
+					<misc type="number">0</misc>
+					<name type="string">Insight</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00009>
+				<id-00010>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Intimidate</label>
+					<misc type="number">0</misc>
+					<name type="string">Intimidate</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00010>
+				<id-00011>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Nature</label>
+					<misc type="number">0</misc>
+					<name type="string">Nature</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00011>
+				<id-00012>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Perception</label>
+					<misc type="number">0</misc>
+					<name type="string">Perception</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00012>
+				<id-00013>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Religion</label>
+					<misc type="number">0</misc>
+					<name type="string">Religion</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00013>
+				<id-00014>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Stealth</label>
+					<misc type="number">0</misc>
+					<name type="string">Stealth</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00014>
+				<id-00015>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Streetwise</label>
+					<misc type="number">0</misc>
+					<name type="string">Streetwise</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00015>
+				<id-00016>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Thievery</label>
+					<misc type="number">0</misc>
+					<name type="string">Thievery</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00016>
+				<id-00017>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Athletics</label>
+					<misc type="number">0</misc>
+					<name type="string">Athletics</name>
+					<showonminisheet type="number">1</showonminisheet>
+					<trained type="number">0</trained>
+				</id-00017>
+			</skilllist>
+			<specialabilitylist>
+				<id-00001>
+					<description type="string">You have a +5 racial bonus to saving throws against poison.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Cast-Iron Stomach</value>
+				</id-00001>
+				<id-00002>
+					<description type="string">You move at your normal speed even when it would be reduced by armor or a heavy load. Other effects that limit speed (such as difficult terrain or magic) affect you normally.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Encumbered Speed</value>
+				</id-00002>
+				<id-00003>
+					<description type="string">You have the dwarven resilience power.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Dwarven Resilience</value>
+				</id-00003>
+				<id-00004>
+					<description type="string">When an effect forces you to move-through a pull, a push, or a slide-you can move 1 square less than the effect specifies. This means an effect that normally pulls, pushes, or slides a target 1 square does not force you to move unless you want to. In addition, when an attack would knock you prone, you can make a saving throw to avoid falling prone.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Stand Your Ground</value>
+				</id-00004>
+				<id-00005>
+					<description type="string">Gain a +2 racial bonus to Dungeoneering.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Dungeoneering Bonus</value>
+				</id-00005>
+				<id-00006>
+					<description type="string">Gain a +2 racial bonus to Endurance.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Endurance Bonus</value>
+				</id-00006>
+				<id-00007>
+					<description type="string">You gain the battle guardian power.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Battle Guardian</value>
+				</id-00007>
+				<id-00008>
+					<description type="string">You gain the defender aura power.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Defender Aura</value>
+				</id-00008>
+				<id-00009>
+					<description type="string">You gain two of the following powers of your choice.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Knight Fighter Stances</value>
+				</id-00009>
+				<id-00010>
+					<description type="string">You gain the power strike power.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Power Strike</value>
+				</id-00010>
+				<id-00011>
+					<description type="string">You gain the Shield Finesse feat.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Shield Finesse</value>
+				</id-00011>
+				<id-00012>
+					<description type="string">You gain a +1 bonus to the attack rolls of weapon attacks.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Weapon Talent</value>
+				</id-00012>
+			</specialabilitylist>
+			<speed>
+				<armor type="number">0</armor>
+				<base type="number">5</base>
+				<final type="number">5</final>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+			</speed>
+			<weaponlist>
+				<id-00002>
+					<ammo type="number">0</ammo>
+					<attackdef type="string">ac</attackdef>
+					<attackstat type="string">strength</attackstat>
+					<bonus type="number">3</bonus>
+					<criticalbonus type="string">0</criticalbonus>
+					<criticaldice type="dice"></criticaldice>
+					<damagebonus type="number">0</damagebonus>
+					<damagedice type="dice">d10</damagedice>
+					<damagestat type="string">strength</damagestat>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Warhammer</name>
+					<order type="number">2</order>
+					<properties type="string">Versatile</properties>
+					<rangeincrement type="number">0</rangeincrement>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00002>
+			</weaponlist>
+		</id-00001>
+		<id-00002>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">0</check>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">2</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">2</check>
+					<score type="number">14</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">1</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">1</check>
+					<score type="number">12</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">4</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">4</check>
+					<score type="number">18</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">0</check>
+					<score type="number">11</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">2</bonus>
+					<bonusmodifier type="number">0</bonusmodifier>
+					<check type="number">2</check>
+					<score type="number">14</score>
+				</wisdom>
+			</abilities>
+			<actionpoints type="number">1</actionpoints>
+			<apused type="number">0</apused>
+			<attacks>
+				<base>
+					<total type="number">0</total>
+				</base>
+				<melee>
+					<ability type="number">0</ability>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">0</total>
+				</melee>
+				<ranged>
+					<ability type="number">1</ability>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">1</total>
+				</ranged>
+			</attacks>
+			<class>
+				<base type="string">Mage</base>
+				<epic type="string">Indomitable Champion</epic>
+				<paragon type="string">Enigmatic Mage</paragon>
+			</class>
+			<coins>
+				<slot1>
+					<amount type="number">79</amount>
+					<name type="string">gp</name>
+				</slot1>
+				<slot2>
+					<amount type="number">0</amount>
+				</slot2>
+				<slot3>
+					<amount type="number">0</amount>
+				</slot3>
+				<slot4>
+					<amount type="number">0</amount>
+				</slot4>
+				<slot5>
+					<amount type="number">0</amount>
+				</slot5>
+				<slot6>
+					<amount type="number">0</amount>
+				</slot6>
+			</coins>
+			<combattoken type="token"></combattoken>
+			<defenses>
+				<ac>
+					<ability type="number">4</ability>
+					<armor type="number">0</armor>
+					<base type="number">10</base>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">14</total>
+				</ac>
+				<fortitude>
+					<ability type="number">2</ability>
+					<armor type="number">0</armor>
+					<base type="number">10</base>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">12</total>
+				</fortitude>
+				<reflex>
+					<ability type="number">4</ability>
+					<armor type="number">0</armor>
+					<base type="number">10</base>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">14</total>
+				</reflex>
+				<save>
+					<base type="number">0</base>
+					<misc type="number">0</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">0</total>
+				</save>
+				<will>
+					<ability type="number">2</ability>
+					<armor type="number">0</armor>
+					<base type="number">10</base>
+					<misc type="number">2</misc>
+					<temporary type="number">0</temporary>
+					<total type="number">14</total>
+				</will>
+			</defenses>
+			<encumbrance>
+				<armorcheckpenalty type="number">0</armorcheckpenalty>
+				<dragload type="number">550</dragload>
+				<heavyarmor type="number">0</heavyarmor>
+				<heavyload type="number">220</heavyload>
+				<load type="number">41</load>
+				<normalload type="number">110</normalload>
+			</encumbrance>
+			<exp type="number">0</exp>
+			<expneeded type="number">1000</expneeded>
+			<featlist>
+			</featlist>
+			<gender type="string">female</gender>
+			<hp>
+				<bloodied type="number">12</bloodied>
+				<faileddeathsaves type="number">0</faileddeathsaves>
+				<maxdeathsaves type="number">3</maxdeathsaves>
+				<secondwind type="number">0</secondwind>
+				<surge type="number">6</surge>
+				<surgemodifier type="number">0</surgemodifier>
+				<surgesmax type="number">8</surgesmax>
+				<surgesused type="number">0</surgesused>
+				<temporary type="number">0</temporary>
+				<total type="number">24</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<initiative>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">1</total>
+			</initiative>
+			<inventorylist>
+				<id-00000>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<location type="string">Body</location>
+					<name type="string">Cloth Armor (Basic Clothing)</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="string">0</showonminisheet>
+					<weight type="number">4</weight>
+				</id-00000>
+				<id-00001>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<name type="string">Adventurer's Kit</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="string">0</showonminisheet>
+					<weight type="number">33</weight>
+				</id-00001>
+				<id-00002>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<location type="string">Two-Hands</location>
+					<name type="string">Quarterstaff</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="string">0</showonminisheet>
+					<weight type="number">4</weight>
+				</id-00002>
+			</inventorylist>
+			<languagelist>
+				<id-00001>
+					<name type="string">Common</name>
+				</id-00001>
+				<id-00002>
+					<name type="string">Elven</name>
+				</id-00002>
+			</languagelist>
+			<level type="number">1</level>
+			<levelbonus type="number">0</levelbonus>
+			<meleemodifier type="number">0</meleemodifier>
+			<name type="string">Celeste</name>
+			<passiveinsight type="number">12</passiveinsight>
+			<passiveperception type="number">12</passiveperception>
+			<powerfocus>
+				<implement>
+					<order type="number">2</order>
+				</implement>
+				<weapon>
+					<order type="number">0</order>
+				</weapon>
+			</powerfocus>
+			<powermode type="string">standard</powermode>
+			<powers>
+				<a0-situational>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</a0-situational>
+				<a1-atwill>
+					<power>
+						<id-00001>
+							<abilities>
+								<id-00001>
+									<attackdef type="string">ac</attackdef>
+									<attackstat type="string">strength</attackstat>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">strength</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">1</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">strength</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">2</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00002>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">You resort to the simple attack you learned when you first picked up a melee weapon.</flavor>
+							<keywords type="string">Weapon</keywords>
+							<name type="string">Melee Basic Attack</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Melee weapon</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: One creature \rAttack: Strength vs. AC \rHit: 1[W] + Strength modifier damage. \r Level 21: 2[W] + Strength modifier damage. \r</shortdescription>
+							<source type="string">Basic Attack</source>
+							<used type="number">0</used>
+						</id-00001>
+						<id-00002>
+							<abilities>
+								<id-00001>
+									<attackdef type="string">ac</attackdef>
+									<attackstat type="string">dexterity</attackstat>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">dexterity</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">1</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">dexterity</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">2</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00002>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">You resort to the simple attack you learned when you first picked up a ranged weapon.</flavor>
+							<keywords type="string">Weapon</keywords>
+							<name type="string">Ranged Basic Attack</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Ranged weapon</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: One creature \rAttack: Dexterity vs. AC \rHit: 1[W] + Dexterity modifier damage. \r Level 21: 2[W] + Dexterity modifier damage. \r</shortdescription>
+							<source type="string">Basic Attack</source>
+							<used type="number">0</used>
+						</id-00002>
+						<id-00003>
+							<abilities>
+								<id-00001>
+									<attackdef type="string">reflex</attackdef>
+									<attackstat type="string">intelligence</attackstat>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice">d6</damagebasicdice>
+									<damagestat type="string">intelligence</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damagetype type="string">lightning</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice">d6,d6</damagebasicdice>
+									<damagestat type="string">intelligence</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damagetype type="string">lightning</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00002>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">Lightning leaps from your outstretched hand, weaving safely through your allies to slam into your foes.</flavor>
+							<keywords type="string">Arcane, Evocation, Implement, Lightning</keywords>
+							<name type="string">Arc Lightning</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Ranged 20</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: One or two creatures \rAttack: Intelligence vs. Reflex \rHit: 1d6 + Intelligence modifier lightning damage. Level 21: 2d6 + Intelligence modifier lightning damage. \r</shortdescription>
+							<source type="string">Wizard Attack 1</source>
+							<used type="number">0</used>
+						</id-00003>
+						<id-00004>
+							<abilities>
+								<id-00001>
+									<attackdef type="string">reflex</attackdef>
+									<attackstat type="string">intelligence</attackstat>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice">d6</damagebasicdice>
+									<damagestat type="string">intelligence</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damagetype type="string">cold</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice">d6,d6</damagebasicdice>
+									<damagestat type="string">intelligence</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damagetype type="string">cold</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00002>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">You hurl a hailstone toward your foes. It explodes among them, temporarily turning the ground into an ice slick.</flavor>
+							<keywords type="string">Arcane, Cold, Evocation, Implement</keywords>
+							<name type="string">Freezing Burst</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Area burst 1 within 10 squares</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: Each creature in the burst \rAttack: Intelligence vs. Reflex \rHit: 1d6 + Intelligence modifier cold damage, and you can slide the target 1 square. Level 21: 2d6 + Intelligence modifier cold damage. \r</shortdescription>
+							<source type="string">Wizard Attack 1</source>
+							<used type="number">0</used>
+						</id-00004>
+						<id-00005>
+							<abilities>
+								<id-00001>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">intelligence</damagestat>
+									<damagestatmodifier type="number">2</damagestatmodifier>
+									<damagetype type="string">force</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">intelligence</damagestat>
+									<damagestatmodifier type="number">3</damagestatmodifier>
+									<damagetype type="string">force</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00002>
+								<id-00003>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestat type="string">intelligence</damagestat>
+									<damagestatmodifier type="number">5</damagestatmodifier>
+									<damagetype type="string">force</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">3</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00003>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">A glowing blue bolt of magical energy hurtles from your finger and unerringly strikes your target.</flavor>
+							<keywords type="string">Arcane, Evocation, Force, Implement</keywords>
+							<name type="string">Magic Missile</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Ranged 20</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: One creature \rEffect: 2 + Intelligence modifier force damage. Level 11: 3 + Intelligence modifier force damage. Level 21: 5 + Intelligence modifier force damage. \rSpecial: If the implement used with this power has an enhancement bonus, add that bonus to the damage. In addition, you can use this power as a ranged basic attack. \r</shortdescription>
+							<source type="string">Wizard Attack 1</source>
+							<used type="number">0</used>
+						</id-00005>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</a1-atwill>
+				<a11-atwillspecial>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</a11-atwillspecial>
+				<a2-cantrip>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</a2-cantrip>
+				<b1-encounter>
+					<power>
+						<id-00001>
+							<abilities>
+							</abilities>
+							<action type="string">Free Action</action>
+							<flavor type="string">With an instant of focus, you take careful aim at your foe and strike with the legendary accuracy of the elves.</flavor>
+							<name type="string">Elven Accuracy</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Personal</range>
+							<recharge type="string">Encounter</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Trigger: You make an attack roll and dislike the result. \rEffect: Reroll the attack roll. Use the second roll, even if it's lower. \r</shortdescription>
+							<source type="string">Elf Racial Power</source>
+							<used type="number">0</used>
+						</id-00001>
+						<id-00002>
+							<abilities>
+								<id-00001>
+									<attackdef type="string">reflex</attackdef>
+									<attackstat type="string">intelligence</attackstat>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice">d6,d6</damagebasicdice>
+									<damagestat type="string">intelligence</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damagetype type="string">fire</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">A gout of flame erupts from your hands and scorches nearby foes.</flavor>
+							<keywords type="string">Arcane, Evocation, Fire, Implement</keywords>
+							<name type="string">Burning Hands</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Close blast 5</range>
+							<recharge type="string">Encounter</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: Each creature in the blast \rAttack: Intelligence vs. Reflex \rHit: 2d6 + Intelligence modifier fire damage. \rMiss: Half damage. \r</shortdescription>
+							<source type="string">Wizard Attack 1</source>
+							<used type="number">0</used>
+						</id-00002>
+						<id-00003>
+							<abilities>
+								<id-00001>
+									<attackdef type="string">will</attackdef>
+									<attackstat type="string">intelligence</attackstat>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<effectsavemod type="number">0</effectsavemod>
+									<expiration type="string">endnext</expiration>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<label type="string">Dazed</label>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<type type="string">effect</type>
+								</id-00002>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">The image of treacherous terrain appears in the minds of your enemies, which become disoriented.</flavor>
+							<keywords type="string">Arcane, Illusion, Implement</keywords>
+							<name type="string">Illusory Obstacles</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Area burst 1 within 10 squares</range>
+							<recharge type="string">Encounter</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: Each enemy in the burst \rAttack: Intelligence vs. Will \rHit: The target is dazed and unable to charge until the end of your next turn. \rMiss: The target is unable to charge until the end of your next turn. \r</shortdescription>
+							<source type="string">Wizard Attack 1</source>
+							<used type="number">0</used>
+						</id-00003>
+						<id-00004>
+							<abilities>
+								<id-00001>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">1</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">1</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">heal</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<effectsavemod type="number">0</effectsavemod>
+									<expiration type="string">start</expiration>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<label type="string">DEF: 2</label>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<targeting type="string">self</targeting>
+									<type type="string">effect</type>
+								</id-00002>
+							</abilities>
+							<action type="string">Standard</action>
+							<keywords type="string">Healing</keywords>
+							<name type="string">Second Wind</name>
+							<prepared type="number">1</prepared>
+							<range type="string">Personal</range>
+							<recharge type="string">Encounter</recharge>
+							<shortdescription type="string">Effect: You spend a healing surge, and gain a +2 bonus to all defenses until the start of your next turn.</shortdescription>
+							<source type="string">General</source>
+							<used type="number">0</used>
+						</id-00004>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</b1-encounter>
+				<b11-encounterspecial>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</b11-encounterspecial>
+				<b2-channeldivinity>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</b2-channeldivinity>
+				<c-daily>
+					<power>
+						<id-00001>
+							<abilities>
+								<id-00001>
+									<attackdef type="string">will</attackdef>
+									<attackstat type="string">intelligence</attackstat>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice">d6,d6</damagebasicdice>
+									<damagestat type="string">intelligence</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damagetype type="string">psychic</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<effectsavemod type="number">0</effectsavemod>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<label type="string">ZONE; Prone</label>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<type type="string">effect</type>
+								</id-00002>
+								<id-00003>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<effectsavemod type="number">0</effectsavemod>
+									<expiration type="string">endnext</expiration>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<label type="string">ZONE; Immobilized</label>
+									<order type="number">3</order>
+									<savemod type="number">0</savemod>
+									<type type="string">effect</type>
+								</id-00003>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">Your enemies shriek in terror as, at least in their mind's eye, a bottomless pit opens beneath their feet.</flavor>
+							<keywords type="string">Arcane, Illusion, Implement, Psychic, Zone</keywords>
+							<name type="string">Phantom Chasm</name>
+							<parse type="number">0</parse>
+							<prepared type="number">0</prepared>
+							<range type="string">Area burst 1 within 10 squares</range>
+							<recharge type="string">Daily</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: Each enemy in the burst \rAttack: Intelligence vs. Will \rHit: 2d6 + Intelligence modifier psychic damage, and the target falls prone. The target is immobilized until the end of its next turn. \rMiss: Half damage, and the target falls prone. \rEffect: The burst creates a zone that lasts until the end of the encounter. Any enemy that enters the zone falls prone. \r</shortdescription>
+							<source type="string">Wizard Attack 1</source>
+							<used type="number">0</used>
+						</id-00001>
+						<id-00002>
+							<abilities>
+								<id-00001>
+									<attackdef type="string">reflex</attackdef>
+									<attackstat type="string">intelligence</attackstat>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice">d8,d8,d8</damagebasicdice>
+									<damagestat type="string">intelligence</damagestat>
+									<damagestatmodifier type="number">0</damagestatmodifier>
+									<damagetype type="string">fire</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">1</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00001>
+								<id-00002>
+									<attackstatmodifier type="number">0</attackstatmodifier>
+									<damagebasicdice type="dice"></damagebasicdice>
+									<damagestatmodifier type="number">5</damagestatmodifier>
+									<damagetype type="string">fire</damagetype>
+									<damageweaponmult type="number">0</damageweaponmult>
+									<focus type="number">0</focus>
+									<healcost type="number">0</healcost>
+									<healdice type="dice"></healdice>
+									<healmod type="number">0</healmod>
+									<hsvmult type="number">0</hsvmult>
+									<order type="number">2</order>
+									<savemod type="number">0</savemod>
+									<type type="string">attack</type>
+								</id-00002>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">You weave a fiery pillar that spins like a top. With each revolution, it douses your enemies with searing heat.</flavor>
+							<keywords type="string">Arcane, Evocation, Fire, Implement, Zone</keywords>
+							<name type="string">Fountain of Flame</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Area burst 1 within 10 squares</range>
+							<recharge type="string">Daily</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Target: Each enemy in the burst \rAttack: Intelligence vs. Reflex \rHit: 3d8 + Intelligence modifier fire damage. \rMiss: Half damage. \rEffect: The burst creates a zone that lasts until the end of the encounter. Any enemy that enters the zone or ends its turn there takes 5 fire damage. \r</shortdescription>
+							<source type="string">Wizard Attack 1</source>
+							<used type="number">0</used>
+						</id-00002>
+					</power>
+					<usesavailable type="number">1</usesavailable>
+				</c-daily>
+				<d-utility>
+					<power>
+						<id-00001>
+							<abilities>
+							</abilities>
+							<action type="string">Free Action</action>
+							<flavor type="string">You weave arcane power through your words, infusing each phrase with persuasive magic.</flavor>
+							<keywords type="string">Arcane</keywords>
+							<name type="string">Suggestion</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Personal</range>
+							<recharge type="string">Encounter</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Trigger: You make a Diplomacy check. \rEffect: You make an Arcana check instead, using that result to determine the outcome of the Diplomacy check. \r</shortdescription>
+							<source type="string">Wizard Utility</source>
+							<used type="number">0</used>
+						</id-00001>
+						<id-00002>
+							<abilities>
+							</abilities>
+							<action type="string">Minor Action</action>
+							<flavor type="string">You gesture toward an object nearby, and a spectral floating hand lifts the object into the air and moves it where you wish.</flavor>
+							<keywords type="string">Arcane, Conjuration</keywords>
+							<name type="string">Mage Hand</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Ranged 5</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Effect: You conjure a spectral, floating hand in an unoccupied square within range. The hand lasts until the end of your next turn or until you use this power again. If you are holding an object when you use this power, the hand can move the object into a pack, a pouch, a sheath, or a similar container and simultaneously move any one object carried or worn anywhere on your body into your hand. While the hand persists, you can take the following actions. \r Minor Action: The hand picks up or manipulates an object weighing 20 pounds or less. It can hold only one object at a time. \r Move Action: The hand moves up to 5 squares in any direction, carrying the object it holds. \r Free Action: The hand drops the object it is holding. \rSustain Minor: The hand persists until the end of your next turn. \r</shortdescription>
+							<source type="string">Wizard Utility</source>
+							<used type="number">0</used>
+						</id-00002>
+						<id-00003>
+							<abilities>
+							</abilities>
+							<action type="string">Standard Action</action>
+							<flavor type="string">You perform an amusing magical trick, such as creating a dancing wisp of light, freshening a wilting flower, making a coin invisible, or warming a cold drink.</flavor>
+							<keywords type="string">Arcane</keywords>
+							<name type="string">Prestidigitation</name>
+							<parse type="number">0</parse>
+							<prepared type="number">1</prepared>
+							<range type="string">Ranged 2</range>
+							<recharge type="string">At-Will</recharge>
+							<shortcut type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</shortcut>
+							<shortdescription type="string">Effect: Use this cantrip to accomplish one of the effects given below: * Change the color of items in 1 cubic foot. * Create a harmless sensory effect, such as a shower of sparks, a puff of wind, faint music, or a strong odor. * Clean or soil items in 1 cubic foot. * Instantly light (or snuff out) a candle, a torch, or a small campfire. * Chill, warm, or flavor up to 1 pound of nonliving material for up to 1 hour. * Make a small mark or symbol appear on a surface for up to 1 hour. * Produce out of nothingness a small item or image that exists until the end of your next turn. * Make a small, handheld item invisible until the end of your next turn. \rSpecial: You can have as many as three prestidigitation effects active at one time. Nothing you create with this cantrip can deal damage, serve as a weapon or a tool, or hinder another creature's actions. This cantrip cannot duplicate the effect of any other power. \r</shortdescription>
+							<source type="string">Wizard Utility</source>
+							<used type="number">0</used>
+						</id-00003>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</d-utility>
+				<e-itemdaily>
+					<power>
+					</power>
+					<usesavailable type="number">0</usesavailable>
+				</e-itemdaily>
+			</powers>
+			<powershow>
+				<atwillspecial type="number">0</atwillspecial>
+				<cantrip type="number">0</cantrip>
+				<channeldivinity type="number">0</channeldivinity>
+				<encounterspecial type="number">0</encounterspecial>
+			</powershow>
+			<preparationmode type="number">0</preparationmode>
+			<proficiencyarmor>
+			</proficiencyarmor>
+			<proficiencyweapon>
+				<id-00001>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Shortbow</value>
+				</id-00001>
+				<id-00002>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Dagger</value>
+				</id-00002>
+				<id-00003>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Quarterstaff</value>
+				</id-00003>
+				<id-00004>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Orb</value>
+				</id-00004>
+				<id-00005>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Staff</value>
+				</id-00005>
+				<id-00006>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<value type="string">Wand</value>
+				</id-00006>
+			</proficiencyweapon>
+			<race type="string">Elf</race>
+			<senses type="string">Low-light</senses>
+			<size type="string">Medium</size>
+			<skilllist>
+				<id-00001>
+					<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Acrobatics</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Acrobatics</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">1</stat>
+					<statname type="string">dexterity</statname>
+					<total type="number">1</total>
+					<trained type="number">0</trained>
+				</id-00001>
+				<id-00002>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Arcana</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Arcana</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">4</stat>
+					<statname type="string">intelligence</statname>
+					<total type="number">4</total>
+					<trained type="number">0</trained>
+				</id-00002>
+				<id-00003>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Bluff</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Bluff</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">0</stat>
+					<statname type="string">charisma</statname>
+					<total type="number">0</total>
+					<trained type="number">0</trained>
+				</id-00003>
+				<id-00004>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Diplomacy</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Diplomacy</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">0</stat>
+					<statname type="string">charisma</statname>
+					<total type="number">0</total>
+					<trained type="number">0</trained>
+				</id-00004>
+				<id-00005>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Dungeoneering</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Dungeoneering</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">2</stat>
+					<statname type="string">wisdom</statname>
+					<total type="number">2</total>
+					<trained type="number">0</trained>
+				</id-00005>
+				<id-00006>
+					<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Endurance</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Endurance</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">2</stat>
+					<statname type="string">constitution</statname>
+					<total type="number">2</total>
+					<trained type="number">0</trained>
+				</id-00006>
+				<id-00007>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Heal</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Heal</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">2</stat>
+					<statname type="string">wisdom</statname>
+					<total type="number">2</total>
+					<trained type="number">0</trained>
+				</id-00007>
+				<id-00008>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">History</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">History</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">4</stat>
+					<statname type="string">intelligence</statname>
+					<total type="number">4</total>
+					<trained type="number">0</trained>
+				</id-00008>
+				<id-00009>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Insight</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Insight</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">2</stat>
+					<statname type="string">wisdom</statname>
+					<total type="number">2</total>
+					<trained type="number">0</trained>
+				</id-00009>
+				<id-00010>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Intimidate</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Intimidate</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">0</stat>
+					<statname type="string">charisma</statname>
+					<total type="number">0</total>
+					<trained type="number">0</trained>
+				</id-00010>
+				<id-00011>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Nature</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Nature</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">2</stat>
+					<statname type="string">wisdom</statname>
+					<total type="number">2</total>
+					<trained type="number">0</trained>
+				</id-00011>
+				<id-00012>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Perception</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Perception</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">2</stat>
+					<statname type="string">wisdom</statname>
+					<total type="number">2</total>
+					<trained type="number">0</trained>
+				</id-00012>
+				<id-00013>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Religion</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Religion</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">4</stat>
+					<statname type="string">intelligence</statname>
+					<total type="number">4</total>
+					<trained type="number">0</trained>
+				</id-00013>
+				<id-00014>
+					<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Stealth</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Stealth</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">1</stat>
+					<statname type="string">dexterity</statname>
+					<total type="number">1</total>
+					<trained type="number">0</trained>
+				</id-00014>
+				<id-00015>
+					<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Streetwise</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Streetwise</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">0</stat>
+					<statname type="string">charisma</statname>
+					<total type="number">0</total>
+					<trained type="number">0</trained>
+				</id-00015>
+				<id-00016>
+					<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Thievery</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Thievery</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">1</stat>
+					<statname type="string">dexterity</statname>
+					<total type="number">1</total>
+					<trained type="number">0</trained>
+				</id-00016>
+				<id-00017>
+					<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+					<classskill type="number">0</classskill>
+					<label type="string">Athletics</label>
+					<level type="number">0</level>
+					<misc type="number">0</misc>
+					<name type="string">Athletics</name>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<showonminisheet type="number">1</showonminisheet>
+					<stat type="number">0</stat>
+					<statname type="string">strength</statname>
+					<total type="number">0</total>
+					<trained type="number">0</trained>
+				</id-00017>
+			</skilllist>
+			<specialabilitylist>
+				<id-00001>
+					<description type="string">You grant non-elf allies within 5 squares of you a +1 racial bonus to Perception checks.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Group Awareness</value>
+				</id-00001>
+				<id-00002>
+					<description type="string">You have the elven accuracy power.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Elven Accuracy</value>
+				</id-00002>
+				<id-00003>
+					<description type="string">Your ancestors were native to the Feywild, so you are considered a fey creature for the purpose of effects that relate to creature origin.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Fey Origin</value>
+				</id-00003>
+				<id-00004>
+					<description type="string">You ignore difficult terrain when you shift.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Wild Step</value>
+				</id-00004>
+				<id-00005>
+					<description type="string">Gain a +2 racial bonus to Nature.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Nature Bonus</value>
+				</id-00005>
+				<id-00006>
+					<description type="string">Gain a +2 racial bonus to Perception.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Racial Trait</source>
+					<value type="string">Perception Bonus</value>
+				</id-00006>
+				<id-00007>
+					<description type="string">Choose a school of magic. You gain the Apprentice Mage benefit associated with that school.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Level 1 Apprentice Mage</value>
+				</id-00007>
+				<id-00008>
+					<description type="string">When you roll damage for an arcane evocation power, if any of the dice come up with a result of 1, pick one of them, reroll it, and use the new result.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Evocation Apprentice</value>
+				</id-00008>
+				<id-00009>
+					<description type="string">You add two of the following powers to your spellbook.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Level 1 Mage Daily Powers</value>
+				</id-00009>
+				<id-00010>
+					<description type="string">You add two of the following powers to your spellbook.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Level 1 Mage Encounter Powers</value>
+				</id-00010>
+				<id-00011>
+					<description type="string">You gain two of the following powers of your choice.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Mage At-Will Powers</value>
+				</id-00011>
+				<id-00012>
+					<description type="string">You gain three of the following powers of your choice.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Mage Cantrips</value>
+				</id-00012>
+				<id-00013>
+					<description type="string">At the end of each of your extended rests, you can prepare encounter attack powers, daily attack powers, and utility powers from your spellbook. These are the powers that you can use during that day, in addition to your at-will attack powers, cantrips, and nonwizard powers, such as a racial power. If you do not prepare powers from your spellbook after an extended rest (for example, if you do not have access to your spellbook), you can use the same powers you had prepared on the previous day. Find your level on the Spells Prepared per Day table. The row corresponding to your level indicates how many encounter attack powers, daily attack powers, and utility powers you are allowed to prepare each day. You cannot prepare more than one encounter attack power, daily attack power, or utility power of any given level on the same day. For example, a 14th-level mage who has taken the enigmatic mage paragon path can prepare four encounter attack powers per day. Her spellbook contains multiple encounter attack powers at various levels. She can prepare four powers from any of the levels, as long as none of the prepared powers are of the same level. SPELLS PREPARED PER DAY &#60;table&#62;Level Encounter Daily Utility 1 1 1 - 2 1 1 1 3-4 2 1 1 5 2 2 1 6 2 2 2 7-8 3 2 2 9 3 3 2 10-15 3 3 3 16-21 3 3 4 22-30 3 3 5&#60;/table&#62; *Certain wizard paragon paths, such as the enigmatic mage, allow you to prepare one additional spell per day in certain cases.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Mage's Spellbook</value>
+				</id-00013>
+				<id-00014>
+					<description type="string">You gain the magic missile power.</description>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<source type="string">Class Feature</source>
+					<value type="string">Magic Missile</value>
+				</id-00014>
+			</specialabilitylist>
+			<speed>
+				<armor type="number">0</armor>
+				<base type="number">7</base>
+				<final type="number">7</final>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+			</speed>
+			<weaponlist>
+				<id-00002>
+					<ammo type="number">0</ammo>
+					<attackdef type="string">ac</attackdef>
+					<attackstat type="string">strength</attackstat>
+					<bonus type="number">2</bonus>
+					<criticalbonus type="string">0</criticalbonus>
+					<criticaldice type="dice"></criticaldice>
+					<damagebonus type="number">0</damagebonus>
+					<damagedice type="dice">d8</damagedice>
+					<damagestat type="string">strength</damagestat>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Quarterstaff</name>
+					<order type="number">2</order>
+					<rangeincrement type="number">0</rangeincrement>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00002>
+			</weaponlist>
+		</id-00002>
+	</charsheet>
+	<combattracker>
+		<id-00002>
+			<ac type="number">18</ac>
+			<actionpoints type="number">1</actionpoints>
+			<active type="number">0</active>
+			<attacks>
+				<id-00001>
+				</id-00001>
+			</attacks>
+			<effects>
+			</effects>
+			<fortitude type="number">16</fortitude>
+			<friendfoe type="string">friend</friendfoe>
+			<healsurgeremaining type="number">12</healsurgeremaining>
+			<healsurgesmax type="number">12</healsurgesmax>
+			<healsurgesused type="number">0</healsurgesused>
+			<healsurgeval type="number">7</healsurgeval>
+			<hp type="number">31</hp>
+			<hptemp type="number">0</hptemp>
+			<immediate_check type="number">0</immediate_check>
+			<init type="number">2</init>
+			<initresult type="number">0</initresult>
+			<link type="windowreference">
+				<class>charsheet</class>
+				<recordname>charsheet.id-00001</recordname>
+			</link>
+			<name type="string">Bjorn</name>
+			<reach type="number">1</reach>
+			<reflex type="number">14</reflex>
+			<save type="number">0</save>
+			<show_npc type="number">0</show_npc>
+			<space type="number">1</space>
+			<speed type="number">5</speed>
+			<status type="string">Healthy</status>
+			<targets>
+			</targets>
+			<token type="token">tokens/Medium/b.png@Letter Tokens</token>
+			<tokenscale type="number">1</tokenscale>
+			<type type="string">pc</type>
+			<will type="number">10</will>
+			<wounds type="number">0</wounds>
+		</id-00002>
+		<id-00003>
+			<ac type="number">14</ac>
+			<actionpoints type="number">1</actionpoints>
+			<active type="number">0</active>
+			<attacks>
+				<id-00001>
+				</id-00001>
+			</attacks>
+			<effects>
+			</effects>
+			<fortitude type="number">12</fortitude>
+			<friendfoe type="string">friend</friendfoe>
+			<healsurgeremaining type="number">8</healsurgeremaining>
+			<healsurgesmax type="number">8</healsurgesmax>
+			<healsurgesused type="number">0</healsurgesused>
+			<healsurgeval type="number">6</healsurgeval>
+			<hp type="number">24</hp>
+			<hptemp type="number">0</hptemp>
+			<immediate_check type="number">0</immediate_check>
+			<init type="number">1</init>
+			<initresult type="number">0</initresult>
+			<link type="windowreference">
+				<class>charsheet</class>
+				<recordname>charsheet.id-00002</recordname>
+			</link>
+			<name type="string">Celeste</name>
+			<reach type="number">1</reach>
+			<reflex type="number">14</reflex>
+			<save type="number">0</save>
+			<show_npc type="number">0</show_npc>
+			<space type="number">1</space>
+			<speed type="number">7</speed>
+			<status type="string">Healthy</status>
+			<targets>
+			</targets>
+			<token type="token">tokens/Medium/c.png@Letter Tokens</token>
+			<tokenscale type="number">1</tokenscale>
+			<type type="string">pc</type>
+			<will type="number">14</will>
+			<wounds type="number">0</wounds>
+		</id-00003>
+	</combattracker>
+	<combattracker_props>
+		<round type="number">0</round>
+	</combattracker_props>
+	<encounter>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+			<id-00002>
+				<name type="string">2. Link index</name>
+				<text type="formattedtext">
+					<linklist>
+					</linklist>
+					<h>Background </h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00014">A short history of Dinor </link>
+						<link class="encounter" recordname="encounter.id-00015">GM notes on current events </link>
+					</linklist>
+					<h>Sites </h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00017"><b>The Inn </b></link>
+						<link class="encounter" recordname="encounter.id-00003"><b>The Cathedral </b></link>
+						<link class="encounter" recordname="encounter.id-00006">Hall </link>
+						<link class="encounter" recordname="encounter.id-00010">Second floor </link>
+						<link class="encounter" recordname="encounter.id-00008">Catacombs </link>
+						<link class="encounter" recordname="encounter.id-00007"><b>Deep in the mines </b></link>
+						<link class="encounter" recordname="encounter.id-00020">Encounters </link>
+					</linklist>
+					<h>Conversations </h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00005">Allan's introduction </link>
+						<link class="encounter" recordname="encounter.id-00016">Peter's account on recent events </link>
+					</linklist>
+					<p> </p>
+				</text>
+			</id-00002>
+			<id-00003>
+				<name type="string">Cathedral</name>
+				<text type="formattedtext">
+					<p>The Cathedral of Dinor stands on the Island of Spirits, a small rocky island accessible from the town proper via a sturdy stone bridge. Numerous statues, benches and paved paths once stood on the island, but have long since been taken away or fallen into disrepair, leaving behind pedestals and piles of stones. </p>
+					<frame>The bridge rises above the waters between the island and the town center. As you get closer, the cathedral, with its twin towers, looms high above you. Old paths, taken up as fishing trails, cross the edges of the island, dwarfed by the bulk of the huge building. </frame>
+					<p>The cathedral consists of two tower spires on both sides of the entrance. The purpose of the towers is mainly achitectural, and they contain nothing other than broad staircases and high ceilinged rooms, now completely empty. </p>
+					<frame>The Cathedral is a disproportionate building in today's Dinor. Although the rest of the once glorious city is mostly ruins the Cathedral is in good shape. It fills nearly half of the Island of Spirits and only the dark silhoutte of the nearby mountains prevents it from being seen from a huge distance over the Faithful Water. The entrance of the Cathedral faces the bridge connecting the island to the city. </frame>
+					<p>The PCs enter the Cathedral through the main door, which is usually closed but not locked. </p>
+					<h>Parts of the cathedral </h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00006">Hall </link>
+						<link class="encounter" recordname="encounter.id-00010">Second floor </link>
+						<link class="encounter" recordname="encounter.id-00008">Catacombs </link>
+					</linklist>
+					<h>Images </h>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00001">Hall </link>
+						<link class="imagewindow" recordname="image.id-00003">Second floor </link>
+						<link class="imagewindow" recordname="image.id-00006">Catacombs </link>
+					</linklist>
+				</text>
+			</id-00003>
+			<id-00005>
+				<name type="string">Allan's introduction</name>
+				<text type="formattedtext">
+					<p>Allan tries to convince the PCs to take a mission - a different mission than the one he is actually on - but nevertheless necessary for the completion of his own goals. Allan is actually after the Cube of Raughnar. He needs the party to get rid of whatever might be guarding the Cube. He suspects also that the Bowl of Tulan is left in the Cathedral to guard the Cube. </p>
+					<p>Allan might choose to make the following &#34;conversation&#34;. </p>
+					<p><b>Hint </b>: Open Allan's personality sheet first and click the bubble icon. This way you can have the conversation as Allan. The identity in boldface is the active one. You can also do this by dragging the chat frame onto the identity list. </p>
+					<frame><frameid>Allan </frameid>Good evening, my name is Allan. May I join you for a cup of tea or wine, perhaps, on my expense of course. </frame>
+					<frame><frameid>Allan </frameid>Waitress, two bottles of the old Kendar walley red and a kettle of tea! </frame>
+					<frame><frameid>Allan </frameid>And a pot of whatever it is that gives that wonderful smell! </frame>
+					<frame><frameid>Allan </frameid>So, where were we, oh yes, as you have surely heard, a miner was slaughtered three days ago. I have conducted some preliminary investigations and in fact, I might have a little something for you to do - if you are interested in helping me and these people and earning a little pocket money, too. </frame>
+					<frame><frameid>Allan </frameid>I have a reason to believe that there is more to the Cathedral than these people know about. It once was a great site of worship of Tulan, a god now all but forgotten. The Bowl of Tulan, however, is an artifact that would benefit any church aligned towards the good. I'm not a priest and I do not want it for myself, but it is very valuable and many people, both good and evil, would like to lay their hands on it. </frame>
+					<frame><frameid>Allan </frameid>It is possible that the breaking of the seals of the Cathedral last year has encouraged all kind of people to try their luck. I know of one other incident that happened nearby recently, which makes it at least two. Coincidence? Maybe, but I'm no great believer in coincidence. Anyway, one pair of eyes sees less than several, and you could maybe find out if the Bowl is somehow connected to these events. If you decide to help in unraveling this terrible mystery, the townspeople would like to hire each of you with 10 gold pieces. If you, or I, solve this crime, the authorities of Andegar will certainly reward us, too. So, if you decide to commit to this charge, just let me know. </frame>
+					<p>Note that Allan avoids topics that he doesn't care to tell the PCs about rather than lie outright. </p>
+					<linklist>
+						<link class="npc" recordname="npc.id-00001">Allan </link>
+					</linklist>
+					<h>Related items </h>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00004">Cube of Raughnar (image) </link>
+						<link class="npc" recordname="npc.id-00004">Cube of Raughnar </link>
+						<link class="item" recordname="item.id-00002">Bowl of Tulan </link>
+					</linklist>
+				</text>
+			</id-00005>
+			<id-00006>
+				<name type="string">Cathedral - Hall</name>
+				<text type="formattedtext">
+					<frame>The main hall of the cathedral rises high above, ending in arches connecting the huge pillars supporting the roof. The area has been stripped of everything that can be carried away, the light streaming in through tall windows at the other end of the hall, above the place where an altar stands, empty of decorations. </frame>
+					<p>The interior of the church is really quite simple, a rectangular space with an array of huge columns supporting the arched gable roof. The floor shows markings from benches that once filled the area now scattered with crates and barrels. When the Cathedral was sealed, all valuable items were naturally taken away (including the marble interior walls that made up the side chapels). </p>
+					<p>Two of the eight colums hold secret doors, the first and the last ones on the left, looking in from the main doors. The first one is essentially a hollowed out piece of masonry that fits the column at the edges, and has a Search DC of 24. This staircase is quite wide, almost fitting two men abreast. </p>
+					<p>The other secret door is in the fourth column on the left, the one closest to the altar. This column has a booth for preaching the priests used to use, and is accessible through an open staircase built along the side of the column. In the booth, a panel swings open to reveal a narrow staircase upwards. The Search DC to find this door is 15. </p>
+					<frame>As you climb into the preacher's box, you start tapping on the wooden panels along the wall. Sure enough, one section seems to be hollow, and before long you discover a latch that reveals a narrow spiral staircase leading upwards inside the column. </frame>
+					<p><b><i>Hint! </i></b><i>There is a staircase token in the token box (only in the GMs box). Use it if and when either the players or Allan finds the staircase. If Allan's help is required, he will show PCs the stairs in the back of the Cathedral (leading to the Chapel room in the second floor). </i></p>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00010">Cathedral - Second floor </link>
+					</linklist>
+				</text>
+			</id-00006>
+			<id-00007>
+				<name type="string">Deep In the Mines</name>
+				<text type="formattedtext">
+					<p>If the party takes the underground river from the Cathedral's basement, they will head into the mines outside Dinor. </p>
+					<p>The entry point is rather deep in the mines, behind most of the collapses that happened after the Devastation. The mines have now been taken over by a group of goblins, who found the area by chance and came down through the overflow pipe in one of the rooms in the area. </p>
+					<p>The goblins are trying to clear the rubble in order to loot the upper reaches of the mines, and maybe even try and raid the town itself, using the mines as a hideout. </p>
+					<h>Instructions </h>
+					<p><i>As the tactical situation on the map may be essential, the use of tokens and different pointers is beneficial. The tactical movement, range of weapons and spells as well as the effect areas are convenietly visulized by overlaying a grid on the map. After that the area pointers (square, circle and cone) shade the grid-squares they fall upon. </i></p>
+					<p><i>Another important feature is the mask. Turn on the masked mode with the radial menu and &#34;lasso&#34; the area you want to show the players. Then share the image. To reveal more area, &#34;lasso&#34; the area wanted and the area will be revealed. </i></p>
+					<p><i>Moreover, you can switch the area shown to the players by panning the image to the view you wish and then re-sharing the image. </i></p>
+					<p><i>Whenever a fight breaks out, remember to take advantage of the combat tracker. It can be opened from the top right corner of the screen, using the icon resembling a list of entries. You can drag any PC from his or her portrait, NPCs from the personality list or monsters from the monster list to the tracker to add them to it. You can collect initiative rolls here and sort the view according to initiative, and keep track of wounds. </i></p>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00008">Area map </link>
+						<link class="encounter" recordname="encounter.id-00020">Encounters in the deep mines </link>
+					</linklist>
+					<h>Exiting the mines </h>
+					<p><i>Once the PC have explored this area, they will enter the upper reaches of the mines. This section is not detailed here, but an overview map is provided, should the GM wish to improvise or prepare this section on his own. </i></p>
+					<p><i>Should you wish to improvise, a good idea might be to use the map as a guide, and draw smaller sections on blank drawings. To do this, open the images and maps list scroll and hit new. A blank drawing will be created that you can share with your players. </i></p>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00007">Overview map of the upper mines </link>
+					</linklist>
+				</text>
+			</id-00007>
+			<id-00008>
+				<name type="string">Cathedral - Catacombs</name>
+				<text type="formattedtext">
+					<p>The secret staircase in the first colum also leads to the catacombs beneath the Cathedral. While it is reasonable to assume they exist, their entrance and existence has been forgotten long since. </p>
+					<frame>As you descend the spiraling stair lower and lower, the air starts to get humid and rancid. As the stairs end in a rough chamber with some burial coffins, you can clearly hear the sound of an underground stream flowing closeby. A corridor leads away from the chamber, blocked by a sturdy stone door. Another corridor, of natural stone, leads to the wet darkness, blocked by an iron portcullis and a lever on the wall on this side of it. </frame>
+					<p>Beside the underwater river there is a lever. Pulling the lever does nothing, but pushing it back to its initial position rises the portcullis blocking the way to the river. After the bars have risen, they start to slowly fall back down, to close behind passing cargo. In fact, the portcullis was originally meant to facilitate loading barrels going downriver and unloading cargo from upriver. </p>
+					<p>There are no boats available. The PCs can either swim (the distance to the underground lake is 3 miles), or they can use wooden coffins found in the entrance chamber as vessels. The larger coffins in the grave area, however, might hold a member of the walking dead that will fight when disturbed. </p>
+					<p><i>As an option for the GM, you may wish to elaborate the area of the catacombs and populate it with an undead menace. See the section on the mines for some useful hints in proceeding with the exporation, should you decide to do so. </i></p>
+					<p>A journal can be found in the catacombs. You may add information in the journal if you want to. </p>
+					<h>Linking areas </h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00010">Second floor </link>
+						<link class="encounter" recordname="encounter.id-00006">Hall </link>
+						<link class="encounter" recordname="encounter.id-00007">Deep in the mines </link>
+					</linklist>
+					<h>Map </h>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00006">The catacombs </link>
+					</linklist>
+					<h>Possible encounters </h>
+					<linklist>
+						<link class="battle" recordname="battle.id-00001">Walking Dead </link>
+					</linklist>
+					<h>Special items </h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00019">Journal </link>
+					</linklist>
+				</text>
+			</id-00008>
+			<id-00010>
+				<name type="string">Cathedral - Second floor</name>
+				<text type="formattedtext">
+					<p>Both of the secret doors lead to the second floor. The second floor, Chapel floor, is built above the arch-heads and its existence is difficult to notice from below. </p>
+					<p><i>This area contains a section the players cannot see at first glance. Use the masking feature here, to reveal only the part the PCs can see when they initially enter the area. Once you have opened the map, use the radial menu to enable masking, &#34;lasso&#34; the area of the room the PCs are in, and share the image to the players using the radial menu. </i></p>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00003">Map of the upper floor </link>
+					</linklist>
+					<h>Chapel </h>
+					<p>The second floor is divided into two compartments with an illusionary wall. The bigger part (in the rear part of the church), is arranged as a chapel meant for private ceremonies of the clergy. </p>
+					<p>Beside the staircase stand two large human statues (stone golems). The staircase is wide enough for the golems to walk easily. What the PCs do not know, is that if the door below is closed, the Balor cannot pass. </p>
+					<frame>You come to a large room below the huge roof of the cathedral. At one end, two large human statues stand on each side of a staircase emerging from one of the pillars supporting the roof. At the other, an altar stands, faintly illuminated by a glow from an unseen light source. A large bowl, seemingly made of red marble, rests on the altar. A low tingling voice emanates from the walls, floor and ceiling. </frame>
+					<p>The bowl on the altar is the Bowl of Tulan. </p>
+					<linklist>
+						<link class="item" recordname="item.id-00002">Bowl of Tulan </link>
+					</linklist>
+					<h>Cube room </h>
+					<p>The smaller compartment holds another 'altar' on which the Cube of Raughnar rests. Upon passing the illusionary wall or otherwise entering the space beyond the chapel compartment, the golems start approaching. They will not attack the PCs, or even defend themselves, should they be able to damage them. The golems are there to to prevent any hostile behaviour on the part of creatures summonded from the cube (such asthe Balor). When the Balor attacks, the goblins retaliate immediately. </p>
+					<linklist>
+						<link class="npc" recordname="npc.id-00004">Cube of Raughnar </link>
+					</linklist>
+					<p>Spotting the wall as illusionary has a Spot DC of 20. </p>
+					<frame>As you move into and through the wall behind the altar, you emerge in another, smaller room. A small and dirty window in the back wall gives the room some light and you can make out an opening into another, narrower staircase in a pillar here. The room also houses another altar, right next to the illusionary wall. On it rests a small bronze cube, with a different fantastic face depicted on each one of its sides. </frame>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00004">A picture of the cube </link>
+					</linklist>
+					<p>There is a narrow and low staircase in the cube room, too small for the golems (and a Balor). </p>
+					<frame>You move in the room, feeling a presence building in the direction of the cube on the altar. As you watch, shapes of limbs and horns start bulging out of the surface of the cube. It seems like a handful of creatures fighting an unseen struggle, but a huge demonic being quickly starts gaining shape over the others. Soon it becomes obvious that the demonic shape will pull himself completely free of the cube in just moments. </frame>
+					<p>After the scene, the PCs have a round of activity before the Balor has completely emerged from the cube. After this round has passed, the golems will attack the balor and it will retaliate. </p>
+					<frame>As soon as the demon pulls its legs completely free from the cube, the two statues standing next to it burst into action, attacking it with tremendeous force. The demon responds by bursting into living flame and lashing out with a fiery whip that emerges in its hand. You cringe back from the flames as the three start their fight, the floor of the room pounding under the creatures' heavy feet. </frame>
+					<p>The staircase leads to the catacombs, but a keen eye (DC 30) can spot a door to the Hall also. If the players don't understand that fleeing is their only option, you might want to encourage them. </p>
+					<h>A motive </h>
+					<p>Allan's secret ambition is to get the cube into his possession. His plan is to use the PCs to trigger the guardians, and go after the cube after it goes tranquil for a period. He will use his stealth to get to it unnoticed, and does know about the secret door in the first column. </p>
+					<p><i>Because the purpose of this campaign is to act as inspiration and a demonstration, it is left open to the Gamemaster what Allan's final plans are, and how to finish this adventure. Perhaps he will escape mysteriously, maybe the balor will take him over while still in the town area, escaping to the west with a trail of bodies in his wake. </i></p>
+					<h>Linking areas </h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00006">Hall </link>
+						<link class="encounter" recordname="encounter.id-00008">Catacombs </link>
+					</linklist>
+				</text>
+			</id-00010>
+			<id-00014>
+				<name type="string">A short history of Dinor</name>
+				<text type="formattedtext">
+					<p>A long time ago, Dinor was a flourishing city, its mines pouring riches on its people. With the wealth, came merchants, and following them, aristocracy, craftsmen, and priests. With the domains reasonably safe from invasion, guarded by the dwarves in the mountains and the men of the western cities, the wealth was spent lavishly, culminating in the building of the Cathedral. </p>
+					<p>The Cathedral of Tulan stood as the landmark by the Faithful Water and the Cathedral was rich with glass paintings, expensive woods heavy with gilt and the misty clouds drifting in the clear crystal of Bowl of Tulan were a wonder people came to admire from lands far away. </p>
+					<p>But the pride brought corruption and ambition brought the Year of Devastation. People fled with whatever they could take with them as the highest clergy tried to correct things with their cause, the Cube of Raughnar. As they asked guidance (the use of Raughnar's cube started with greedy questions of ever better places to mine), terrible horrors occasionally escaped. In the last day of the Devastation, the high priests sacrificed upon the Bowl of Tulan, isolated the Cube and finally sealed the Cathedral. </p>
+					<p>In the following few years, the mines were exploited without paying proper attention to supporting the caverns. Sadly, this resulted in a series of collapses practically destroying the mines. </p>
+					<p>After the mass flight, the following decades saw a steady stream of refugees leaving Dinor. The income from the mines deteriorated constantly and fertile farmlands were in the west, on the plains near Fabrad. The old caravan route following the Faithful Waters and up the river into the mountains still brought some merchants into Dinor for trade, but most of them moved on to the growing city of Andegar, where the demand was high for the luxuries brought from beyond the great desert. </p>
+					<p>A century after the Devastation, Dinor was much in the condition it is today; most of the houses taken apart, the stones transported to Andegar and other cities. It is a short rest for the caravans coming from the mountains or the last bed before the harsh route. Faithful Waters provides a fair catch of fish for the small town and the gardens planted during the greatness of Dinor yield fruit and pasture for cattle. A small foundry and on the outskirts of today's Dinor still makes the best pots and roasters by the lake. Also the nearby smithy makes masterwork weapons and armor. </p>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00005">A map of the area surrounding Dinor </link>
+						<link class="imagewindow" recordname="image.id-00002">A map of the town of Dinor </link>
+						<link class="npc" recordname="npc.id-00004">Cube of Raughnar </link>
+					</linklist>
+				</text>
+			</id-00014>
+			<id-00015>
+				<name type="string">GM notes on current events in Dinor</name>
+				<text type="formattedtext">
+					<p>Three days ago a miner was found brutally slaughtered in the mines (two miles to the south of Dinor). The four other men working there at the time are under custody; none of them resisted the detention, but all have claimed to be innocent. The miner was actually killed by goblins having burrowed through a collapsed corridor with the help of one of the burrowing bugs they have captured. No one has been to the mines since the incident. </p>
+					<p>Yesterday evening, &#34;Lord&#34; Allan came to the town and took residence at the Inn, 'Lost Pipes'. He said he did not come for the murder, but has promised to investigate the matter and has also provided Dinor a loan of 500 gold pieces until the representatives of Andegar arrive. Actually, Allan did not introduce himself as a Lord but he purposefully gave the people that impression. </p>
+					<p>Allan is in fact an assassin (rogue) having researched Dinor ever since the villagers opened the Cathedral a year ago. It is now used as a storage for lake transport and that initially raised Allan's interest. He reckoned that old constructions often hide secret passages, tunnels and in the case of Cathedrals, catacombs. He started investigating the history of Dinor in order to find a way to lay hands on some of the items stored there, without being seen, using, for example, long forgotten tunnels. Rummaging through the storerooms of the Republic Library of Andegar, he found old scrolls written during the Year of Devastation and concluded that the Cube of Raughnar might still be in the Cathedral of Tulan in Dinor (now called the Cathedral of Dinor). </p>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00014">Short history of Dinor </link>
+						<link class="npc" recordname="npc.id-00001">Allan </link>
+						<link class="imagewindow" recordname="image.id-00002">Map of Dinor </link>
+						<link class="encounter" recordname="encounter.id-00017">The 'Lost Pipes' inn </link>
+						<link class="encounter" recordname="encounter.id-00016">A possible conversation when the PCs enter the Inn. </link>
+					</linklist>
+				</text>
+			</id-00015>
+			<id-00016>
+				<name type="string">Peter's recite on current events</name>
+				<text type="formattedtext">
+					<p><b>Hint: </b>Open Peter's personality sheet and click the bubble icon. This way you can have the conversation as Peter. The identity in boldface is the active one. </p>
+					<frame><frameid>Peter </frameid>Greetings dear people. I'm Peter Hammock, I welcome you heartily to my humble inn. Are you hungry or perhaps sleepy, or may I recommend a nice bottle of wine together with my own specialty cheese? But, please, first make yourselves comfortable wherever you wish. </frame>
+					<frame><frameid>Peter </frameid>Now, do you have everything you need? Oh boy, sooner or later you will hear it... so let me tell you. Three days ago the miner's foreman brought poor Jeller, a local miner ' living, oh my, who lived by the West Fields, home slaughtered. All the miners are, mind me, now under custody and almost everybody has been heard, so you should not worry about my inn's security ' anyway, we have locked doors during the nights since then. I personally don't think the miners are behind it, they might occasionally cause some trouble but never anything that couldn't be settled with bare fists. My wife, Lily, blames the village council and says that it was an ill deed to open the Cathedral. Don't pay any heed to her, she's superstitious and doesn't like change - probably she's just scared because old Tim claimed to have heard odd bangs from beneath the Hall floor when arranging crates. Old Tim is so deaf he wouldn't hear a horn blown under his nose. </frame>
+					<frame><frameid>Peter </frameid>You see that Lord over there, he's Lord Allan. He arrived yesterday evening and a good thing that he did! Now, he's investigating the murder until we get someone from Andegar to take charge. It was very fortunate that he showed up just now when things got a turn to the worst. And believe me or not, he provided us with 500 gold pieces, just a loan, you understand, but a goodly money for us to hire help to solve the murder. Now, if you'll excuse me, I have to go to the stables. If you need anything, just call one of the maids. But no tricks, they are all my daughters and fine girls they are. </frame>
+					<p>Allan could join the PCs at this stage. </p>
+					<linklist>
+						<link class="npc" recordname="npc.id-00001">Allan </link>
+						<link class="encounter" recordname="encounter.id-00005">Allan introduces himself (conversation) </link>
+					</linklist>
+				</text>
+			</id-00016>
+			<id-00017>
+				<name type="string">The Lost Pipes Inn</name>
+				<text type="formattedtext">
+					<p>The Lost Pipes Inn is situated on the main square of the town, next to the bridge leading to the cathedral. </p>
+					<p>It can be assumed that the PCs end up here, it being the only place in town with a room for rent, and most of the townsfolk being a little paranoid thanks to the murders at the mines. </p>
+					<frame>'Lost Pipes', Dinor's only tavern, is a former locksmiths' guild-house. The common room of the Pipes is dimly lit by three large fireplaces, the columns interrupting the sizy space casting shadows giving privacy to the guests. The aged furnishings of the room are worn here and there but the general cleanliness makes it feel sophisticated rather than grubby. </frame>
+					<p>The first floor is devoted to the tavern and kitchens, whereas Peter Hammock's family lives in the second. In the third floor are guest rooms (plenty of those). Master Hammock thinks that living in the second floor himself gives his night-guests peace regardless of the behaviour of his customers in the common room. The fourth floor hasn't been used in Peter's lifetime. </p>
+					<p>The Pipes is a family business. Mr. and Mrs. Hammock and three of their daughters work at the Inn. In addition Rose's husband Ylfur is helping Peter in the stables. </p>
+					<frame>The proprietor, a tall and burly man constantly humming to himself stands at a table in one corner of the room, next to a doorway that leads to the kitchens, judging by the sounds. As you enter, he takes a couple of steps in your direction and opens his arms welcomingly. </frame>
+					<p>Mr. Hammock is a talkative fellow, and will start babbling about current events as soon as any PC approaches him </p>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00016">Peter's recite on current events </link>
+					</linklist>
+					<h>Linking areas </h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00003">The Cathedral </link>
+					</linklist>
+					<h>Maps </h>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00005">Map of the area surrounding Dinor </link>
+						<link class="imagewindow" recordname="image.id-00002">Map of Dinor </link>
+					</linklist>
+					<h>Encounters </h>
+					<p>Bar maids: Violet, Rose, Daisy </p>
+					<p>Stablehand: Ylfur </p>
+					<p>Townsflok </p>
+					<linklist>
+						<link class="npc" recordname="npc.id-00001">Allan </link>
+					</linklist>
+				</text>
+			</id-00017>
+			<id-00018>
+				<name type="string">1. Start here!</name>
+				<text type="formattedtext">
+					<h>Introduction </h>
+					<p>Before you start, it is recommended you read the Fantasy Grounds user manual, and familiarize yourself with the main interface. </p>
+					<p>The purpose of this campaign is to give you, as the Gamemaster, a glimpse at the various tools you have at your disposal for running games using Fantasy Grounds. </p>
+					<p>Reading these pages, you will see examples, and brief instructions on the most convenient methods to use in various typical situations. </p>
+					<h>How to use the material in this campaign </h>
+					<p>This book contains an introduction to an adventure in the town of Dinor. This is intended to work as a starting point, and is not a complete adventure. For downloadable content such as adventures, check out the Fantasy Grounds website at http://www.fantasygrounds.com. </p>
+					<p>The bulk of the material presented is here in the Story Book. You can create a hot key to any page you find here by dragging the icon in the top left corner of the sheet onto any of the 96 slots on the hot key bar. Use the links in the pages to navigate from a page to another, and to find items and maps related to the section at hand. </p>
+					<p>You can naturally make your own notes, items, events and NPCs and so on. The material presented in this adventure may be of help to you when you learn what you can do with Fantasy Grounds. </p>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00015">GM's notes </link>
+						<link class="encounter" recordname="encounter.id-00014">A short history of Dinor </link>
+					</linklist>
+					<h>Getting organized </h>
+					<p>If you wish, you can organize all the data on the list scrolls into categories. Access the radial menu on the small tabs at the bottom of the scroll to add and edit categories, and just drag the icon representing an entry on a tab to move it there. </p>
+				</text>
+			</id-00018>
+			<id-00019>
+				<name type="string">Journal</name>
+				<text type="formattedtext">
+					<p>A sturdy journal, bound in thick leather with pages of what once was fine paper is now mostly ruined by moisture. </p>
+					<p>Some of the tome is written in a foreign language you don't understand. Only the final page, written in skilled handwriting, is readable: </p>
+					<p>&#34;Today it ends. The high priest will be sacrificed. It is saddening that there is no other way to end this devastation. In one undertaking, however necessary, we'll lose the Cathedral, the High Priest, and the Bowl. Of course it is the right thing to do, but will the Bowl protect the world forever from the evil of the Cube of Raughnar? I doubt it. However well we might guard the Cathedral, someday the watch may be forgotten. Tulan bless us, at least soon the horrors cannot pass the borders of this holy place.&#34; </p>
+				</text>
+			</id-00019>
+			<id-00020>
+				<name type="string">Deep In the Mines - Encounters</name>
+				<text type="formattedtext">
+					<h>Underground river </h>
+					<frame>The flow of the river through the darkness of the mountain roots slows down as you suddenly enter a large cavern. In the farther end of the hall the bottom of the lake climbs gently, but the shore shows clear signs that the water is not always this low. In the middle of the lake is a vigorous whirlpool, but there is still plenty of time to catch one of the rust-eaten chains attached to a stone wharf on the left before its pull gets too strong. </frame>
+					<p>The water level of the pool varies significantly during the year, but now the water is low and the river flowing from underneath the Cathedral is usable by small boats. When the water is high, the tunnels near the lake fill up and even rise up the stairs, the overflow vent described below, made for the purpose. </p>
+					<p>The goblins in the mines use the pool as a source of water, but are afraid of the spider (see below) and it is unlikely any are in the area at any given time. </p>
+					<h>Spider's nest </h>
+					<frame>The foul smell of decay increasingly stings your nostrils as you advance into the dark water-carved tunnel. The floor feels slippery and the walls seem somehow hairy. </frame>
+					<frame>Beyond a slight narrowing the tunnel preads into larger cave. Rotten carcases line the walls and thick webs are all over the cavern. At first glance, however, the cave seems otherwise empty. </frame>
+					<p>There is a spider lurking above the doorway in the ceiling. It will surprise the PCs if not spotted (Hide bonus +7). </p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00003">Monstrous Spider </link>
+					</linklist>
+					<h>A heavy doorway </h>
+					<p>Give this description to the players as the PCs approach the first door from the direction of the river and the spider lair. </p>
+					<frame>The corridor forks to the right, before ending in a heavy stone door. The door overlaps its frame on all sides. Judging by the fine construction, it is quite likely this door has been built to withstand flooding from this side. You see no visible lock or bar, but a heavy iron pull ring is attached to the center. </frame>
+					<p>The door is not locked, but it has not been opened for a long time. Pulling it open requires a DC 24 strength check, and three people can work on it at a time. If the door is opened, the grating sound will alert the goblins in the cavern behind it (see below). </p>
+					<h>The flood vent area </h>
+					<p>The people of Dinor once worked with gnomes and dwarves in the mountains. The dwarven workers carved caverns in the mines to live in. The room with the stairs upward and the adjacent larger hall are evidence of this time. </p>
+					<frame>You see a rectangular room carved into the stone of the mountains. The ceiling rises above that of the rest of the mining shafts, to a height of about fifteen feet. Here and there, along the walls, can a decorative carving be seen, faded by the years. From the mud at the base of the walls, you can tell the underground river has probably flooded this area a number of times in the years. </frame>
+					<frame>In one corner of the room, a very narrow metal staircase spirals upwards, into an opening in the roof. Next to the stairway, sit three goblins, quietly talking. </frame>
+					<p>The flood overflow vent, actually a staircase carved into the mountain, climbs all the way to the surface of the mountains in an inhospitable valley. Because of the seasonal overflowing of water, the valley is swampy. It was, in fact, a misjudgement in the engineering of the tower together with overly greedy mining that caused many parts of the mine to collapse. </p>
+					<p>Three goblins guard the room of the tower. If the PCs advance carefully they may hear bits of conversation, for instance. </p>
+					<frame><frameid>Goblin </frameid>... still four nites before the enforcements arrive. Those builder idiots think they can defend the yard with the burrow-beasts but they aren't under control. I say, we go and take 'em back by force and give 'em a lesson on disobeying schedules, no? You, go wake up the captain... </frame>
+					<p>If the PCs are not as careful, they'll tumble into the three goblins. If a fight breaks out, a goblin sergeant appears from the other door after three rounds. </p>
+					<h>The dwarven hall </h>
+					<p>The larger room next to the one described above is a larger room, once used as the main living area of the dwarves. </p>
+					<frame>You enter the hall through a heavy stone door left open, similar to the one you saw earlier blocking the corridor. Behind the door is a large room housing some hastily stacked mining tools and some sacks next to what appears to be rabbits and other food scavenged by the goblins. </frame>
+					<p>This room houses the leader of the goblin bunch, and his sergeant. There are also other goblins here from time to time, usually one to three. </p>
+					<frame>As you step in, two goblins turn their heads from a crate they were inspecting. One draws his spear, as the other starts shouting something in what must be the goblin language. </frame>
+					<p>The leader, a level 3 adept, will attempt to call in reinforcements from the cavern area (see below). The sergeant is determined to hold back the PCs with whatever other goblins are in the room until the reinforcements arrive. </p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00004">Goblin encounter </link>
+					</linklist>
+					<h>The excavation cavern </h>
+					<p>In the large cavern behind the flood gates, a group of goblins are trying to clear the rubble blocking the way into the rest of the mines connecting the area to the entrance near the town. </p>
+					<frame>The passage opens into a larger hollowed out cavern, apparently used as a center of mining operations during the times these parts of the mines were active. In the other end of the room, working on a passage leading further, you see a group of five goblins working on clearing the rubble blocking the way there. Three of them are spread out holding iron chains attached to the neck of a large insect creature. As the three guide it by the chains, the two remaining goblins are herding it in the direction of the rubble with two long poles. </frame>
+					<p>The goblins have captured a young burrowing bug and are trying to use it to burrow through the rubble. They have managed to clear a space wide enough for a medium size creature to pass though in the wider corridor, leading to the upper sections of the mines. </p>
+					<p>Should the burrowing bug get free, it will, unless attacked, fight the goblins next to it, and flee in the direction of the cleared out corridor. Handling the burrowing bug provokes a lot of noise out of the goblins, and a fight here will not alert the leader and sergeant in the hall, described above, unless some obvious sounds of intruders, such as explosions, are heard. </p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00005">Goblin encounter 2 </link>
+					</linklist>
+				</text>
+			</id-00020>
+		</category>
+	</encounter>
+	<image>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+			<id-00001>
+				<image type="image">
+					<bitmap>images/cathedral_1stfloor.jpg</bitmap>
+				</image>
+				<name type="string">Cathedral Ground Floor</name>
+			</id-00001>
+			<id-00002>
+				<image type="image">
+					<bitmap>images/citymap.jpg</bitmap>
+				</image>
+				<name type="string">The Town of Dinor</name>
+			</id-00002>
+			<id-00003>
+				<image type="image">
+					<bitmap>images/cathedral_2ndfloor.jpg</bitmap>
+				</image>
+				<name type="string">Cathedral Top Floor</name>
+			</id-00003>
+			<id-00004>
+				<image type="image">
+					<bitmap>images/Cube_of_Raughnar.jpg</bitmap>
+				</image>
+				<name type="string">The Cube of Raughnar</name>
+				<toolbars type="number">0</toolbars>
+			</id-00004>
+			<id-00005>
+				<image type="image">
+					<bitmap>images/campaignmap.jpg</bitmap>
+				</image>
+				<name type="string">A Map of the Area</name>
+			</id-00005>
+			<id-00006>
+				<image type="image">
+					<bitmap>images/cathedral_basement.jpg</bitmap>
+				</image>
+				<name type="string">Cathedral Basement</name>
+				<toolbars type="number">0</toolbars>
+			</id-00006>
+			<id-00007>
+				<image type="image">
+					<bitmap>images/mines_big.jpg</bitmap>
+				</image>
+				<name type="string">Upper Mines</name>
+			</id-00007>
+			<id-00008>
+				<image type="image">
+					<bitmap>images/mines_deep.jpg</bitmap>
+					<mask>maskedimages/1311802685.png</mask>
+					<gridsize>17</gridsize>
+					<gridoffset>11,0</gridoffset>
+				</image>
+				<name type="string">The Deep Mines</name>
+			</id-00008>
+		</category>
+	</image>
+	<item>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+			<id-00002>
+				<bonus type="number">0</bonus>
+				<class type="string">Artifact</class>
+				<isidentified type="number">1</isidentified>
+				<level type="number">16</level>
+				<mitype type="string">other</mitype>
+				<name type="string">Bowl of Tulan</name>
+				<powers>
+					<id-00001>
+						<action type="string">Standard</action>
+						<keywords type="string">-</keywords>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>item.id-00002.powers.id-00001</recordname>
+						</link>
+						<name type="string">Power - At-Will</name>
+						<range type="string">Personal</range>
+						<recharge type="string">At-Will</recharge>
+						<shortdescription type="string">Effect: The bowl can be used to channel Tulan's powers. Until the end of the encounter, it grants a +1 attack bonus and a +4 damage bonus when aiding her worshippers.</shortdescription>
+						<source type="string">Item</source>
+					</id-00001>
+					<id-00002>
+						<action type="string">Standard</action>
+						<keywords type="string">-</keywords>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>item.id-00002.powers.id-00002</recordname>
+						</link>
+						<name type="string">Power - Daily</name>
+						<range type="string">Personal</range>
+						<recharge type="string">Daily</recharge>
+						<shortdescription type="string">Trigger: A sacrifice is made upon the bowl; Effect: A magical barrier is created in a single room that an outsider of a level below the level of the sacrifice cannot pass. The barrier can have a radius equal to the level of the sacrifice times 10 feet, or smaller. The sacrificed creature must be willing and of approximately same alignment as Tulan (any good). Special: A low tingling noise emanating from the barrier notifies the active area of the shield.</shortdescription>
+						<source type="string">Item</source>
+					</id-00002>
+				</powers>
+				<profbonus type="number">0</profbonus>
+				<props>
+					<id-00001>
+						<link type="windowreference">
+							<class>reference_magicitem_property</class>
+							<recordname>item.id-00002.props.id-00001</recordname>
+						</link>
+						<shortdescription type="string">The Bowl is a potent artifact, a tool of magical rituals. When inactive, the bowl appears to be of clear crystal with drifting misty clouds inside. Its appearance changes when used. Currently the Bowl seems to be made of dull red marble, this is because of a blood sacrifice.</shortdescription>
+					</id-00001>
+					<id-00002>
+						<link type="windowreference">
+							<class>reference_magicitem_property</class>
+							<recordname>item.id-00002.props.id-00002</recordname>
+						</link>
+						<shortdescription type="string">A high priest of Tulan was sacrificed upon the bowl. The power of this sacrifice is potent enough to keep the Balor currently entrapped in the Cube of Raughnor at bay.If the bowl is removed from the room, the barrier ceases to exist.</shortdescription>
+					</id-00002>
+				</props>
+				<quirks>
+				</quirks>
+				<range type="number">0</range>
+				<weight type="number">200</weight>
+			</id-00002>
+		</category>
+	</item>
+	<npc>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+			<id-00001>
+				<ac type="number">19</ac>
+				<alignment type="string">Unaligned</alignment>
+				<charisma type="number">11</charisma>
+				<constitution type="number">10</constitution>
+				<dexterity type="number">20</dexterity>
+				<equipment type="string">Shortbow +2, Studded leather +2, 3x Potion of healing, Shortsword</equipment>
+				<fortitude type="number">15</fortitude>
+				<hp type="string">32; Bloodied 16</hp>
+				<init type="number">6</init>
+				<intelligence type="number">10</intelligence>
+				<languages type="string">Common</languages>
+				<levelrole type="string">Level 3 Skirmisher</levelrole>
+				<name type="string">Allan</name>
+				<powers>
+					<id-00001>
+						<action type="string">Standard</action>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00001.powers.id-00001</recordname>
+						</link>
+						<name type="string">Melee Basic Attack</name>
+						<powertype type="string">m</powertype>
+						<recharge type="string">At-will</recharge>
+						<shortdescription type="string">+12 vs. AC; 1d6 + 9 damage</shortdescription>
+					</id-00001>
+					<id-00002>
+						<action type="string">Standard</action>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00001.powers.id-00002</recordname>
+						</link>
+						<name type="string">Ranged Basic Attack</name>
+						<powertype type="string">r</powertype>
+						<range type="string">Ranged 20</range>
+						<recharge type="string">At-will</recharge>
+						<shortdescription type="string">+11 vs. Fortitude; 1d8 + 9 damage.</shortdescription>
+					</id-00002>
+					<id-00003>
+						<action type="string">Move</action>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00001.powers.id-00003</recordname>
+						</link>
+						<name type="string">Tactical Shift</name>
+						<range type="string">Personal</range>
+						<recharge type="string">At-Will</recharge>
+						<shortdescription type="string">Move up to your speed, and you do not provoke opportunity attacks when leaving squares adjacent to your allies. Until the end of your turn, you have combat advantage against enemies that have at least one of your allies adjacent to them.</shortdescription>
+					</id-00003>
+					<id-00004>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00007.powers.id-00004</recordname>
+						</link>
+						<name type="string">Sneak Attack</name>
+						<shortdescription type="string">Once per turn, deal an extra 2d6 damage against any target you have combat advantage against.</shortdescription>
+					</id-00004>
+				</powers>
+				<reflex type="number">20</reflex>
+				<senses type="string">Perception +5</senses>
+				<skills type="string">Athletics +8, Dungeoneering +5, Insight +5, Intimidate +6, Perception +5, Stealth +11, Streetwise +6, Thievery +11</skills>
+				<strength type="number">14</strength>
+				<text type="formattedtext">
+					<p>Allan prides himself for being an analyst and having the discipline to pull through the lifestyle required to take advantage of his wits. </p>
+					<p>He always travels alone or in a convoy of strangers; a lonely man leaves less tracks for those who can read them. If he needs a party to accomplish a mission, he employs adventurers, suspicious lot who often are strangers themselves but who are known locally so as not to be related to him. </p>
+					<p>Another precaution is to never lie, at least in matters that a law-abiding person would not. Spells are not uncommon and he has accumulated a good deal of knowledge on them so he is not easily distracted by them. However, his boyishly amicable appearance makes him an easy acquaintance. </p>
+				</text>
+				<token type="token"></token>
+				<will type="number">13</will>
+				<wisdom type="number">8</wisdom>
+				<xp type="number">150</xp>
+			</id-00001>
+			<id-00002>
+				<ac type="number">10</ac>
+				<charisma type="number">10</charisma>
+				<constitution type="number">10</constitution>
+				<dexterity type="number">10</dexterity>
+				<fortitude type="number">10</fortitude>
+				<init type="number">0</init>
+				<intelligence type="number">10</intelligence>
+				<name type="string">Peter Hammock</name>
+				<reflex type="number">10</reflex>
+				<strength type="number">10</strength>
+				<text type="formattedtext">
+					<p>The inn-keeper of 'Lost Pipes'. He is married to Lily (Hammock), and they have four daughters: Violet, Rose, Pansy and Daisy. </p>
+					<p>Lives in the second floor of the inn building; that way, he says, the guests will not be troubled by the customers of the tavern in the ground floor (the guest lodging is in the third floor). </p>
+					<p>Peter is a man nice to those who cause no trouble, but is willing to use his cudgel to the less mannerly guests. His father was a miner who died when a tunnel collapsed. </p>
+				</text>
+				<token type="token"></token>
+				<will type="number">10</will>
+				<wisdom type="number">10</wisdom>
+				<xp type="number">0</xp>
+			</id-00002>
+			<id-00003>
+				<ac type="number">17</ac>
+				<alignment type="string">Evil</alignment>
+				<charisma type="number">18</charisma>
+				<constitution type="number">14</constitution>
+				<dexterity type="number">15</dexterity>
+				<equipment type="string">leather armor, club</equipment>
+				<fortitude type="number">14</fortitude>
+				<hp type="string">46; Bloodied 23</hp>
+				<init type="number">3</init>
+				<intelligence type="number">9</intelligence>
+				<languages type="string">Common, Goblin</languages>
+				<levelrole type="string">Level 3 Controller (Leader)</levelrole>
+				<name type="string">Goblin Leader</name>
+				<powers>
+					<id-00001>
+						<action type="string">Standard</action>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00003.powers.id-00001</recordname>
+						</link>
+						<name type="string">Discipline Stick</name>
+						<powertype type="string">m</powertype>
+						<recharge type="string">At-will</recharge>
+						<shortdescription type="string">+7 vs. AC; 1d6 + 1 damage</shortdescription>
+					</id-00001>
+					<id-00002>
+						<action type="string">Standard</action>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00003.powers.id-00002</recordname>
+						</link>
+						<name type="string">Dirt in the Eyes</name>
+						<powertype type="string">r</powertype>
+						<range type="string">Ranged 5</range>
+						<recharge type="string">At-will</recharge>
+						<shortdescription type="string">+7 vs. Fortitude; 1d6 + 1 damage, and the target is blinded (save ends).</shortdescription>
+					</id-00002>
+					<id-00003>
+						<action type="string">Standard</action>
+						<keywords type="string">Zone</keywords>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00003.powers.id-00003</recordname>
+						</link>
+						<name type="string">Smoke Grenade</name>
+						<powertype type="string">a</powertype>
+						<range type="string">Area burst 3 within 10</range>
+						<recharge type="string">Encounter</recharge>
+						<shortdescription type="string">Automatic hit; Until the end of the encounter, all creatures within zone take a -2 penalty to attack rolls, and have concealment.</shortdescription>
+					</id-00003>
+					<id-00004>
+						<action type="string">Imm Interrupt</action>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00003.powers.id-00004</recordname>
+						</link>
+						<name type="string">Leader's Choice</name>
+						<recharge type="string">At-Will</recharge>
+						<shortdescription type="string">Trigger: When targeted by a ranged attack; Effect: The goblin leader can change the attack's target to an adjacent ally of its level or lower.</shortdescription>
+					</id-00004>
+				</powers>
+				<reflex type="number">15</reflex>
+				<senses type="string">Perception +2, low-light vision</senses>
+				<skills type="string">Stealth +10, Thievery +10</skills>
+				<speed type="string">6</speed>
+				<strength type="number">10</strength>
+				<text type="formattedtext">
+					<p> </p>
+				</text>
+				<token type="token">tokens/Medium/l.png@Letter Tokens</token>
+				<type type="string">Small natural humanoid</type>
+				<will type="number">16</will>
+				<wisdom type="number">13</wisdom>
+				<xp type="number">150</xp>
+			</id-00003>
+			<id-00004>
+				<ac type="number">10</ac>
+				<charisma type="number">10</charisma>
+				<constitution type="number">10</constitution>
+				<dexterity type="number">10</dexterity>
+				<flavor type="string">A head-sized cubical artifact having engraved faces on each side.</flavor>
+				<fortitude type="number">10</fortitude>
+				<init type="number">19</init>
+				<intelligence type="number">10</intelligence>
+				<levelrole type="string">Level 27 Controller</levelrole>
+				<name type="string">Cube of Raughnar</name>
+				<npctype type="string">Trap</npctype>
+				<powers>
+					<id-00001>
+						<action type="string">Standard Action</action>
+						<name type="string">Attack</name>
+						<powertype type="string">r</powertype>
+						<range type="string">Ranged 20</range>
+						<recharge type="string">At-Will</recharge>
+						<shortdescription type="string">Targets: One creature\rAttack: +27 vs. Will\rEffect: The strongest of the imprisoned creatures comes out of the Cube in two full rounds. The creatures held in the cube are aware of its function, and any evil creature summoned will most likely fight anyone in the area.\rSpecial: The cube can only use this attack against each creature once per day. If the summoned creature cannot slay any living being during the next 20 rounds, before being forcefully drawn back in, the cube is inactive for the day. Each living being killed by the creature gives it an hour outside the Cube.</shortdescription>
+					</id-00001>
+				</powers>
+				<reflex type="number">10</reflex>
+				<strength type="number">10</strength>
+				<text type="formattedtext">
+					<h>Appearance </h>
+					<p>A head-sized cubical artifact made of bronze having engraved faces on each side. The bronze item weighs 50 lbs. </p>
+					<h>Powers </h>
+					<p>Once a day the Cube can be used to gain iinformation or special powers. </p>
+					<h>Operation </h>
+					<p>The cube uses its attack against each creature viewing the cube, but only once per day. </p>
+					<p>If a creature resists the Cube's attack, they can press her face onto the cube and gain the appearance and (gradually) the abilities of the creature whose face they selected. The transformation granting full physical abilities takes one full round and the other abilities appear in one day. Each day after the transformation, however, the person must make a will save or be partly assimilated by the creature, roll d100 for the percentage of assimilation (also the mental traits are transferred). After the percentage reaches 100, the person is tranformed into the creature and her own spirit enters the cube. </p>
+					<p>When a person gets a form from the cube, her own face is engraved on it and can be treated as any other face. In a way, the Cube grants the imprisoned immortality, but at a great cost. </p>
+					<h>Current Occupants of the Cube </h>
+					<list>
+						<li>Balor (the strongest) </li>
+						<li>An elf male </li>
+						<li>Two human females </li>
+						<li>A human male </li>
+						<li>Young adult white dragon </li>
+					</list>
+					<p> </p>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00004">Picture of the Cube </link>
+					</linklist>
+					<p> </p>
+				</text>
+				<token type="token"></token>
+				<trapdesc type="string">A bronze cube glimmers meancingly in the distance.</trapdesc>
+				<type type="string">Hazard</type>
+				<will type="number">10</will>
+				<wisdom type="number">10</wisdom>
+				<xp type="number">11000</xp>
+			</id-00004>
+			<id-00005>
+				<ac type="number">13</ac>
+				<alignment type="string">Unaligned</alignment>
+				<charisma type="number">3</charisma>
+				<constitution type="number">10</constitution>
+				<dexterity type="number">6</dexterity>
+				<fortitude type="number">13</fortitude>
+				<hp type="string">40; Bloodied 20</hp>
+				<init type="number">-1</init>
+				<intelligence type="number">1</intelligence>
+				<levelrole type="string">Level 2 Brute</levelrole>
+				<name type="string">Walking Dead</name>
+				<powers>
+					<id-00001>
+						<action type="string">Standard</action>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00005.powers.id-00001</recordname>
+						</link>
+						<name type="string">Slam</name>
+						<powertype type="string">m</powertype>
+						<recharge type="string">At-will</recharge>
+						<shortdescription type="string">+6 vs. AC; 2d6 + 2 damage</shortdescription>
+					</id-00001>
+				</powers>
+				<reflex type="number">9</reflex>
+				<senses type="string">Perception +0, darkvision</senses>
+				<specialdefenses type="string">Immune disease, poison; Resist 10 necrotic; Vulnerable 5 radiant</specialdefenses>
+				<speed type="string">4</speed>
+				<strength type="number">14</strength>
+				<text type="formattedtext">
+					<p> </p>
+				</text>
+				<token type="token">tokens/Medium/z.png@Letter Tokens</token>
+				<type type="string">Medium natural animate (undead)</type>
+				<will type="number">10</will>
+				<wisdom type="number">8</wisdom>
+				<xp type="number">125</xp>
+			</id-00005>
+			<id-00006>
+				<ac type="number">16</ac>
+				<alignment type="string">Unaligned</alignment>
+				<charisma type="number">8</charisma>
+				<constitution type="number">13</constitution>
+				<dexterity type="number">16</dexterity>
+				<fortitude type="number">13</fortitude>
+				<hp type="string">30; Bloodied 15</hp>
+				<init type="number">4</init>
+				<intelligence type="number">1</intelligence>
+				<levelrole type="string">Level 2 Skirmisher</levelrole>
+				<name type="string">Monstrous Spider</name>
+				<powers>
+					<id-00001>
+						<action type="string">Standard</action>
+						<keywords type="string">Poison</keywords>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00006.powers.id-00001</recordname>
+						</link>
+						<name type="string">Bite</name>
+						<powertype type="string">m</powertype>
+						<recharge type="string">At-will</recharge>
+						<shortdescription type="string">+4 vs. AC; 1d6 + 2 damage, and the target takes ongoing 5 poison damage (save ends).</shortdescription>
+					</id-00001>
+					<id-00002>
+						<action type="string">Minor</action>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00006.powers.id-00002</recordname>
+						</link>
+						<name type="string">Scuttle Away</name>
+						<recharge type="string">At-will</recharge>
+						<shortdescription type="string">Effect: The spider shifts 1 square.</shortdescription>
+					</id-00002>
+				</powers>
+				<reflex type="number">14</reflex>
+				<senses type="string">Perception +5, tremorsense</senses>
+				<skills type="string">Athletics +6, Stealth +7</skills>
+				<specialdefenses type="string">Resist 5 poison</specialdefenses>
+				<speed type="string">6, climb 6</speed>
+				<strength type="number">15</strength>
+				<text type="formattedtext">
+					<p> </p>
+				</text>
+				<token type="token">tokens/Medium/s.png@Letter Tokens</token>
+				<type type="string">Medium natural beast (spider)</type>
+				<will type="number">12</will>
+				<wisdom type="number">12</wisdom>
+				<xp type="number">125</xp>
+			</id-00006>
+			<id-00007>
+				<ac type="number">16</ac>
+				<alignment type="string">Evil</alignment>
+				<charisma type="number">8</charisma>
+				<constitution type="number">13</constitution>
+				<dexterity type="number">17</dexterity>
+				<equipment type="string">leather armor, short sword</equipment>
+				<fortitude type="number">12</fortitude>
+				<hp type="string">25; Bloodied 12</hp>
+				<init type="number">7</init>
+				<intelligence type="number">8</intelligence>
+				<languages type="string">Common, Goblin</languages>
+				<levelrole type="string">Level 1 Lurker</levelrole>
+				<name type="string">Goblin</name>
+				<powers>
+					<id-00001>
+						<action type="string">Standard</action>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00007.powers.id-00001</recordname>
+						</link>
+						<name type="string">Short Sword</name>
+						<powertype type="string">m</powertype>
+						<recharge type="string">At-will</recharge>
+						<shortdescription type="string">+5 vs. AC; 1d6 + 2 damage</shortdescription>
+					</id-00001>
+					<id-00002>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00007.powers.id-00002</recordname>
+						</link>
+						<name type="string">Combat Advantage</name>
+						<shortdescription type="string">The goblin deals an extra 1d6 damage against any target it has combat advantage against.</shortdescription>
+					</id-00002>
+				</powers>
+				<reflex type="number">14</reflex>
+				<senses type="string">Perception +1, low-light vision</senses>
+				<skills type="string">Stealth +10, Thievery +10</skills>
+				<speed type="string">6</speed>
+				<strength type="number">14</strength>
+				<text type="formattedtext">
+					<p> </p>
+				</text>
+				<token type="token">tokens/Medium/g.png@Letter Tokens</token>
+				<type type="string">Small natural humanoid</type>
+				<will type="number">11</will>
+				<wisdom type="number">12</wisdom>
+				<xp type="number">100</xp>
+			</id-00007>
+			<id-00008>
+				<ac type="number">15</ac>
+				<alignment type="string">Unaligned</alignment>
+				<charisma type="number">4</charisma>
+				<constitution type="number">16</constitution>
+				<dexterity type="number">18</dexterity>
+				<fortitude type="number">12</fortitude>
+				<hp type="string">40; Bloodied 20</hp>
+				<init type="number">7</init>
+				<intelligence type="number">2</intelligence>
+				<levelrole type="string">Level 3 Lurker</levelrole>
+				<name type="string">Burrowing Bug</name>
+				<powers>
+					<id-00001>
+						<action type="string">Standard</action>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00008.powers.id-00001</recordname>
+						</link>
+						<name type="string">Claw</name>
+						<powertype type="string">m</powertype>
+						<recharge type="string">At-will</recharge>
+						<shortdescription type="string">+6 vs. AC; 1d6 + 3 damage</shortdescription>
+					</id-00001>
+					<id-00002>
+						<action type="string">Standard</action>
+						<keywords type="string">Acid</keywords>
+						<link type="windowreference">
+							<class>reference_power_custom</class>
+							<recordname>npc.id-00008.powers.id-00002</recordname>
+						</link>
+						<name type="string">Acid Spray</name>
+						<powertype type="string">c</powertype>
+						<range type="string">Close blast 3</range>
+						<recharge type="string">Encounter</recharge>
+						<shortdescription type="string">+6 vs. Reflex; 1d6 + 3 acid damage, and the target is slowed and takes ongoing 5 acid damage (save ends both).</shortdescription>
+					</id-00002>
+				</powers>
+				<reflex type="number">14</reflex>
+				<senses type="string">Perception +7, tremorsense 5</senses>
+				<skills type="string">Stealth +8</skills>
+				<speed type="string">8, burrow 4</speed>
+				<strength type="number">15</strength>
+				<text type="formattedtext">
+					<p> </p>
+				</text>
+				<token type="token">tokens/Medium/a.png@Letter Tokens</token>
+				<type type="string">Medium natural beast</type>
+				<will type="number">12</will>
+				<wisdom type="number">16</wisdom>
+				<xp type="number">150</xp>
+			</id-00008>
+		</category>
+	</npc>
+	<options>
+	</options>
+</root>

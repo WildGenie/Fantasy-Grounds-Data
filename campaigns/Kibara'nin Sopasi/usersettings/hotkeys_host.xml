@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<hotkeys version="3.1">
+	<bank number="0">
+		<key number="3">
+			<description>Bandits</description>
+			<icon>button_link</icon>
+			<dbref>battle.id-00016</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>battle</class>
+						<datasource>battle.id-00016</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="7">
+			<description>Hunger of Hadar</description>
+			<icon>button_link</icon>
+			<dbref>charsheet.id-00004.powers.id-00019</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>power</class>
+						<datasource>charsheet.id-00004.powers.id-00019</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="8">
+			<description>Flaming Sphere</description>
+			<icon>button_link</icon>
+			<dbref>charsheet.id-00003.powers.id-00013</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>power</class>
+						<datasource>charsheet.id-00003.powers.id-00013</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="9">
+			<description>NeronvainsStrongholdPlayer</description>
+			<icon>button_link</icon>
+			<dbref>image.img_neronvainsstrongholdplayer_jpg@DD The Rise of Tiamat</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>imagewindow</class>
+						<datasource>image.img_neronvainsstrongholdplayer_jpg@DD The Rise of Tiamat</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="10">
+			<description>Guard</description>
+			<icon>button_link</icon>
+			<dbref>reference.npcdata.guard@DD MM Monster Manual</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>npc</class>
+						<datasource>reference.npcdata.guard@DD MM Monster Manual</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="11">
+			<description>NPCs - Challenge Rating Index</description>
+			<icon>button_link</icon>
+			<dbref>reference.npclists.bylevel@DD MM Monster Manual</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>reference_colindex</class>
+						<datasource>reference.npclists.bylevel@DD MM Monster Manual</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+	</bank>
+	<bank number="1">
+	</bank>
+	<bank number="2">
+	</bank>
+	<bank number="3">
+	</bank>
+	<bank number="4">
+	</bank>
+	<bank number="5">
+	</bank>
+	<bank number="6">
+	</bank>
+	<bank number="7">
+	</bank>
+</hotkeys>

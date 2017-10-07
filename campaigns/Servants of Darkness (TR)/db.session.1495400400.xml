@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.2" release="7|CoreRPG:3">
+	<calendar>
+		<public />
+	</calendar>
+	<combattracker>
+		<public />
+	</combattracker>
+	<effects>
+		<public />
+	</effects>
+	<encounter>
+		<category name="Giri&#254;" baseicon="0" decalicon="0">
+			<id-00001>
+				<locked type="number">1</locked>
+				<name type="string">Zindan Y&#246;neticisi i&#231;in notlar</name>
+				<text type="formattedtext">
+					<p>Servants of Darkness (Karanl&#253;&#240;&#253;n Hizmetkarlar&#253;) Tepest diyar&#253;nda ba&#254;layan, Keening civar&#253;nda sonu&#231;lanan ve iki diyar&#253;n da en bozulmu&#254; ki&#254;ilerinden birka&#231;&#253;n&#253; i&#254;in i&#231;ine katan bir macerad&#253;r. Bu olaylar Grand Conjunction (B&#252;y&#252;k Birle&#254;me) olay&#253;ndan 10 y&#253;l sonras&#253;nda ge&#231;mekledir, Ravenloft zaman &#231;izgisine g&#246;re y&#253;l 751. Bu macera 4&#252;nc&#252; seviyeden 6nc&#253; seviyeye kadar d&#246;rt ile alt&#253; karakter i&#231;in tasarlanm&#253;&#254;t&#253;r.</p>
+					<p>Maceran&#253;n ilk b&#246;l&#252;m&#252;nde kahramanlar, Viktal k&#246;y&#252;nden s&#246;zde su&#231;suz bir kad&#253;nla k&#246;t&#252; b&#252;y&#252; yapmakla su&#231;lanan bir kad&#253;n&#253;n masumiyetini kan&#253;tlamaya &#231;al&#253;&#254;&#253;rlar. Oyuncu karakterler ipu&#231;lar&#253; aramak i&#231;in Tepest'in alan&#253;n&#253; dola&#254;arak sonunda o alan&#253;n kara lordlar&#253;yla y&#252;zle&#254;melidir.</p>
+					<p>Maceran&#253;n ikinci k&#253;sm&#253;, karakterleri Arak'l&#253; (&#246;nceki g&#246;lge elf alan&#253;) Loht'un pe&#254;ine g&#246;nderiyor. Bu k&#246;t&#252;l&#252;k edenin izinden kahramanlar&#253; Keening'in alan&#253;na gider ve oray&#253; y&#246;neten &#246;l&#252;m perisi (banshee) Tristessa ile kar&#254;&#253;la&#254;&#253;rlar.</p>
+					<p>Zindan Y&#246;neticisi oyuna ba&#254;lamadan &#246;nce b&#252;t&#252;n maceray&#253; okumal&#253;. Kahramanlar&#253;n bu maceray&#253; ba&#254;ar&#253;yla tamamlamalar&#253; i&#231;in gereken ipu&#231;lar&#253;n&#253;n ve ipu&#231;lar&#253;n&#253;n bir&#231;o&#240;unu sadece Tepest'in insanlar&#253; ve yarat&#253;klar&#253;yla yap&#253;lan zekice soru&#254;turma ve rol yapma kar&#254;&#253;la&#254;malar&#253; ile elde edilebilirler. Zindan Y&#246;neticisinin, Keder Diyarlar&#253;n&#253;n'da (Domains of Dread) sunulan Tepest ve Keening hakk&#253;nda bilgi sahibi olmas&#253; &#246;nerilir. RAVENLOFT MONSTROUS COMPENIDUM Ek (Appendix) III de yararl&#253;d&#253;r &#231;&#252;nk&#252; bu ser&#252;vende sunulan iki &#246;nemli canl&#253;n&#253;n detayl&#253; a&#231;&#253;klamalar&#253;n&#253; i&#231;ermektedir: boowray ve recluse.</p>
+					<h>Korku ve Deh&#254;et Kontrol&#252;</h>
+					<p>Macera esnas&#253;ndaki noktalarda, baz&#253; sahnelerde korku ya deh&#254;et kontrol&#252; gerekebilir. Bu oyun mekani&#240;i, korkun&#231; durumlara do&#240;rudan tepki olarak kahramanlar&#253;n belirli bir tepkisini te&#254;vik etmek i&#231;in kullan&#253;l&#253;r.</p>
+					<p>Dungeon Y&#246;neticisinin takdirine ba&#240;l&#253; olarak, bu korku ve korku kontrolleri iste&#240;e ba&#240;l&#253; olarak de&#240;erlendirilebilir. Oyuncular korkun&#231; sahneyi onlardan &#246;nce yeterince iyi rol yap&#253;yorsa, Dungeon Master kontrollere olan ihtiyac&#253; atlayabilir. De&#240;ilse, kontroller uygulanmal&#253;d&#253;r. Bu &#231;eklerin karakterler &#252;zerindeki yo&#240;un etkileri, &#231;o&#240;u oyuncuyu uygun yan&#253;t&#253; yeterince yak&#253;nda rol&#252; oynamaya te&#254;vik etmelidir.</p>
+					<h>K&#252;&#231;&#252;c&#252;k bir ge&#231;mi&#254;</h>
+					<p>Tepest diyar&#253; ke&#231;i veya koyun yeti&#254;tiren, k&#252;&#231;&#252;k &#231;iftler ekip bi&#231;en, beyaz boyal&#253; evlerde ya&#254;ayan basit insanlar&#253;n bulundu&#240;u bir diyard&#253;r. Bunlar son derece bat&#253;l inan&#231;lara sahip ve topraklar&#253;na &#34;gizli halk&#34;, kendi deyimleriyle &#34;fey&#34; musallat oldu&#240;unu d&#252;&#254;&#252;n&#252;yorlar. Bur bir kahramanlar&#253;m&#253;z&#253;n da i&#231;ine kar&#253;&#254;t&#253;&#240;&#253; feye kar&#254;&#253; bir cad&#253; av&#253;d&#253;r.</p>
+					<p></p>
+				</text>
+			</id-00001>
+		</category>
+	</encounter>
+	<image>
+	</image>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Aquan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<name type="string">Common</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Terran</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Ignan</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Auran</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00016>
+		<id-00017>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00017>
+		<id-00018>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00018>
+		<id-00019>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00019>
+		<id-00020>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00020>
+	</languages>
+	<modifiers>
+		<public />
+	</modifiers>
+	<options>
+		<public />
+		<DDCL type="string">desktopdecal_sw</DDCL>
+		<PCHT type="string">on</PCHT>
+		<SHRR type="string">pc</SHRR>
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+</root>

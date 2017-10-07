@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.1">
+	<window data="" class="library" pos="580,89,1280,639" />
+	<window data="" class="lightingselection" pos="701,193,866,653" />
+	<window data="" class="moduleselection" pos="554,87,1254,617" />
+	<window data="" class="portraitselection" pos="515,263,975,563" />
+	<window data="" class="select_dialog" pos="570,213,920,613" />
+	<window data="" class="tokenbag" pos="255,253,655,653" />
+	<window data="battle" class="battlelist" pos="1074,384,1374,784" />
+	<window data="battle.id-00001" class="battle" pos="1058,210,1408,610" />
+	<window data="battle.id-00002" class="battle" pos="570,213,920,613" />
+	<window data="battle.id-00003" class="battle" pos="1004,202,1354,602" />
+	<window data="battle.id-00004" class="battle" pos="1067,431,1417,831" />
+	<window data="battle.id-00005" class="battle" pos="1109,223,1459,623" />
+	<window data="battle.id-00006" class="battle" pos="73,164,423,564" />
+	<window data="calendar" class="calendar" pos="470,163,1020,663" />
+	<window data="charsheet.id-00001" class="charsheet" pos="845,90,1370,690" />
+	<window data="charsheet.id-00001" class="charsheet_classes" pos="510,263,980,563" />
+	<window data="charsheet.id-00001" class="charsheet_combatcalc" pos="495,303,995,523" />
+	<window data="charsheet.id-00001.featurelist.id-00002" class="ref_ability" pos="570,238,920,588" />
+	<window data="charsheet.id-00001.featurelist.id-00004" class="ref_ability" pos="570,238,920,588" />
+	<window data="charsheet.id-00001.featurelist.id-00005" class="ref_ability" pos="520,182,870,532" />
+	<window data="charsheet.id-00001.powergroup.id-00001" class="power_groupdetail" pos="530,268,960,558" />
+	<window data="charsheet.id-00002" class="charsheet" pos="842,129,1367,729" />
+	<window data="charsheet.id-00002.featurelist.id-00005" class="ref_ability" pos="570,238,920,588" />
+	<window data="charsheet.id-00002.powergroup.id-00001" class="power_groupdetail" pos="530,268,960,558" />
+	<window data="charsheet.id-00003" class="charsheet" pos="798,118,1323,718" />
+	<window data="charsheet.id-00003" class="charsheet_combatcalc" pos="720,220,1220,440" />
+	<window data="charsheet.id-00003.featurelist.id-00002" class="ref_ability" pos="246,146,596,496" />
+	<window data="charsheet.id-00003.featurelist.id-00005" class="ref_ability" pos="271,232,621,582" />
+	<window data="charsheet.id-00003.featurelist.id-00006" class="ref_ability" pos="570,238,920,588" />
+	<window data="charsheet.id-00003.powergroup.id-00001" class="power_groupdetail" pos="530,268,960,558" />
+	<window data="charsheet.id-00003.powers.id-00001.actions.id-00001" class="power_effect_editor" pos="223,226,573,576" />
+	<window data="combattracker" class="combattracker_host" pos="574,128,1224,628" />
+	<window data="effects" class="effectlist" pos="139,233,659,633" />
+	<window data="encounter" class="encounterlist" pos="762,83,1157,667" />
+	<window data="encounter.id-00001" class="encounter" pos="422,96,1015,727" />
+	<window data="encounter.id-00001@ALO-03-01Harried In Hillsfar" class="encounter" pos="84,75,484,725" />
+	<window data="encounter.id-00002" class="encounter" pos="509,74,1155,754" />
+	<window data="encounter.id-00003" class="encounter" pos="463,82,1010,741" />
+	<window data="encounter.id-00004" class="encounter" pos="953,149,1353,799" />
+	<window data="encounter.id-00005" class="encounter" pos="552,102,1100,759" />
+	<window data="encounter.id-00006" class="encounter" pos="462,132,1234,718" />
+	<window data="encounter.id-00007" class="encounter" pos="449,62,1064,729" />
+	<window data="encounter.id-00008" class="encounter" pos="545,88,945,738" />
+	<window data="encounter.id-00009" class="encounter" pos="501,92,1097,751" />
+	<window data="encounter.id-00010" class="encounter" pos="470,64,1029,736" />
+	<window data="encounter.id-00011" class="encounter" pos="402,138,1051,654" />
+	<window data="encounter.id-00012" class="encounter" pos="477,82,1078,718" />
+	<window data="encounter.id-00013" class="encounter" pos="474,85,1049,742" />
+	<window data="encounter.id-00014" class="encounter" pos="455,72,1044,740" />
+	<window data="encounter.id-00015" class="encounter" pos="545,88,945,738" />
+	<window data="encounter.id-00016" class="encounter" pos="473,67,986,722" />
+	<window data="encounter.id-00017" class="encounter" pos="507,105,1027,752" />
+	<window data="encounter.id-00018" class="encounter" pos="545,88,945,738" />
+	<window data="encounter.id-00019" class="encounter" pos="521,112,1158,749" />
+	<window data="encounter.id-00020" class="encounter" pos="465,89,1069,758" />
+	<window data="encounter.id-00021" class="encounter" pos="384,109,1108,771" />
+	<window data="encounter.id-00022" class="encounter" pos="410,87,1017,739" />
+	<window data="encounter.id-00023" class="encounter" pos="506,68,1085,734" />
+	<window data="encounter.id-00024" class="encounter" pos="485,51,1076,760" />
+	<window data="encounter.id-00025" class="encounter" pos="1000,111,1400,761" />
+	<window data="encounter.id-00026" class="encounter" pos="760,96,1160,746" />
+	<window data="encounter.id-00027" class="encounter" pos="712,140,1112,790" />
+	<window data="encounter.id-00028" class="encounter" pos="930,132,1330,782" />
+	<window data="encounter.id-00029" class="encounter" pos="774,139,1174,789" />
+	<window data="encounter.id-00030" class="encounter" pos="549,90,949,740" />
+	<window data="encounter.id-00031" class="encounter" pos="584,98,984,748" />
+	<window data="forge.magicitem" class="forge_magicitem" pos="17,353,617,703" />
+	<window data="image" class="imagelist" pos="1041,229,1391,703" />
+	<window data="image.id-00001" class="imagewindow" pos="405,70,1085,756" />
+	<window data="image.id-00002" class="imagewindow" pos="321,146,1169,680" />
+	<window data="image.id-00003" class="imagewindow" pos="321,129,1169,697" />
+	<window data="image.id-00004" class="imagewindow" pos="346,38,1111,797" />
+	<window data="image.id-00008" class="imagewindow" pos="121,0,1160,781" />
+	<window data="image.id-00010" class="imagewindow" pos="-154,36,1094,863" />
+	<window data="image.id-00011" class="imagewindow" pos="421,157,1069,669" />
+	<window data="image.id-00012" class="imagewindow" pos="532,175,1380,742" />
+	<window data="image.id-00013" class="imagewindow" pos="559,162,1265,849" />
+	<window data="image.id-00014" class="imagewindow" pos="385,307,1104,520" />
+	<window data="image.id-00015" class="imagewindow" pos="321,219,1169,608" />
+	<window data="image.id-00016" class="imagewindow" pos="389,70,1100,756" />
+	<window data="image.id-00017" class="imagewindow" pos="342,184,1148,642" />
+	<window data="image.id-00018" class="imagewindow" pos="321,160,1169,666" />
+	<window data="image.id-00019" class="imagewindow" pos="321,129,1169,697" />
+	<window data="image.id-00020" class="imagewindow" pos="213,0,1276,827" />
+	<window data="image.id-00021" class="imagewindow" pos="321,88,1169,739" />
+	<window data="image.id-00023" class="imagewindow" pos="347,70,1143,757" />
+	<window data="image.id-00024" class="imagewindow" pos="321,89,1169,737" />
+	<window data="image.id-00025" class="imagewindow" pos="321,98,1169,728" />
+	<window data="image.id-00026" class="imagewindow" pos="321,115,1169,712" />
+	<window data="item" class="itemlist" pos="989,155,1339,555" />
+	<window data="item.id-00001" class="item" pos="570,238,920,588" />
+	<window data="item.id-00002" class="item" pos="570,238,920,588" />
+	<window data="item.id-00003" class="item" pos="570,238,920,588" />
+	<window data="item.id-00004" class="item" pos="570,238,920,588" />
+	<window data="item.id-00005" class="item" pos="570,238,920,588" />
+	<window data="item.id-00006" class="item" pos="570,238,920,588" />
+	<window data="item.id-00007" class="item" pos="570,238,920,588" />
+	<window data="languages" class="languagelist" pos="123,244,473,594" />
+	<window data="modifiers" class="modifiers" pos="190,127,690,477" />
+	<window data="notes" class="notelist" pos="292,342,592,742" />
+	<window data="notes.id-00001" class="note" pos="981,307,1331,657" />
+	<window data="npc" class="npclist" pos="1086,113,1386,513" />
+	<window data="npc.id-00001" class="npc" pos="519,140,979,690" />
+	<window data="npc.id-00002" class="npc" pos="519,140,979,690" />
+	<window data="npc.id-00003" class="npc" pos="995,186,1455,736" />
+	<window data="npc.id-00004" class="npc" pos="883,155,1343,705" />
+	<window data="npc.id-00005" class="npc" pos="865,181,1325,731" />
+	<window data="npc.id-00006" class="npc" pos="285,142,745,692" />
+	<window data="npc.id-00007" class="npc" pos="856,164,1316,714" />
+	<window data="npc.id-00008" class="npc" pos="515,138,975,688" />
+	<window data="partysheet" class="partysheet_host" pos="345,163,1145,663" />
+	<window data="reference.backgrounddata.acolyte@DD5E SRD Data" class="reference_background" pos="127,29,477,379" />
+	<window data="reference.backgroundlists.byletter@DD5E SRD Data" class="reference_colindex" pos="133,172,583,622" />
+	<window data="reference.classdata.fighter.features.improvedcritical3@DD5E SRD Data" class="reference_classfeature" pos="276,499,626,799" />
+	<window data="reference.classdata.paladin@DD5E SRD Data" class="reference_class" pos="570,213,1129,757" />
+	<window data="reference.classdata.ranger@DD5E SRD Data" class="reference_class" pos="300,53,892,493" />
+	<window data="reference.classdata.sorcerer@DD5E SRD Data" class="reference_class" pos="448,57,1057,738" />
+	<window data="reference.classlists.byletter@DD5E SRD Data" class="reference_colindex" pos="150,70,600,520" />
+	<window data="reference.equipmentdata.battleaxe@DD5E SRD Data" class="reference_weapon" pos="570,238,920,588" />
+	<window data="reference.equipmentdata.chainmail@DD5E SRD Data" class="reference_armor" pos="570,238,920,588" />
+	<window data="reference.equipmentdata.shield@DD5E SRD Data" class="reference_armor" pos="570,238,920,588" />
+	<window data="reference.equipmentlists.adventuringgeartable@DD5E SRD Data" class="reference_adventuringgeartable" pos="266,86,716,736" />
+	<window data="reference.equipmentlists.armortable@DD5E SRD Data" class="reference_armortable" pos="81,69,831,719" />
+	<window data="reference.equipmentlists.equipment@DD5E SRD Data" class="referenceindex" pos="178,246,528,696" />
+	<window data="reference.equipmentlists.toolstable@DD5E SRD Data" class="reference_adventuringgeartable" pos="520,88,970,738" />
+	<window data="reference.equipmentlists.weapontable@DD5E SRD Data" class="reference_weapontable" pos="103,118,853,768" />
+	<window data="reference.imagedata.img_tarrasque_jpg@DD MM Monster Manual" class="imagewindow" pos="828,159,1454,842" />
+	<window data="reference.magicitemdata.periaptofhealth@DD5E SRD Magic Items" class="reference_magicitem" pos="570,238,920,588" />
+	<window data="reference.magicitemdata.shortbow__1@DD5E SRD Magic Items" class="reference_magicitem" pos="570,238,920,588" />
+	<window data="reference.magicitemdata.viciousshortbow@DD5E SRD Magic Items" class="reference_magicitem" pos="570,238,920,588" />
+	<window data="reference.magicitemdata.wandoffireballs@DD5E SRD Magic Items" class="reference_magicitem" pos="570,238,920,588" />
+	<window data="reference.magicitemlists.bytype@DD5E SRD Magic Items" class="reference_colindex" pos="520,188,970,638" />
+	<window data="reference.magicrefitemlists.bytype@DD5E SRD Magic Items" class="reference_colindex" pos="520,188,970,638" />
+	<window data="reference.npcdata.aboleth@DD5E SRD Bestiary" class="npc" pos="515,138,975,688" />
+	<window data="reference.npcdata.ankheg@DD5E SRD Bestiary" class="npc" pos="515,138,975,688" />
+	<window data="reference.npcdata.behir@DD5E SRD Bestiary" class="npc" pos="515,138,975,688" />
+	<window data="reference.npcdata.brownbear@DD5E SRD Bestiary" class="npc" pos="515,138,975,688" />
+	<window data="reference.npcdata.centaur@DD5E SRD Bestiary" class="npc" pos="515,138,975,688" />
+	<window data="reference.npcdata.gelatinouscube@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.ghast@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.ghost@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.grick@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.hellhound@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.hillgiant@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.hippogriff@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.kobold@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.ogre@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.owlbear@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.shamblingmound@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.spider@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.tarrasque@DD MM Monster Manual" class="npc" pos="625,56,1085,606" />
+	<window data="reference.npcdata.tarrasque@DD5E SRD Bestiary" class="npc" pos="913,79,1373,629" />
+	<window data="reference.npcdata.treant@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.troll@DD5E SRD Bestiary" class="npc" pos="519,140,979,690" />
+	<window data="reference.npcdata.wyvern@DD5E SRD Bestiary" class="npc" pos="515,138,975,688" />
+	<window data="reference.npclists.byletter@DD MM Monster Manual" class="reference_colindex" pos="303,317,753,767" />
+	<window data="reference.npclists.byletter@DD5E SRD Bestiary" class="reference_colindex" pos="120,220,570,670" />
+	<window data="reference.npclists.bylevel@DD MM Monster Manual" class="reference_colindex" pos="520,188,970,638" />
+	<window data="reference.npclists.bytype@DD MM Monster Manual" class="reference_colindex" pos="520,188,970,638" />
+	<window data="reference.npclists.npcs@DD MM Monster Manual" class="referenceindex" pos="570,188,920,638" />
+	<window data="reference.npclists.npcs@DD5E SRD Bestiary" class="referenceindex" pos="588,331,914,624" />
+	<window data="reference.racelists.byletter@DD5E SRD Data" class="reference_colindex" pos="48,307,498,757" />
+	<window data="reference.refmanualindex@DD5E SRD Bestiary" class="reference_manual" pos="396,74,1346,724" />
+	<window data="reference.refmanualindex@DD5E SRD Data" class="reference_manual" pos="270,88,1220,738" />
+	<window data="reference.spelldata.fireball@DD5E SRD Data" class="reference_spell" pos="570,238,920,588" />
+	<window data="reference.spelldata.fogcloud@DD5E SRD Data" class="reference_spell" pos="570,238,920,588" />
+	<window data="reference.spelldata.holdperson@DD5E SRD Data" class="reference_spell" pos="570,238,920,588" />
+	<window data="reference.spelldata.longstrider@DD5E SRD Data" class="reference_spell" pos="570,238,920,588" />
+	<window data="reference.spelllists.ranger@DD5E SRD Data" class="reference_colindex" pos="355,303,805,753" />
+	<window data="reference.spelllists.sorcerer@DD5E SRD Data" class="reference_colindex" pos="122,111,572,561" />
+	<window data="tables" class="tablelist" pos="959,281,1309,731" />
+	<window data="tables.id-00001" class="table" pos="916,107,1316,507" />
+	<window data="tables.tab_acolytebond@DD5E SRD Data" class="table" pos="545,213,945,613" />
+	<window data="tables.tab_acolyteflaw@DD5E SRD Data" class="table" pos="545,213,945,613" />
+	<window data="tables.tab_acolyteideal@DD5E SRD Data" class="table" pos="545,213,945,613" />
+	<window data="tables.tab_acolytepersonalitytrait@DD5E SRD Data" class="table" pos="426,335,826,735" />
+	<window data="treasureparcels" class="parcellist" pos="96,174,396,574" />
+	<window data="treasureparcels.id-00001" class="treasureparcel" pos="903,246,1403,596" />
+	<window data="treasureparcels.id-00002" class="treasureparcel" pos="891,163,1391,513" />
+	<window data="treasureparcels.id-00003" class="treasureparcel" pos="46,124,546,474" />
+
+	<image data="image.id-00004" class="imagewindow" control="image" view="-52,-528" zoom="1" />
+	<image data="image.id-00008" class="imagewindow" control="image" view="1,-296" zoom="0.825833" />
+	<image data="image.id-00010" class="imagewindow" control="image" view="0,-374" zoom="1" />
+</windowstate>

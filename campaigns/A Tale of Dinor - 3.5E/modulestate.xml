@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<modulestate version="2.8">
+	<module name="3.5E Basic Rules">
+		<loaded />
+		<allow />
+	</module>
+	<module name="3.5E Magic Items">
+		<loaded />
+	</module>
+	<module name="3.5E Monsters">
+		<loaded />
+	</module>
+	<module name="3.5E Spells">
+		<loaded />
+	</module>
+	<module name="Letter Tokens">
+		<loaded />
+	</module>
+</modulestate>

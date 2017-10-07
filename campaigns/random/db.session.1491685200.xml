@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.2" release="7|CoreRPG:3">
+	<calendar>
+		<public />
+	</calendar>
+	<charsheet>
+	</charsheet>
+	<combattracker>
+		<public />
+	</combattracker>
+	<effects>
+		<public />
+	</effects>
+	<encounter>
+		<id-00001>
+			<public />
+			<locked type="number">1</locked>
+			<name type="string">Generic Adventure Framework</name>
+			<text type="formattedtext">
+				<h>Party's Goal</h>
+				<p>Seize control of a fortified location such as a fortress, town, or ship.</p>
+				<h>Main Villain</h>
+				<p>Humanoid seeking revenge</p>
+				<p><b>Villain's Scheme</b></p>
+				<p>Power. Seize control of an army</p>
+				<p><b>Villain's Methods</b></p>
+				<p>Theft or Property Crime. Smuggling</p>
+				<p><b>Villain's Weakness</b></p>
+				<p>The villain is weakened in the presence of a particular artifact.</p>
+				<h>Adventure Allies</h>
+				<p>Disguised monster</p>
+				<h>Adventure Patrons</h>
+				<p>Desperate Commoner</p>
+				<h>Location Details</h>
+				<p>fill this in later</p>
+				<h>Adventure Introduction</h>
+				<frame>A ghost appears and terrorizes a village. Research reveals that it can be put to rest only by entering the adventure location.</frame>
+				<h>Adventure Climax</h>
+				<p>A portal opens to another plane of existence. Creatures on the other side spill out, forcing the adventurers to close the portal and deal with the villain at the same time.</p>
+				<h>Framing Event</h>
+				<p>New year</p>
+				<h>Possible Complications</h>
+				<p><b>Moral Quandaries</b></p>
+				<p>Friend quandary</p>
+				<h>Plot Twist</h>
+				<p>The adventurers become responsible for the safety of a noncombatant NPC.</p>
+				<h>Side Quests</h>
+				<list>
+					<li>Discover the nature and origin of a strange phenomenon in the area.</li>
+					<li>Slay a specific monster.</li>
+				</list>
+			</text>
+		</id-00001>
+		<id-00002>
+			<public />
+			<name type="string">Random Dungeon Chamber</name>
+			<text type="formattedtext">
+				<h>Chamber Size</h>
+				<p>Octagon, 60 &#215; 60 ft. with 3 exits</p>
+				<h>Contents</h>
+				<p>Trap that is triggered when opened (door, treasure chest). Trap Severity = Dangerous. Effect = Touching an object triggers a flesh to stone spell</p>
+				<h>Dungeon Dressing</h>
+				<p><b>Noises: </b>Murmuring</p>
+				<p><b>Air Quality: </b>Clear and warm</p>
+				<p><b>Odors: </b>Dank or moldy</p>
+				<p><b>Chamber State: </b>Rubble, ceiling partially collapsed</p>
+				<h>Chamber Purpose</h>
+				<p><i>Choose from list below based on Dungeon type.</i></p>
+				<p><b>General Dungeon Chamber: </b>Temple</p>
+				<p><b>Death Trap: </b>Guardroom fortified against intruders</p>
+				<p><b>Lair: </b>Throne room where the lair's leaders hold court</p>
+				<p><b>Maze: </b>Guardroom for sentinels that patrol the maze</p>
+				<p><b>Mine: </b>Lode where metal ore is mined (75 percent chance of being depleted)</p>
+				<p><b>Planar Gate: </b>Workshop for constructing tools and gear needed to study the portal</p>
+				<p><b>Stronghold: </b>Storage for mundane goods and supplies</p>
+				<p><b>Temple or Shrine: </b>Trophy room where art celebrating key figures and events from mythology is displayed</p>
+				<p><b>Tomb: </b>Chapel dedicated to deities that watch over the dead and protect their resting places</p>
+				<p><b>Treasure Vault: </b>Guardroom to defend against intruders</p>
+				<h>General Furnishings and Appointments</h>
+				<p><b>Choose 3:</b></p>
+				<list>
+					<li>Closet (wardrobe)</li>
+					<li>Chair, padded</li>
+					<li>Cupboard</li>
+					<li>Fireplace and wood</li>
+				</list>
+				<h>General Features</h>
+				<p><b>Choose 1:</b></p>
+				<list>
+					<li>Dripping blood</li>
+					<li>Cobwebs</li>
+					<li>Cobwebs</li>
+					<li>Wall scratchings</li>
+				</list>
+				<h>Ideas for Items Found in Room</h>
+				<p><b>Religious Items</b></p>
+				<list>
+					<li>Lamp</li>
+					<li>Idol</li>
+					<li>Screen</li>
+					<li>Columns or pillars</li>
+				</list>
+				<p><b>Mage Furnishings</b></p>
+				<list>
+					<li>Flask or jar</li>
+					<li>Pan</li>
+					<li>Vial</li>
+					<li>Bottle</li>
+				</list>
+				<p><b>Utensils and Personal Items</b></p>
+				<list>
+					<li>Coffer</li>
+					<li>Horn, drinking</li>
+					<li>Cologne or perfume</li>
+					<li>Candle</li>
+				</list>
+				<p><b>Container Contents</b></p>
+				<list>
+					<li>Skin or hide</li>
+					<li>Crystals</li>
+					<li>Husks</li>
+					<li>Bark</li>
+				</list>
+				<p><b>Books, Scrolls and Tomes</b></p>
+				<list>
+					<li>Letter</li>
+					<li>Dictionary</li>
+					<li>Text on herbalism</li>
+					<li>Biography</li>
+				</list>
+				<h>Chamber Exits</h>
+				<p><b>Number of Exits: </b>&#60;Random Dungeon - Normal Chamber Exits&#62; (Ignore excess exits below)</p>
+				<p>Exit 1: Door. Portcullis on the Wall right of entrance</p>
+				<p>Exit 2: Corridor, 10 ft. long on the Wall opposite entrance</p>
+				<p>Exit 3: Corridor, 10 ft. long on the Same wall as entrance</p>
+				<p>Exit 4: Corridor, 10 ft. long on the Wall opposite entrance</p>
+				<p>Exit 5: Door. Stone on the Wall left of entrance</p>
+				<p>Exit 6: Door. Wooden on the Wall opposite entrance</p>
+				<h>Choose below</h>
+				<linklist>
+					<link class="storytemplate" recordname="storytemplate.randomdungeonpassage@*">Random Dungeon Passage</link>
+					<link class="storytemplate" recordname="storytemplate.randomdungeonchamber@*">Random Dungeon Chamber</link>
+				</linklist>
+			</text>
+		</id-00002>
+		<id-00003>
+			<name type="string">Random Dungeon Passage</name>
+			<text type="formattedtext">
+				<h>Passage Width</h>
+				<p>10 ft.</p>
+				<h>Description</h>
+				<p>Continue straight 20 ft., side passage to the left, then an additional 10 ft. ahead</p>
+				<h>Choose Path Based on Description</h>
+				<linklist>
+					<link class="storytemplate" recordname="storytemplate.randomdungeonpassage@*">Random Dungeon Passage</link>
+					<link class="storytemplate" recordname="storytemplate.randomdungeondoor@*">Random Dungeon Door</link>
+					<link class="storytemplate" recordname="storytemplate.randomdungeonchamber@*">Random Dungeon Chamber</link>
+				</linklist>
+			</text>
+		</id-00003>
+		<id-00004>
+			<name type="string">Random Dungeon Passage</name>
+			<text type="formattedtext">
+				<h>Passage Width</h>
+				<p>40 ft., with row of pillars down the middle</p>
+				<h>Description</h>
+				<p>Continue straight 20 ft., then the passage turns right and continues 10 ft.</p>
+				<h>Choose Path Based on Description</h>
+				<linklist>
+					<link class="storytemplate" recordname="storytemplate.randomdungeonpassage@*">Random Dungeon Passage</link>
+					<link class="storytemplate" recordname="storytemplate.randomdungeondoor@*">Random Dungeon Door</link>
+					<link class="storytemplate" recordname="storytemplate.randomdungeonchamber@*">Random Dungeon Chamber</link>
+				</linklist>
+			</text>
+		</id-00004>
+	</encounter>
+	<image>
+	</image>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Aquan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<name type="string">Common</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Terran</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Ignan</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Auran</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00016>
+		<id-00017>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00017>
+		<id-00018>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00018>
+		<id-00019>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00019>
+		<id-00020>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00020>
+	</languages>
+	<library>
+	</library>
+	<modifiers>
+		<public />
+	</modifiers>
+	<options>
+		<public />
+		<DDCL type="string">desktopdecal_DMG4</DDCL>
+		<SHPW type="string">on</SHPW>
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+	<storytemplate>
+	</storytemplate>
+</root>

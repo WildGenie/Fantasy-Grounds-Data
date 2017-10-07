@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.2">
+	<window data="" class="library" pos="162,109,862,659" />
+	<window data="" class="tokenbag" pos="668,320,1018,673" />
+	<window data="battle" class="battlelist" pos="374,209,649,559" />
+	<window data="battle.id-00001" class="battle" pos="1103,287,1453,687" />
+	<window data="charsheet" class="charactersheetlist" pos="174,169,850,599" />
+	<window data="combattracker" class="combattracker_window" pos="707,72,1241,584" />
+	<window data="effects" class="effectlist" pos="374,209,649,559" />
+	<window data="item" class="itemlist" pos="374,209,649,559" />
+	<window data="npc" class="npclist" pos="374,209,649,559" />
+	<window data="npc.id-00001" class="npc" pos="782,561,1082,961" />
+</windowstate>

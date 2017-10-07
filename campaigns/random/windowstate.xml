@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.3">
+	<window data="" class="library" pos="489,290,1189,903" />
+	<window data="" class="moduleselection" pos="93,255,793,785" />
+	<window data="" class="portraitselection" pos="610,355,1070,655" />
+	<window data="charsheet.id-00001" class="charsheet" pos="494,186,1019,786" />
+	<window data="encounter" class="masterindex" pos="356,222,806,672" />
+	<window data="encounter.id-00001" class="encounter" pos="929,108,1329,758" />
+	<window data="encounter.id-00002" class="encounter" pos="640,180,1040,830" />
+	<window data="encounter.id-00003" class="encounter" pos="730,602,1130,1252" />
+	<window data="encounter.id-00004" class="encounter" pos="1022,228,1422,878" />
+	<window data="lists.battle.bycategory@DD Dungeon Masters Guide" class="reference_colindex" pos="615,280,1065,730" />
+	<window data="lists.storytemplates.bycategory@DD Dungeon Masters Guide" class="reference_colindex" pos="736,218,1186,832" />
+	<window data="storytemplate" class="masterindex" pos="828,259,1278,709" />
+	<window data="storytemplate.genericadventureframework@DD Dungeon Masters Guide" class="storytemplate" pos="490,109,890,759" />
+	<window data="storytemplate.randomdungeonchamber@DD Dungeon Masters Guide" class="storytemplate" pos="640,180,1040,830" />
+	<window data="storytemplate.randomdungeonpassage@DD Dungeon Masters Guide" class="storytemplate" pos="640,180,1040,830" />
+</windowstate>

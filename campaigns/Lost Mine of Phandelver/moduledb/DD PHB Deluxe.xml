@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.2" release="7|CoreRPG:3" integrity="569269c98c9a190e980c1b8fe44cb9c68278dcec">
+	<reference>
+		<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+			<imagedata>
+				<category name="Artwork - DD PHB Deluxe" baseicon="2" decalicon="1">
+				</category>
+				<category name="Backgrounds - DD PHB Deluxe" baseicon="2" decalicon="1">
+				</category>
+				<category name="Classes - DD PHB Deluxe" baseicon="2" decalicon="1">
+				</category>
+				<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+					<img_cleric>
+						<image type="image">
+							<bitmap>images/Cleric.jpg</bitmap>
+						</image>
+					</img_cleric>
+					<img_part1_5_jpg>
+						<image type="image">
+							<bitmap>images/Part1-5.jpg</bitmap>
+						</image>
+					</img_part1_5_jpg>
+					<img_part1_8_jpg>
+						<image type="image">
+							<bitmap>images/Part1-8.jpg</bitmap>
+						</image>
+					</img_part1_8_jpg>
+				</category>
+				<category name="Items - DD PHB Deluxe" baseicon="2" decalicon="1">
+				</category>
+				<category name="NPCs - DD PHB Deluxe" baseicon="2" decalicon="1">
+				</category>
+				<category name="Races - DD PHB Deluxe" baseicon="2" decalicon="1">
+				</category>
+			</imagedata>
+		</category>
+	</reference>
+</root>

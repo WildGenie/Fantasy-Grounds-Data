@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="1237b52caa57ab243bac6bc3f5ca298a58bc1cd0">
+	<npc>
+		<category name="NPCs - DD Lost Mine of Phandelver" mergeid="" baseicon="2" decalicon="1">
+			<ashzombie>
+				<abilities>
+					<charisma>
+						<bonus type="number">-3</bonus>
+					</charisma>
+					<intelligence>
+						<bonus type="number">-4</bonus>
+					</intelligence>
+				</abilities>
+			</ashzombie>
+		</category>
+	</npc>
+	<pregencharsheet>
+		<highelf_acolyte_>
+			<classes>
+				<id-00001>
+					<casterlevelinvmult type="number">1</casterlevelinvmult>
+				</id-00001>
+			</classes>
+		</highelf_acolyte_>
+		<hilldwarf_soldier_>
+			<classes>
+				<id-00001>
+					<casterlevelinvmult type="number">1</casterlevelinvmult>
+				</id-00001>
+			</classes>
+		</hilldwarf_soldier_>
+	</pregencharsheet>
+</root>

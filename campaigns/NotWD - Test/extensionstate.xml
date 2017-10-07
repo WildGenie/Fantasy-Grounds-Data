@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<extensionstate version="3.3">
+	<extension name="Turkish">
+		<loaded />
+	</extension>
+	<extension name="Decal_COS">
+		<loaded />
+	</extension>
+	<extension name="Decal_MM">
+		<loaded />
+	</extension>
+	<extension name="Decal_OOTA">
+		<loaded />
+	</extension>
+	<extension name="Decal_SCAG">
+		<loaded />
+	</extension>
+</extensionstate>
