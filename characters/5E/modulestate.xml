@@ -1,9 +1,76 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <modulestate version="3.3">
+	<module name="AL - Expeditions Standard Into - S2">
+	</module>
+	<module name="ALO-03-01Harried In Hillsfar">
+	</module>
+	<module name="ALO-03-02 - Shackles of Blood">
+	</module>
+	<module name="Animal Pogs">
+	</module>
+	<module name="Animal Tokens">
+	</module>
+	<module name="Calendars">
+	</module>
+	<module name="Character Pogs">
+	</module>
+	<module name="Character Tokens">
+	</module>
+	<module name="D&#38;D Legacy of the Crystal Shard - Adventure">
+	</module>
+	<module name="D&#38;D Legacy of the Crystal Shard - Campaign Guide">
+	</module>
+	<module name="D&#38;D Out of the Abyss">
+	</module>
+	<module name="D&#38;D Scourge of the Sword Coast">
+	</module>
+	<module name="D&#38;D Sword Coast Adventurer's Guide - Campaign Guide">
+	</module>
+	<module name="D&#38;D Sword Coast Adventurer's Guide - Player's Guide">
+	</module>
+	<module name="DD 5E Basic Rules - Player">
+	</module>
+	<module name="DD Basic Rules - DM">
+	</module>
+	<module name="DD Curse of Strahd">
+	</module>
+	<module name="DD Curse of Strahd Players">
+	</module>
 	<module name="DD Dungeon Masters Guide">
-		<loaded />
+	</module>
+	<module name="DD Dungeon Masters Guide - Maps">
+	</module>
+	<module name="DD Dungeon Masters Guide - Players">
+	</module>
+	<module name="DD Elemental Evil Players Companion">
+	</module>
+	<module name="DD Hoard of the Dragon Queen">
+	</module>
+	<module name="DD Lost Mine of Phandelver">
+	</module>
+	<module name="DD MM Monster Manual">
 	</module>
 	<module name="DD PHB Deluxe">
 		<loaded />
+	</module>
+	<module name="DD Princes of the Apocalypse">
+	</module>
+	<module name="DD The Rise of Tiamat">
+	</module>
+	<module name="DD5E SRD Bestiary">
+	</module>
+	<module name="DD5E SRD Data">
+	</module>
+	<module name="DD5E SRD Magic Items">
+	</module>
+	<module name="Default Fumble and Critical Hit Tables">
+	</module>
+	<module name="FG Battle Maps">
+	</module>
+	<module name="Letter Tokens">
+	</module>
+	<module name="Monster Pogs">
+	</module>
+	<module name="Monster Tokens">
 	</module>
 </modulestate>

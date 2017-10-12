@@ -7,20 +7,23 @@
 	<window data="battle" class="masterindex" pos="1073,438,1523,888" />
 	<window data="battle.bat_p2_02forestencounter@DD Dungeon Masters Guide" class="battle" pos="665,305,1015,705" />
 	<window data="battle.id-00002" class="battle" pos="665,305,1015,705" />
-	<window data="charsheet.id-00001" class="charsheet" pos="500,111,1025,711" />
+	<window data="charsheet.id-00001" class="charsheet" pos="500,111,1019,711" />
 	<window data="charsheet.id-00001" class="charsheet_classes" pos="262,412,732,712" />
 	<window data="charsheet.id-00001" class="charsheet_combatcalc" pos="797,295,1297,515" />
 	<window data="charsheet.id-00001.featurelist.id-00002" class="ref_ability" pos="1230,514,1580,864" />
+	<window data="charsheet.id-00001.powers.id-00003.actions.id-00001" class="power_effect_editor" pos="785,345,1135,695" />
 	<window data="charsheet.id-00001.powers.id-00004" class="power" pos="1623,326,1973,676" />
 	<window data="charsheet.id-00001.powers.id-00004.actions.id-00001" class="power_effect_editor" pos="2153,441,2503,791" />
-	<window data="charsheet.id-00002" class="charsheet" pos="577,205,1102,805" />
+	<window data="charsheet.id-00002" class="charsheet" pos="398,108,923,708" />
 	<window data="charsheet.id-00003" class="charsheet" pos="452,70,977,670" />
 	<window data="charsheet.id-00003" class="charsheet_classes" pos="605,355,1075,655" />
 	<window data="charsheet.id-00003.featurelist.id-00002" class="ref_ability" pos="931,242,1281,592" />
-	<window data="charsheet.id-00006" class="charsheet" pos="631,51,1160,651" />
+	<window data="charsheet.id-00003.powers.id-00002.actions.id-00001" class="power_effect_editor" pos="785,345,1135,695" />
+	<window data="charsheet.id-00006" class="charsheet" pos="396,73,925,673" />
 	<window data="charsheet.id-00006" class="charsheet_classes" pos="83,569,553,869" />
 	<window data="charsheet.id-00006" class="charsheet_combatcalc" pos="920,334,1420,554" />
-	<window data="charsheet.id-00007" class="charsheet" pos="389,148,914,748" />
+	<window data="charsheet.id-00006.powers.id-00001.actions.id-00001" class="power_effect_editor" pos="752,343,1102,693" />
+	<window data="charsheet.id-00007" class="charsheet" pos="305,338,830,938" />
 	<window data="charsheet.id-00007" class="charsheet_classes" pos="399,357,869,657" />
 	<window data="charsheet.id-00007" class="charsheet_combatcalc" pos="898,112,1398,332" />
 	<window data="charsheet.id-00007.featurelist.id-00003" class="ref_ability" pos="1015,172,1448,527" />
@@ -28,6 +31,7 @@
 	<window data="charsheet.id-00007.featurelist.id-00005" class="ref_ability" pos="665,330,1015,680" />
 	<window data="charsheet.id-00007.featurelist.id-00006" class="ref_ability" pos="665,330,1015,680" />
 	<window data="charsheet.id-00007.inventorylist.id-00011" class="item" pos="907,446,1257,796" />
+	<window data="charsheet.id-00007.powers.id-00002.actions.id-00001" class="power_effect_editor" pos="785,345,1135,695" />
 	<window data="charsheet.id-00007.powers.id-00012.actions.id-00001" class="power_heal_editor" pos="433,515,783,865" />
 	<window data="charsheet.id-00007.traitlist.id-00004" class="ref_ability" pos="665,330,1015,680" />
 	<window data="charsheet.id-00007.traitlist.id-00006" class="ref_ability" pos="665,330,1015,680" />
@@ -35,15 +39,18 @@
 	<window data="charsheet.id-00009" class="charsheet" pos="50,92,575,692" />
 	<window data="charsheet.id-00009" class="charsheet_classes" pos="523,336,993,636" />
 	<window data="charsheet.id-00009.inventorylist.id-00012" class="item" pos="599,267,949,617" />
+	<window data="charsheet.id-00009.powers.id-00002.actions.id-00001" class="power_effect_editor" pos="955,458,1305,808" />
 	<window data="charsheet.id-00009.powers.id-00007" class="power" pos="665,330,1015,680" />
 	<window data="charsheet.id-00010" class="charsheet" pos="840,90,1365,690" />
-	<window data="charsheet.id-00011" class="charsheet" pos="977,137,1502,737" />
+	<window data="charsheet.id-00011" class="charsheet" pos="281,154,806,754" />
 	<window data="charsheet.id-00011" class="charsheet_classes" pos="605,355,1075,655" />
 	<window data="charsheet.id-00011" class="charsheet_combatcalc" pos="767,359,1267,579" />
 	<window data="charsheet.id-00011.featurelist.id-00001" class="ref_ability" pos="665,330,1015,680" />
 	<window data="charsheet.id-00011.featurelist.id-00002" class="ref_ability" pos="1057,309,1407,737" />
+	<window data="charsheet.id-00011.powergroup.id-00001" class="power_groupdetail" pos="745,375,1175,665" />
+	<window data="charsheet.id-00011.powers.id-00001.actions.id-00001" class="power_effect_editor" pos="785,345,1135,695" />
 	<window data="charsheet.id-00011.weaponlist.id-00001" class="char_weapon_editor" pos="665,330,1015,680" />
-	<window data="combattracker" class="combattracker_host" pos="633,137,1283,637" />
+	<window data="combattracker" class="combattracker_host" pos="929,146,1579,646" />
 	<window data="effects" class="effectlist" pos="1027,412,1567,812" />
 	<window data="encounter" class="masterindex" pos="615,280,1065,730" />
 	<window data="encounter.enc_00_03_00introduction@DD Curse of Strahd" class="encounter" pos="640,180,1040,830" />
@@ -74,7 +81,7 @@
 	<window data="image.img_map_5_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="75,0,1605,1010" />
 	<window data="image.img_map_7_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="1045,197,1663,857" />
 	<window data="item" class="masterindex" pos="1041,285,1491,735" />
-	<window data="languages" class="languagelist" pos="82,113,432,714" />
+	<window data="languages" class="languagelist" pos="231,118,581,719" />
 	<window data="lists.imagewindow@DD Curse of Strahd" class="referenceindexsorted" pos="465,155,815,605" />
 	<window data="modifiers" class="modifiers" pos="1024,47,1524,397" />
 	<window data="npc" class="masterindex" pos="671,222,1121,672" />
@@ -97,16 +104,20 @@
 	<window data="reference.classdata.wizard@DD PHB Deluxe" class="reference_class" pos="1069,197,1580,597" />
 	<window data="reference.equipmentdata.greataxe@DD PHB Deluxe" class="reference_weapon" pos="665,330,1015,680" />
 	<window data="reference.equipmentdata.scalemail@DD PHB Deluxe" class="reference_armor" pos="665,330,1015,680" />
-	<window data="reference.racedata.dwarf@DD PHB Deluxe" class="reference_race" pos="665,330,1015,680" />
+	<window data="reference.racedata.dwarf.traits.dwarvenresilience@DD PHB Deluxe" class="reference_racialtrait" pos="1307,569,1657,919" />
+	<window data="reference.racedata.dwarf@DD PHB Deluxe" class="reference_race" pos="1201,271,1551,621" />
 	<window data="reference.racedata.elf.subraces.darkelf_drow_.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_subracialtrait" pos="665,330,1015,680" />
 	<window data="reference.racedata.elf.subraces.darkelf_drow_@DD PHB Deluxe" class="reference_subrace" pos="665,330,1015,680" />
 	<window data="reference.racedata.elf.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_racialtrait" pos="665,330,1015,680" />
+	<window data="reference.racedata.elf.traits.keensenses@DD PHB Deluxe" class="reference_racialtrait" pos="785,345,1135,695" />
 	<window data="reference.racedata.elf.traits.subrace@DD PHB Deluxe" class="reference_racialtrait" pos="665,330,1015,680" />
-	<window data="reference.racedata.elf@DD PHB Deluxe" class="reference_race" pos="930,168,1280,518" />
+	<window data="reference.racedata.elf@DD PHB Deluxe" class="reference_race" pos="930,168,1280,622" />
 	<window data="reference.racedata.half_elf.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_racialtrait" pos="1074,297,1424,647" />
+	<window data="reference.racedata.half_elf.traits.feyancestry@DD PHB Deluxe" class="reference_racialtrait" pos="1096,415,1446,765" />
 	<window data="reference.racedata.half_elf@DD PHB Deluxe" class="reference_race" pos="665,330,1015,680" />
 	<window data="reference.racedata.half_orc.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_racialtrait" pos="837,354,1187,704" />
 	<window data="reference.racedata.half_orc@DD PHB Deluxe" class="reference_race" pos="665,330,1015,680" />
+	<window data="reference.racedata.human@DD PHB Deluxe" class="reference_race" pos="785,345,1135,695" />
 	<window data="reference.skilldata.stealth@DD PHB Deluxe" class="ref_ability" pos="956,689,1306,1039" />
 	<window data="reference.spelldata.bless@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />
 	<window data="reference.spelldata.fogcloud@DD PHB Deluxe" class="reference_spell" pos="665,330,1015,680" />

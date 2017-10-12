@@ -4,10 +4,6 @@
 		<key number="10">
 			<description>[EFFECT] Invisible [ACTION]</description>
 			<icon>action_effect</icon>
-			<shortcut>
-				<class></class>
-				<datasource></datasource>
-			</shortcut>
 			<data>
 				<type>effect</type>
 				<slot number="0">
