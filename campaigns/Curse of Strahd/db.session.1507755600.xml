@@ -2499,7 +2499,7 @@
 						<id-00001>
 							<holder name="ErayT" owner="true" />
 							<durmod type="number">0</durmod>
-							<label type="string">Dwarven Resilience;RESIST:poison</label>
+							<label type="string"> Dwarven Resilience;RESIST:poison</label>
 							<order type="number">1</order>
 							<targeting type="string">self</targeting>
 							<type type="string">effect</type>
@@ -4902,7 +4902,7 @@
 						<id-00001>
 							<holder name="kmg" owner="true" />
 							<durmod type="number">0</durmod>
-							<label type="string">Dwarven Resilience;RESIST:poison</label>
+							<label type="string"> Dwarven Resilience;RESIST:poison</label>
 							<order type="number">1</order>
 							<targeting type="string">self</targeting>
 							<type type="string">effect</type>
