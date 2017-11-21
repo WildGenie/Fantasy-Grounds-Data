@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <hotkeys version="3.3">
 	<bank number="0">
+		<key number="6">
+			<description>Map of Death House</description>
+			<icon>button_link</icon>
+			<dbref>image.id-00015@DD Curse of Strahd</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>imagewindow</class>
+						<datasource>image.id-00015@DD Curse of Strahd</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="7">
+			<description>Map of Barovia</description>
+			<icon>button_link</icon>
+			<dbref>image.id-00046@DD Curse of Strahd</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>imagewindow</class>
+						<datasource>image.id-00046@DD Curse of Strahd</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="8">
+			<description>Alterations to Magic</description>
+			<icon>button_link</icon>
+			<dbref>encounter.enc_02_02alterationstomagic@DD Curse of Strahd</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<string>Alterations to Magic</string>
+					<shortcut>
+						<class>encounter</class>
+						<datasource>encounter.enc_02_02alterationstomagic@DD Curse of Strahd</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="9">
+			<description>Fear and Horror</description>
+			<icon>button_link</icon>
+			<dbref>reference.refmanualdata.refpage_fearandhorror@DD Dungeon Masters Guide</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>referencemanualpage</class>
+						<datasource>reference.refmanualdata.refpage_fearandhorror@DD Dungeon Masters Guide</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
 		<key number="10">
 			<description>[EFFECT] Invisible [ACTION]</description>
 			<icon>action_effect</icon>
@@ -13,6 +70,20 @@
 					<metadata>
 						<bSecret>true</bSecret>
 					</metadata>
+				</slot>
+			</data>
+		</key>
+		<key number="11">
+			<description>(Curse of Strahd)</description>
+			<icon>button_link</icon>
+			<dbref>encounter.enc__curseofstrahd_@DD Curse of Strahd</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>encounter</class>
+						<datasource>encounter.enc__curseofstrahd_@DD Curse of Strahd</datasource>
+					</shortcut>
 				</slot>
 			</data>
 		</key>

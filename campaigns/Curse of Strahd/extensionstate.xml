@@ -3,6 +3,9 @@
 	<extension name="Turkish">
 		<loaded />
 	</extension>
+	<extension name="5E_Ref_Decal">
+		<loaded />
+	</extension>
 	<extension name="Decal_COS">
 		<loaded />
 	</extension>

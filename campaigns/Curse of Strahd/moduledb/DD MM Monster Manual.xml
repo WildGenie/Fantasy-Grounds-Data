@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="b6c4edb4250443e56f71d9568a7e1c6b26eeb8cc">
+	<reference>
+		<category name="DD MM Monster Manual" baseicon="0" decalicon="0">
+			<npcdata>
+				<category name="DD MM Monster Manual" baseicon="0" decalicon="0">
+					<brownbear>
+						<public />
+						<category name="DD MM Monster Manual" baseicon="0" decalicon="0">
+							<abilities>
+								<public />
+								<category name="DD MM Monster Manual" baseicon="0" decalicon="0">
+									<charisma>
+										<public />
+									</charisma>
+									<constitution>
+										<public />
+									</constitution>
+									<dexterity>
+										<public />
+									</dexterity>
+									<intelligence>
+										<public />
+									</intelligence>
+									<strength>
+										<public />
+									</strength>
+									<wisdom>
+										<public />
+									</wisdom>
+								</category>
+							</abilities>
+							<actions>
+								<public />
+								<category name="DD MM Monster Manual" baseicon="0" decalicon="0">
+									<id-00001>
+										<public />
+									</id-00001>
+									<id-00002>
+										<public />
+									</id-00002>
+									<id-00003>
+										<public />
+									</id-00003>
+								</category>
+							</actions>
+							<traits>
+								<public />
+								<category name="DD MM Monster Manual" baseicon="0" decalicon="0">
+									<id-00001>
+										<public />
+									</id-00001>
+								</category>
+							</traits>
+						</category>
+					</brownbear>
+				</category>
+			</npcdata>
+		</category>
+	</reference>
+</root>

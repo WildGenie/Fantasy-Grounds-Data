@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="67c70ad3bdebdd77b07028c607c42f8db79f8c8a">
+<root version="3.3" release="8|CoreRPG:3" integrity="36fce074f3164ac861e8ca73e16cbf4ef1c6219d">
 	<reference>
 		<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
 			<backgrounddata>
@@ -47,6 +47,27 @@
 			</backgrounddata>
 			<classdata>
 				<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+					<druid>
+						<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+							<abilities>
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<circleoftheland>
+										<public />
+									</circleoftheland>
+									<circleofthemoon>
+										<public />
+									</circleofthemoon>
+								</category>
+							</abilities>
+							<features>
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<wildshape2>
+										<public />
+									</wildshape2>
+								</category>
+							</features>
+						</category>
+					</druid>
 					<fighter>
 						<public />
 						<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
