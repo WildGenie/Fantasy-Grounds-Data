@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <hotkeys version="3.3">
 	<bank number="0">
-		<key number="6">
-			<description>Map of Death House</description>
+		<key number="5">
+			<description>DM Map - Village of Barovia</description>
 			<icon>button_link</icon>
-			<dbref>image.id-00015@DD Curse of Strahd</dbref>
+			<dbref>image.id-00068@DD Curse of Strahd</dbref>
 			<data>
 				<type>shortcut</type>
 				<slot number="0">
 					<shortcut>
 						<class>imagewindow</class>
-						<datasource>image.id-00015@DD Curse of Strahd</datasource>
+						<datasource>image.id-00068@DD Curse of Strahd</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="6">
+			<description>Map - Village of Barovia</description>
+			<icon>button_link</icon>
+			<dbref>image.id-00021@DD Curse of Strahd</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>imagewindow</class>
+						<datasource>image.id-00021@DD Curse of Strahd</datasource>
 					</shortcut>
 				</slot>
 			</data>
@@ -91,6 +105,20 @@
 	<bank number="1">
 	</bank>
 	<bank number="2">
+		<key number="11">
+			<description>Brown Bear</description>
+			<icon>button_link</icon>
+			<dbref>reference.npcdata.brownbear@DD PHB Deluxe</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>npc</class>
+						<datasource>reference.npcdata.brownbear@DD PHB Deluxe</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
 	</bank>
 	<bank number="3">
 	</bank>

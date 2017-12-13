@@ -622,6 +622,67 @@
 					</rogue>
 				</category>
 			</classdata>
+			<equipmentdata>
+				<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+					<whetstone>
+						<public />
+					</whetstone>
+				</category>
+			</equipmentdata>
+			<npcdata>
+				<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+					<brownbear>
+						<public />
+						<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+							<abilities>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<charisma>
+										<public />
+									</charisma>
+									<constitution>
+										<public />
+									</constitution>
+									<dexterity>
+										<public />
+									</dexterity>
+									<intelligence>
+										<public />
+									</intelligence>
+									<strength>
+										<public />
+									</strength>
+									<wisdom>
+										<public />
+									</wisdom>
+								</category>
+							</abilities>
+							<actions>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<id-00001>
+										<public />
+									</id-00001>
+									<id-00002>
+										<public />
+									</id-00002>
+									<id-00003>
+										<public />
+									</id-00003>
+								</category>
+							</actions>
+							<traits>
+								<public />
+								<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+									<id-00001>
+										<public />
+									</id-00001>
+								</category>
+							</traits>
+						</category>
+					</brownbear>
+				</category>
+			</npcdata>
 			<racedata>
 				<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
 					<elf>
@@ -637,6 +698,43 @@
 					</elf>
 				</category>
 			</racedata>
+			<spelldata>
+				<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+					<findfamiliar>
+						<public />
+					</findfamiliar>
+					<knock>
+						<public />
+					</knock>
+					<levitate>
+						<public />
+					</levitate>
+					<locateobject>
+						<public />
+					</locateobject>
+					<magearmor>
+						<public />
+					</magearmor>
+					<magicmouth>
+						<public />
+					</magicmouth>
+					<mirrorimage>
+						<public />
+					</mirrorimage>
+					<nystul_smagicaura>
+						<public />
+					</nystul_smagicaura>
+					<seeinvisibility>
+						<public />
+					</seeinvisibility>
+					<suggestion>
+						<public />
+					</suggestion>
+					<web>
+						<public />
+					</web>
+				</category>
+			</spelldata>
 			<spelllists>
 				<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
 					<cleric>

@@ -142,6 +142,56 @@
 					</linklist>
 				</text>
 			</enc_18_03_23f_thorn_scrypt>
+			<enc_18_03_26_hiddenspikedpit>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>26. Hidden Spiked Pit</h>
+					<p>The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom (Perception) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing prone and taking 3 (1d6) bludgeoning damage from the fall plus 11 (2d10) piercing damage from the spikes.</p>
+					<p></p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00203@DD Curse of Strahd">Encounter: Hidden Spiked Pit Trap</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_26_hiddenspikedpit>
+			<enc_18_03_35_reliquary>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>35. Reliquary</h>
+					<p>The ghostly chant emanating from area 38 fills this room. Characters can discern a dozen or so voices saying, over and over, &#34;He is the Ancient. He is the Land.&#34;</p>
+					<p>The cult amassed several &#34;relics&#34; that it used in its rituals. These worthless items are stored in thirteen niches along the walls:</p>
+					<list>
+						<li>A small, mummified, yellow hand with sharp claws (a goblin's hand) on a loop of rope</li>
+						<li>A knife carved from a human bone</li>
+						<li>A dagger with a rat's skull set into the pommel</li>
+						<li>An 8-inch-diameter varnished orb made from a nothic's eye</li>
+						<li>An aspergillum carved from bone</li>
+						<li>A folded cloak made from stitched ghoul skin</li>
+						<li>A desiccated frog lashed to a stick (could be mistaken for a <i>wand of polymorph </i>)</li>
+						<li>A bag full of bat guano</li>
+						<li>A hag's severed finger</li>
+						<li>A 6-inch-tall wooden figurine of a mummy, its arms crossed over its chest</li>
+						<li>An iron pendant adorned with a devil's face</li>
+						<li>The shrunken, shriveled head of a halfling</li>
+						<li>A small wooden coffer containing a dire wolf's withered tongue</li>
+					</list>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00087@DD Curse of Strahd">Parcel: Cult &#34;Treasures&#34;</link>
+					</linklist>
+					<p>The southernmost tunnel slopes down at a 20-degree angle into murky water and ends at a rusty portcullis (area 37).</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_35_reliquary>
 		</category>
 		<category name="19. Appendix C: Treasures" baseicon="8" decalicon="1">
 		</category>
@@ -154,6 +204,9 @@
 	</encounter>
 	<image>
 		<category name="Curse of Strahd - DM Maps" baseicon="8" decalicon="1">
+			<id-00068>
+				<isidentified type="number">0</isidentified>
+			</id-00068>
 		</category>
 		<category name="Curse of Strahd - Handouts" baseicon="8" decalicon="1">
 			<id-00209>
@@ -173,437 +226,268 @@
 			</id-00211>
 		</category>
 		<category name="Curse of Strahd - Maps" baseicon="8" decalicon="1">
-			<id-00015>
+			<id-00004>
+				<isidentified type="number">1</isidentified>
+			</id-00004>
+			<id-00008>
 				<public />
 				<image type="image">
-					<bitmap>Map - Death House.jpg</bitmap>
-					<mask>maskedimages/1509644366.png</mask>
+					<bitmap>Map - Church.jpg</bitmap>
+					<mask>maskedimages/1512677270.png</mask>
 					<gridsize>32</gridsize>
-					<gridoffset>15,11</gridoffset>
+					<gridoffset>27,1</gridoffset>
 					<gridsnap>on</gridsnap>
 					<shortcuts>
 						<shortcut>
-							<x>665</x>
-							<y>85</y>
+							<x>279</x>
+							<y>399</y>
 							<class>encounter</class>
-							<recordname>encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd</recordname>
+							<recordname>encounter.enc_03_02_e5a_hall@DD Curse of Strahd</recordname>
 						</shortcut>
 						<shortcut>
-							<x>207</x>
-							<y>1289</y>
+							<x>219</x>
+							<y>454</y>
 							<class>encounter</class>
-							<recordname>encounter.enc_18_03_03_denofwolves@DD Curse of Strahd</recordname>
+							<recordname>encounter.enc_03_02_e5b_doru_sbedroom@DD Curse of Strahd</recordname>
 						</shortcut>
 						<shortcut>
-							<x>129</x>
-							<y>1081</y>
+							<x>214</x>
+							<y>383</y>
 							<class>encounter</class>
-							<recordname>encounter.enc_18_03_05_diningroom@DD Curse of Strahd</recordname>
+							<recordname>encounter.enc_03_02_e5c_donavich_sbedroom@DD Curse of Strahd</recordname>
 						</shortcut>
 						<shortcut>
-							<x>405</x>
-							<y>1178</y>
+							<x>367</x>
+							<y>446</y>
 							<class>encounter</class>
-							<recordname>encounter.enc_18_03_06_upperhall@DD Curse of Strahd</recordname>
+							<recordname>encounter.enc_03_02_e5d_trapdoor@DD Curse of Strahd</recordname>
 						</shortcut>
 						<shortcut>
-							<x>399</x>
-							<y>1071</y>
+							<x>359</x>
+							<y>386</y>
 							<class>encounter</class>
-							<recordname>encounter.enc_18_03_08_library@DD Curse of Strahd</recordname>
+							<recordname>encounter.enc_03_02_e5e_office@DD Curse of Strahd</recordname>
 						</shortcut>
 						<shortcut>
-							<x>495</x>
-							<y>1019</y>
+							<x>282</x>
+							<y>260</y>
 							<class>encounter</class>
-							<recordname>encounter.enc_18_03_09_secretroom@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>437</x>
-							<y>1301</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_10_conservatory@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>188</x>
-							<y>767</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_11_balcony@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>114</x>
-							<y>745</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_13_bathroom@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>111</x>
-							<y>796</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_14_storageroom@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>107</x>
-							<y>1346</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00004@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>109</x>
-							<y>1282</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00005@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>158</x>
-							<y>1187</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00006@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>162</x>
-							<y>1117</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00007@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>235</x>
-							<y>1085</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00008@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>238</x>
-							<y>1021</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00009@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>495</x>
-							<y>1096</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00010@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>440</x>
-							<y>1114</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00011@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>152</x>
-							<y>649</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00012@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>191</x>
-							<y>699</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00013@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>257</x>
-							<y>626</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00014@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>209</x>
-							<y>882</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00015@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>116</x>
-							<y>848</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00016@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>109</x>
-							<y>909</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00017@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>456</x>
-							<y>726</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_16_attichall@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>453</x>
-							<y>888</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_17_sparebedroom@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>377</x>
-							<y>796</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_18_storageroom@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>369</x>
-							<y>655</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_19_sparebedroom@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>450</x>
-							<y>641</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_20_children_sroom@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>351</x>
-							<y>736</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_21_secretstairs@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>761</x>
-							<y>251</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_22_dungeonlevelaccess@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>766</x>
-							<y>347</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_23_familycrypts@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>860</x>
-							<y>344</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_23_familycrypts@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>925</x>
-							<y>188</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_23a_emptycrypt@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>926</x>
-							<y>251</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_23b_walter_scrypt@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>923</x>
-							<y>317</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_23c_gustav_scrypt@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>925</x>
-							<y>382</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_23d_elisabeth_scrypt@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>713</x>
-							<y>315</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_23e_rose_scrypt@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>715</x>
-							<y>379</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_23f_thorn_scrypt@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>862</x>
-							<y>218</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_23_familycrypts@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>657</x>
-							<y>222</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_24_cultinitiates_quarters@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>510</x>
-							<y>347</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_25_wellandcultistquarters@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>530</x>
-							<y>265</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00018@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>464</x>
-							<y>265</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00019@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>432</x>
-							<y>364</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00020@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>462</x>
-							<y>460</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00021@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>529</x>
-							<y>460</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00022@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>674</x>
-							<y>478</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_26_hiddenspikedpit@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>767</x>
-							<y>443</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_27_dininghall@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>893</x>
-							<y>444</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_28_larder@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>766</x>
-							<y>536</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_29_ghoulishencounter@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>638</x>
-							<y>598</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_30_stairsdown@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>636</x>
-							<y>502</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_35_reliquary@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>917</x>
-							<y>636</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_31_darklord_sshrine@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>893</x>
-							<y>481</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_32_hiddentrapdoor@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>795</x>
-							<y>696</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_33_cultleaders_den@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>665</x>
-							<y>735</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_34_cultleaders_quarters@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>768</x>
-							<y>898</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_35_reliquary@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>638</x>
-							<y>988</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_30_stairsdown@DD Curse of Strahd</recordname>
-						</shortcut>
-						<shortcut>
-							<x>671</x>
-							<y>1116</y>
-							<class>encounter</class>
-							<recordname>encounter.enc_18_03_36_prison@DD Curse of Strahd</recordname>
+							<recordname>encounter.enc_03_02_e5f_chapel@DD Curse of Strahd</recordname>
 						</shortcut>
 						<shortcut>
 							<x>799</x>
-							<y>997</y>
+							<y>324</y>
 							<class>encounter</class>
-							<recordname>encounter.enc_18_03_37_portcullis@DD Curse of Strahd</recordname>
+							<recordname>encounter.enc_03_02_e5g_undercroft@DD Curse of Strahd</recordname>
 						</shortcut>
 						<shortcut>
-							<x>848</x>
-							<y>1132</y>
+							<x>797</x>
+							<y>103</y>
 							<class>encounter</class>
-							<recordname>encounter.enc_18_03_38_ritualchamber@DD Curse of Strahd</recordname>
+							<recordname>encounter.enc_03_02_e5_church@DD Curse of Strahd</recordname>
 						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>17</idcounter>
+						<idcounter>10</idcounter>
 						<tokenlock />
-						<scalelock>3.90625</scalelock>
+						<scalelock>10</scalelock>
 						<token>
-							<prototype>portrait_id-00007_token</prototype>
-							<id>15</id>
-							<x>800</x>
-							<y>412</y>
+							<prototype>tokens/campaign/Donavich.png@DD Curse of Strahd</prototype>
+							<id>1</id>
+							<x>300</x>
+							<y>210</y>
+							<unmodifiable />
 						</token>
 						<token>
-							<prototype>portrait_id-00006_token</prototype>
-							<id>14</id>
-							<x>768</x>
-							<y>444</y>
-						</token>
-						<token>
-							<prototype>portrait_id-00011_token</prototype>
-							<id>12</id>
-							<x>864</x>
-							<y>412</y>
+							<prototype>tokens/campaign/Doru.png@DD Curse of Strahd</prototype>
+							<id>2</id>
+							<x>620</x>
+							<y>242</y>
+							<unmodifiable />
+							<visibilitylocked>off</visibilitylocked>
 						</token>
 						<token>
 							<prototype>portrait_id-00009_token</prototype>
-							<id>5</id>
-							<x>768</x>
-							<y>412</y>
+							<id>6</id>
+							<x>300</x>
+							<y>242</y>
+							<scale>2.56</scale>
+						</token>
+						<token>
+							<prototype>tokens/campaign/Ismark the Lesser.png@DD Curse of Strahd</prototype>
+							<id>10</id>
+							<x>268</x>
+							<y>242</y>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00011_token</prototype>
+							<id>3</id>
+							<x>300</x>
+							<y>290</y>
+							<scale>2.56</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00007_token</prototype>
+							<id>8</id>
+							<x>268</x>
+							<y>290</y>
+							<scale>2.56</scale>
 						</token>
 						<token>
 							<prototype>portrait_id-00003_token</prototype>
 							<id>4</id>
-							<x>864</x>
-							<y>476</y>
+							<x>268</x>
+							<y>210</y>
+							<scale>2.56</scale>
+						</token>
+						<token>
+							<prototype>tokens/campaign/Ireena Kolyana.png@DD Curse of Strahd</prototype>
+							<id>9</id>
+							<x>236</x>
+							<y>434</y>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00006_token</prototype>
+							<id>5</id>
+							<x>204</x>
+							<y>466</y>
+							<scale>2.56</scale>
+						</token>
+					</tokens>
+				</image>
+				<locked type="number">1</locked>
+			</id-00008>
+			<id-00021>
+				<public />
+				<image type="image">
+					<bitmap>Map - Village of Barovia.jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>247</x>
+							<y>203</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_03_02_e6_cemetery@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>246</x>
+							<y>369</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_03_02_e5_church@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>457</x>
+							<y>736</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_03_02_e1_bildrath_smercantile@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>467</x>
+							<y>586</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_03_02_e2_bloodofthevinetavern@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>418</x>
+							<y>802</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_03_02_e3_madmary_stownhouse@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>800</x>
+							<y>554</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_03_02_e7_hauntedhouse@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>386</x>
+							<y>1065</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_03_02_e4_burgomaster_smansion@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>475</x>
+							<y>97</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_03_02_00areasofthevillage@DD Curse of Strahd</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>1</idcounter>
+						<token>
+							<prototype>portrait_id-00011_token</prototype>
+							<id>1</id>
+							<x>411</x>
+							<y>641</y>
+							<scale>0.2</scale>
 						</token>
 					</tokens>
 					<pointers>
 						<pointer>
 							<id>2</id>
 							<type>1</type>
-							<startx>304</startx>
-							<starty>700</starty>
-							<endx>112</endx>
-							<endy>700</endy>
+							<startx>196</startx>
+							<starty>1047</starty>
+							<endx>381</endx>
+							<endy>1065</endy>
 							<owner></owner>
 							<color>b95000</color>
 						</pointer>
+						<pointer>
+							<id>4</id>
+							<type>4</type>
+							<startx>386</startx>
+							<starty>1077</starty>
+							<endx>425</endx>
+							<endy>1033</endy>
+							<owner>id-00003</owner>
+							<color>ff007d00</color>
+						</pointer>
+						<pointer>
+							<id>3</id>
+							<type>1</type>
+							<startx>396</startx>
+							<starty>669</starty>
+							<endx>454</endx>
+							<endy>721</endy>
+							<owner></owner>
+							<color>b95000</color>
+						</pointer>
+						<pointer>
+							<id>4</id>
+							<type>1</type>
+							<startx>275</startx>
+							<starty>786</starty>
+							<endx>395</endx>
+							<endy>794</endy>
+							<owner></owner>
+							<color>b95000</color>
+						</pointer>
+						<pointer>
+							<id>5</id>
+							<type>1</type>
+							<startx>97</startx>
+							<starty>494</starty>
+							<endx>224</endx>
+							<endy>401</endy>
+							<owner></owner>
+							<color>b95000</color>
+						</pointer>
+						<pointer>
+							<id>1</id>
+							<type>1</type>
+							<startx>720</startx>
+							<starty>530</starty>
+							<endx>780</endx>
+							<endy>549</endy>
+							<owner>id-00006</owner>
+							<color>ff6e2dff</color>
+						</pointer>
 					</pointers>
 				</image>
-			</id-00015>
+				<isidentified type="number">1</isidentified>
+			</id-00021>
 		</category>
 		<category name="Curse of Strahd - Monsters" baseicon="8" decalicon="1">
 			<id-00030>
@@ -621,8 +505,17 @@
 					<bitmap>Black Pudding.jpg</bitmap>
 				</image>
 			</id-00223>
+			<id-00237>
+				<public />
+			</id-00237>
 		</category>
 		<category name="Curse of Strahd - NPCs" baseicon="8" decalicon="1">
+			<id-00092>
+				<public />
+			</id-00092>
+			<id-00093>
+				<public />
+			</id-00093>
 			<id-00126>
 				<public />
 			</id-00126>
@@ -641,6 +534,9 @@
 			<id-00084>
 				<public />
 			</id-00084>
+			<id-00102>
+				<public />
+			</id-00102>
 			<id-00112>
 				<image type="image">
 					<bitmap>Strahd Epilogue.jpg</bitmap>
@@ -660,6 +556,10 @@
 					<bitmap>Tome of Strahd.jpg</bitmap>
 				</image>
 			</id-00127>
+			<id-00132>
+				<public />
+				<isidentified type="number">1</isidentified>
+			</id-00132>
 		</category>
 		<category name="Curse of Strahd - Tarokka" baseicon="8" decalicon="1">
 			<id-00159>
@@ -697,4 +597,21 @@
 		<category name="Curse of Strahd - Traps" baseicon="8" decalicon="1">
 		</category>
 	</npc>
+	<treasureparcels>
+		<category name="Curse of Strahd - Parcels" baseicon="8" decalicon="1">
+			<id-00087>
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+					<itemlist>
+						<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+							<id-00007>
+								<isidentified type="number">0</isidentified>
+								<locked type="number">1</locked>
+								<nonid_name type="string">Wand</nonid_name>
+							</id-00007>
+						</category>
+					</itemlist>
+				</category>
+			</id-00087>
+		</category>
+	</treasureparcels>
 </root>
